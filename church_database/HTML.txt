@@ -12,8 +12,12 @@
     <th style="width:16%;" onclick="sortTable(5)">Contact Info</th>
   </tr>
 
-10:00 AM
-
-</table>
-</div>
+    <tr>
+        <td><a href=youtube.com target="blank">Central Christian Church</a>🎒</td>
+        <td>10:00 AM</td>
+        <td>1110 Guadalupe St, Austin, TX 78701</td>
+        <td>0.9</td>
+        <td>Baptist</td>
+        <td>jliew626@gmail.com</td>
+    </tr>
 

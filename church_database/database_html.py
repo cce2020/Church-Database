@@ -37,9 +37,10 @@ while(notEmpty):
     # Formating time
     hour = time.hour
     min = time.minute
+
+    # Add zero to minute if less than 10
     if min < 10:
         min = '0'+str(min)
-    notEmpty = 0
 
     # Check if AM or PM
     apm = ''
@@ -56,9 +57,6 @@ while(notEmpty):
         hour = 12
     time = ('{}:{} {}'.format(hour, min, apm))
 
-    print(time)
-
-'''
     # Print out HTML code
     print('    <tr>')
     # Check for college ministry
@@ -75,13 +73,10 @@ while(notEmpty):
     print('        <td>{}</td>'.format(cont))
     print('    </tr>')
 
-
-
     i = i + 1
     name = sheet['A{}'.format(i)].value
     if not name:
         notEmpty = 0
-    '''
 
 print()
 print("</table>\n</div>\n")
