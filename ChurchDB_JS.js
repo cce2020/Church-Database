@@ -19,16 +19,20 @@ function sortTable(n) {
       one from current row and one from the next: */
       x = rows[i].getElementsByTagName("TD")[n];
       y = rows[i + 1].getElementsByTagName("TD")[n];
+      var cmpX=isNaN(parseFloat(x.innerHTML))?x.innerHTML.toLowerCase():parseFloat(x.innerHTML);
+      var cmpY=isNaN(parseFloat(y.innerHTML))?y.innerHTML.toLowerCase():parseFloat(y.innerHTML);
+      cmpX=(cmpX=='-')?0:cmpX;
+      cmpY=(cmpY=='-')?0:cmpY;
       /* Check if the two rows should switch place,
       based on the direction, asc or desc: */
       if (dir == "asc") {
-        if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+        if (cmpX > cmpY) {
           // If so, mark as a switch and break the loop:
           shouldSwitch = true;
           break;
         }
       } else if (dir == "desc") {
-        if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {
+        if (cmpX < cmpY) {
           // If so, mark as a switch and break the loop:
           shouldSwitch = true;
           break;
@@ -48,6 +52,19 @@ function sortTable(n) {
       if (switchcount == 0 && dir == "asc") {
         dir = "desc";
         switching = true;
+      }
+    }
+  }
+}
+function CB() {
+  var rows = document.getElementById("myTable").rows;
+  for (var a = 1; a < rows.length; a++) {
+    var churchname = rows[a].cells[0].innerHTML;
+    if (churchname.includes("📖")) {
+      if (rows[a].style.display == "") {
+        rows[a].style.display = "none";
+      } else if (rows[a].style.display == "none") {
+        rows[a].style.display = "";
       }
     }
   }

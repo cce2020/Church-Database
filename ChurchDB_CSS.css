@@ -1,12 +1,26 @@
+div {
+  font-family: Spartan, sans-serif;  /* Select font: Spartan */
+}
+
+h1 {  /* Filler if h1 is added */
+  font-size: 18px;
+  margin: 5px;
+}
+
+p {  /* Filler if p is added */
+  font-size: 14px;
+  margin-bottom: 10px;
+  margin-top: 5px;
+}
+
 #myTable {
+  font-size: 18px;  /* Increase font-size */
   border-collapse: collapse;  /* Collapse borders */
   width: 100%;  /* Full-width */
-  font-family: "Spartan";  /* Select font: Spartan */
-  font-size: 18px;  /* Increase font-size */
 }
 
 #myTable th {
-  background-color: #FE6264; /* Make header red */
+  background-color: #536eb4; /* Make header red */
   color: white;  /* Make header text white */
 }
 
@@ -16,12 +30,13 @@
   border-left: 2px solid #ddd;  /* Vertical borders */
 }
 
-#myTable td:first-child, #myTable th:first-child {
-  border-left: none;  /* Remove left-most border */
-}
-
 #myTable tr {
   border-bottom: 1px solid #ddd;  /* Add a bottom border to all table rows */
+  line-height: 28px;  /* Same row height */
+}
+
+#myTable td:first-child, #myTable th:first-child {
+  border-left: none;  /* Remove left-most border */
 }
 
 #myTable tr:nth-child(even) {
@@ -30,4 +45,9 @@
 
 #myTable tr:hover {
   background-color: #ddd;  /* Highlight on hover */
+}
+
+a:link, a:visited {
+  color: black;  /* Black hyperlink text */
+  text-decoration: underline;  /* Underline hyperlink */
 }
