@@ -56,6 +56,8 @@ function sortTable(n) {
     }
   }
 }
+
+/* TO BE REMOVED >> ONLY TEMP HERE FOR REFERENCE
 function CB() {
   var rows = document.getElementById("myTable").rows;
   for (var a = 1; a < rows.length; a++) {
@@ -67,5 +69,46 @@ function CB() {
         rows[a].style.display = "";
       }
     }
+  }
+}*/
+
+/* Note: Many parts in this function could've been done differently, 
+but for the sake of reducing runtime, this is the format I have chosen */
+function submit() {
+	// Init arrays, table, and checked checkboxes
+  var CBworshipTime, CBdistance, CBdenomination = [];
+  var CBcollegeMin = false;
+  var rows = document.getElementById("myTable").rows;
+  var checkedBoxes = document.querySelectorAll('input[type=checkbox]:checked');
+  
+  // Sort columns/categories of checked checkboxes
+  for (var cb of checkedBoxes) {
+    if (cb.name == "time") {
+    	CBworshipTime.push(cb.id);
+    } else if (cb.name == "distance") {
+    	CBdistance.push(cb.id);
+    } else if (cb.name == "denomination") {
+    	CBdenomination.push(cb.id);
+    } else if (cb.name == "collegeMin") {
+    	CBcollegeMin = true;
+    }
+  }
+  
+  // Bools to check if no checkboxes were selected for each column/category
+  var timeArrayExists = Array.isArray(CBworshipTime) && CBworshipTime.length;
+  var distanceArrayExists = Array.isArray(CBdistance) && CBdistance.length;
+  var denominationArrayExists = Array.isArray(CBdenomination) && CBdenomination.length;
+  
+  // Checks every row
+  for (var i = 1; i < rows.length; i++) {    
+    // If any of the conditions are broken, hide current row and move on to next one
+    if ((timeArrayExists && !CBworshipTime.includes(rows[i].cells[1].innerHTML)) ||
+    	  (distanceArrayExists && !CBdistance.includes(rows[i].cells[3].innerHTML)) ||
+        (denominationArrayExists && !CBdenomination.includes(rows[i].cells[4].innerHTML.toLowerCase())) ||
+        (CBcollegeMin && !rows[i].cells[0].innerHTML.includes("📖"))) {
+    	rows[i].style.display = "none";
+      continue;
+    }
+    rows[i].style.display = "";
   }
 }
