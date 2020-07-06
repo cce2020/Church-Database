@@ -15,30 +15,86 @@ function sortTable(n) {
     for (i = 1; i < (rows.length - 1); i++) {
       // Start by saying there should be no switching:
       shouldSwitch = false;
-      /* Get the two elements you want to compare,
-      one from current row and one from the next: */
-      x = rows[i].getElementsByTagName("TD")[n];
-      y = rows[i + 1].getElementsByTagName("TD")[n];
-      var cmpX=isNaN(parseFloat(x.innerHTML))?x.innerHTML.toLowerCase():parseFloat(x.innerHTML);
-      var cmpY=isNaN(parseFloat(y.innerHTML))?y.innerHTML.toLowerCase():parseFloat(y.innerHTML);
-      cmpX=(cmpX=='-')?0:cmpX;
-      cmpY=(cmpY=='-')?0:cmpY;
-      /* Check if the two rows should switch place,
-      based on the direction, asc or desc: */
-      if (dir == "asc") {
-        if (cmpX > cmpY) {
-          // If so, mark as a switch and break the loop:
-          shouldSwitch = true;
-          break;
+      // The Column for the Name:
+      if (n == 0) {
+      	x = rows[i].cells[0].innerHTML;
+      	y = rows[i + 1].cells[0].innerHTML;
+        // Get name for every church:
+        var x1 = x.substring(x.indexOf(">") + 1);
+        var y1 = y.substring(y.indexOf(">") + 1);
+        /* Check if the two rows should switch place,
+      	based on the direction, asc or desc: */
+        if (dir == "asc") {
+        	if (x1 > y1) {
+          	// If so, mark as a switch and break the loop:
+          	shouldSwitch = true;
+           	break;
+          }
         }
-      } else if (dir == "desc") {
-        if (cmpX < cmpY) {
-          // If so, mark as a switch and break the loop:
-          shouldSwitch = true;
-          break;
+          else if (dir == "desc") {
+          	if (x1 < y1) {
+            	// If so, mark as a switch and break the loop:
+             	shouldSwitch = true;
+             	break;
+            }
+          }
+        } // The Column for the Time:
+      else if (n == 1) {
+      	// Get two elements you want to compare within the row:
+        x = rows[i].cells[1].innerHTML;
+      	y = rows[i + 1].cells[1].innerHTML;
+        // First priority is the time:
+        var x1 = x.substring(5, 6);
+        var y1 = y.substring(5, 6);
+        // The next priority is the number:
+        var strx = x.substring(1, 3);
+        var stry = y.substring(1, 3);
+        /* Check if the two rows should switch place,
+      	based on the direction, asc or desc: */
+        if (dir == "asc") {
+        	if (x1 > y1) {
+          	if (strx > stry) { 
+          		// If so, mark as a switch and break the loop:
+          		shouldSwitch = true;
+           		break;
+            }
+          }
         }
-      }
-    }
+          else if (dir == "desc") {
+          	if (x1 < y1) {
+            	if (strx < stry) {
+              	// If so, mark as a switch and break the loop:
+              	shouldSwitch = true;
+              	break;
+              }
+            }
+          }
+        } //The column for everything else:
+      else {
+      	/* Get the two elements you want to compare,
+      	one from current row and one from the next: */
+      	x = rows[i].getElementsByTagName("TD")[n];
+      	y = rows[i + 1].getElementsByTagName("TD")[n];
+      	var cmpX=isNaN(parseFloat(x.innerHTML))?x.innerHTML.toLowerCase():parseFloat(x.innerHTML);
+      	var cmpY=isNaN(parseFloat(y.innerHTML))?y.innerHTML.toLowerCase():parseFloat(y.innerHTML);
+      	cmpX=(cmpX=='-')?0:cmpX;
+      	cmpY=(cmpY=='-')?0:cmpY;
+      	/* Check if the two rows should switch place,
+      	based on the direction, asc or desc: */
+      	if (dir == "asc") {
+        	if (cmpX > cmpY) {
+          	// If so, mark as a switch and break the loop:
+          	shouldSwitch = true;
+          	break;
+        	}
+      	} else if (dir == "desc") {
+        	if (cmpX < cmpY) {
+          	// If so, mark as a switch and break the loop:
+          	shouldSwitch = true;
+          	break;
+       	  }
+      	}
+    	}
     if (shouldSwitch) {
       /* If a switch has been marked, make the switch
       and mark that a switch has been done: */
@@ -52,6 +108,7 @@ function sortTable(n) {
       if (switchcount == 0 && dir == "asc") {
         dir = "desc";
         switching = true;
+        }
       }
     }
   }
