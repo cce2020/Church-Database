@@ -2,16 +2,49 @@ div {
   font-family: Spartan, sans-serif;  /* Select font: Spartan */
 }
 
-h1 {  /* Filler if h1 is added */
+/* Collapsible */
+
+/* Style the button that is used to open and close the collapsible content */
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-family: Spartan, sans-serif;  /* Select font: Spartan */
   font-size: 18px;
-  margin: 5px;
 }
 
-p {  /* Filler if p is added */
-  font-size: 14px;
-  margin-bottom: 10px;
-  margin-top: 5px;
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+  background-color: #aaa;
 }
+
+.content {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+.collapsible::after {
+  content: '\002B';
+  color: white;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.active::after {
+  content: "\2212"; /* Unicode character for "minus" sign (-) */
+}
+
+
+/* Table */
 
 #myTable {
   font-size: 18px;  /* Increase font-size */
