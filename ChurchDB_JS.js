@@ -114,23 +114,21 @@ function sortTable(n) {
   }
 }
 
-/* TO BE REMOVED >> ONLY TEMP HERE FOR REFERENCE
-function CB() {
-  var rows = document.getElementById("myTable").rows;
-  for (var a = 1; a < rows.length; a++) {
-    var churchname = rows[a].cells[0].innerHTML;
-    if (churchname.includes("📖")) {
-      if (rows[a].style.display == "") {
-        rows[a].style.display = "none";
-      } else if (rows[a].style.display == "none") {
-        rows[a].style.display = "";
-      }
-    }
-  }
-}*/
+var coll = document.getElementsByClassName("collapsible");
+var i;
 
-/* Note: Many parts in this function could've been done differently, 
-but for the sake of reducing runtime, this is the format I have chosen */
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    }
+  });
+}
+
 function submit() {
 	// Init arrays, table, and checked checkboxes
   var CBworshipTime, CBdistance, CBdenomination = [];
@@ -162,7 +160,7 @@ function submit() {
     if ((timeArrayExists && !CBworshipTime.includes(rows[i].cells[1].innerHTML)) ||
     	  (distanceArrayExists && !CBdistance.includes(rows[i].cells[3].innerHTML)) ||
         (denominationArrayExists && !CBdenomination.includes(rows[i].cells[4].innerHTML.toLowerCase())) ||
-        (CBcollegeMin && !rows[i].cells[0].innerHTML.includes("📖"))) {
+        (CBcollegeMin && !rows[i].cells[0].innerHTML.includes("🎒"))) {
     	rows[i].style.display = "none";
       continue;
     }
