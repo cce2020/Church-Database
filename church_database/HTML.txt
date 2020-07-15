@@ -135,7 +135,7 @@
 
     <tr>
         <td><a href=https://www.allsaints-austin.org/ target="blank">All Saints' Episcopal Church</a>🎒</td>
-        <td>10:30 AM</td>
+        <td>10:30 AM<br>8:00 AM<br>6:30 AM</td>
         <td>209 W 27th St, Austin, TX 78705</td>
         <td>0.4</td>
         <td>Episcopal</td>
@@ -144,7 +144,7 @@
 
     <tr>
         <td><a href=https://fumcaustin.org/ target="blank">First United Methodist Church of Austin</a></td>
-        <td>11:00 AM</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1201 Lavaca St, Austin, TX 78701</td>
         <td>0.9</td>
         <td>Methodist</td>
@@ -153,7 +153,7 @@
 
     <tr>
         <td><a href=https://austinstone.org/ target="blank">The Austin Stone</a>🎒</td>
-        <td>11:00 AM</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1715 W Cesar Chavez St, Austin, TX 78703</td>
         <td>2.8</td>
         <td>Baptist</td>
@@ -162,7 +162,7 @@
 
     <tr>
         <td><a href=http://www.churchateast.com/ target="blank">Church At East</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2830 Real St, Austin, TX 78722</td>
         <td>1.3</td>
         <td>None</td>
@@ -171,7 +171,7 @@
 
     <tr>
         <td><a href=None target="blank">Gracepoint Austin Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>405 W 22nd St, Austin, TX 78705</td>
         <td>0.2</td>
         <td>None</td>
@@ -180,7 +180,7 @@
 
     <tr>
         <td><a href=None target="blank">St. David's Episcopal Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>301 E 8th St, Austin, TX 78701</td>
         <td>0.9</td>
         <td>None</td>
@@ -189,7 +189,7 @@
 
     <tr>
         <td><a href=None target="blank">Tarrytown United Methodist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2601 Exposition Blvd, Austin, TX 78703</td>
         <td>2.1</td>
         <td>None</td>
@@ -198,7 +198,7 @@
 
     <tr>
         <td><a href=None target="blank">Christ Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>112 Medina St, Austin, TX 78702</td>
         <td>1.5</td>
         <td>None</td>
@@ -207,7 +207,7 @@
 
     <tr>
         <td><a href=None target="blank">First Baptist Church of Austin</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>901 Trinity St, Austin, TX 78701</td>
         <td>0.8</td>
         <td>None</td>
@@ -216,7 +216,7 @@
 
     <tr>
         <td><a href=None target="blank">Eastside Community Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1190 Chicon St #2100, Austin, TX 78702</td>
         <td>1.1</td>
         <td>None</td>
@@ -225,7 +225,7 @@
 
     <tr>
         <td><a href=None target="blank">University Ave Church of Christ</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1903 University Ave, Austin, TX 78705</td>
         <td>0.5</td>
         <td>None</td>
@@ -234,7 +234,7 @@
 
     <tr>
         <td><a href=None target="blank">Trinity Church of Austin</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>4001 Speedway, Austin, TX 78751</td>
         <td>1.1</td>
         <td>None</td>
@@ -243,7 +243,7 @@
 
     <tr>
         <td><a href=None target="blank">University Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2130 Guadalupe St, Austin, TX 78705</td>
         <td>0.2</td>
         <td>None</td>
@@ -252,7 +252,7 @@
 
     <tr>
         <td><a href=None target="blank">Providence Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1110 Guadalupe St, Austin, TX 78701</td>
         <td>0.9</td>
         <td>None</td>
@@ -261,7 +261,7 @@
 
     <tr>
         <td><a href=None target="blank">Congregational Church of Austin</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>408 W 23rd St #5214, Austin, TX 78705</td>
         <td>0.1</td>
         <td>None</td>
@@ -270,7 +270,7 @@
 
     <tr>
         <td><a href=None target="blank">Hyde Park Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>3901 Speedway, Austin, TX 78751</td>
         <td>1.1</td>
         <td>None</td>
@@ -279,7 +279,7 @@
 
     <tr>
         <td><a href=None target="blank">Hillcrest Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>3838 Steck Ave, Austin, TX 78759</td>
         <td>6.9</td>
         <td>None</td>
@@ -288,7 +288,7 @@
 
     <tr>
         <td><a href=None target="blank">Grace Covenant Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>9431 Jollyville Rd, Austin, TX 78759</td>
         <td>7.9</td>
         <td>None</td>
@@ -297,7 +297,7 @@
 
     <tr>
         <td><a href=None target="blank">Joshua Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2000 Justin Ln, Austin, TX 78757</td>
         <td>4.4</td>
         <td>None</td>
@@ -306,7 +306,7 @@
 
     <tr>
         <td><a href=None target="blank">Gateway Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>5600 Sunshine Dr, Austin, TX 78756</td>
         <td>3.1</td>
         <td>None</td>
@@ -315,7 +315,7 @@
 
     <tr>
         <td><a href=None target="blank">Northwest Hills United Methodist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>7050 Village Center Dr, Austin, TX 78731</td>
         <td>5.7</td>
         <td>None</td>
@@ -324,7 +324,7 @@
 
     <tr>
         <td><a href=None target="blank">Austin Life Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>5925 Dillard Cir, Austin, TX 78752</td>
         <td>3.3</td>
         <td>None</td>
@@ -333,7 +333,7 @@
 
     <tr>
         <td><a href=None target="blank">Great Hills Batist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>10500 Jollyville Rd, Austin, TX 78759</td>
         <td>8.9</td>
         <td>None</td>
@@ -342,7 +342,7 @@
 
     <tr>
         <td><a href=None target="blank">The Quarries Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>11400 MoPac Expy, Austin, TX 78759</td>
         <td>9.4</td>
         <td>None</td>
@@ -351,7 +351,7 @@
 
     <tr>
         <td><a href=None target="blank">North Village Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>3025 Crosscreek Dr, Austin, TX 78757</td>
         <td>6.4</td>
         <td>None</td>
@@ -360,7 +360,7 @@
 
     <tr>
         <td><a href=None target="blank">Highland Park Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>5206 Balcones Dr, Austin, TX 78731</td>
         <td>4.1</td>
         <td>None</td>
@@ -369,7 +369,7 @@
 
     <tr>
         <td><a href=None target="blank">Covenant Presbyterian Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>3003 Northland Dr, Austin, TX 78757</td>
         <td>4</td>
         <td>None</td>
@@ -378,7 +378,7 @@
 
     <tr>
         <td><a href=None target="blank">Brentwood Bible Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>6301 Woodrow Ave, Austin, TX 78757</td>
         <td>3.7</td>
         <td>None</td>
@@ -387,7 +387,7 @@
 
     <tr>
         <td><a href=None target="blank">Hope Community Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>5908 Manor Rd, Austin, TX 78723</td>
         <td>3.7</td>
         <td>None</td>
@@ -396,7 +396,7 @@
 
     <tr>
         <td><a href=None target="blank">Westover Hills Church of Christ</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>8332 Mesa Dr, Austin, TX 78759</td>
         <td>7.3</td>
         <td>None</td>
@@ -405,7 +405,7 @@
 
     <tr>
         <td><a href=None target="blank">Crossroads Church Austin</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>12424 Scofield Farms Dr, Austin, TX 78758</td>
         <td>10</td>
         <td>None</td>
@@ -414,7 +414,7 @@
 
     <tr>
         <td><a href=None target="blank">Covenant United Methodist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>4410 Duval Rd #6808, Austin, TX 78727</td>
         <td>10.2</td>
         <td>None</td>
@@ -423,7 +423,7 @@
 
     <tr>
         <td><a href=None target="blank">Highland Village Church of Christ</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>4716 Bull Creek Rd, Austin, TX 78731</td>
         <td>3.1</td>
         <td>None</td>
@@ -432,7 +432,7 @@
 
     <tr>
         <td><a href=None target="blank">University Presbyterian Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2203 San Antonio St, Austin, TX 78705</td>
         <td>0.2</td>
         <td>None</td>
@@ -441,7 +441,7 @@
 
     <tr>
         <td><a href=None target="blank">United Christian Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>3500 W Parmer Ln, Austin, TX 78727</td>
         <td>10.8</td>
         <td>None</td>
@@ -450,7 +450,7 @@
 
     <tr>
         <td><a href=None target="blank">Red River Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>4425 Red River St, Austin, TX 78751</td>
         <td>1.3</td>
         <td>None</td>
@@ -459,7 +459,7 @@
 
     <tr>
         <td><a href=None target="blank">Church of Christ in Hyde Park</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>310 W 43rd St, Austin, TX 78751</td>
         <td>1.5</td>
         <td>None</td>
@@ -468,7 +468,7 @@
 
     <tr>
         <td><a href=None target="blank">Servant Church Austin</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1605 E 38th 1/2 St, Austin, TX 78722</td>
         <td>1.2</td>
         <td>None</td>
@@ -477,7 +477,7 @@
 
     <tr>
         <td><a href=None target="blank">Northwest Church of Christ</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>4610 Duval Rd, Austin, TX 78727</td>
         <td>10.4</td>
         <td>None</td>
@@ -486,7 +486,7 @@
 
     <tr>
         <td><a href=None target="blank">Memorial United Methodist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>6100 Berkman Dr, Austin, TX 78723</td>
         <td>3.5</td>
         <td>None</td>
@@ -495,7 +495,7 @@
 
     <tr>
         <td><a href=None target="blank">Milwood Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>12217 Cassady Dr, Austin, TX 78727</td>
         <td>10.4</td>
         <td>None</td>
@@ -504,7 +504,7 @@
 
     <tr>
         <td><a href=None target="blank">St. Johns Episcopal Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>11201 Parkfield Dr, Austin, TX 78758</td>
         <td>7.8</td>
         <td>None</td>
@@ -513,7 +513,7 @@
 
     <tr>
         <td><a href=None target="blank">Midtown Church Austin</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>3308 Hampton Rd, Austin, TX 78705</td>
         <td>0.5</td>
         <td>None</td>
@@ -522,7 +522,7 @@
 
     <tr>
         <td><a href=None target="blank">5twelve City Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2312 San Gabriel St, Austin, TX 78712</td>
         <td>0.4</td>
         <td>None</td>
@@ -531,7 +531,7 @@
 
     <tr>
         <td><a href=None target="blank">First Presbyterian Church of Austin</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>8001 Mesa Dr, Austin, TX 78731</td>
         <td>7.1</td>
         <td>None</td>
@@ -540,7 +540,7 @@
 
     <tr>
         <td><a href=None target="blank">Episcopal Church of the Resurrection</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2200 Justin Ln, Austin, TX 78757</td>
         <td>4.4</td>
         <td>None</td>
@@ -549,7 +549,7 @@
 
     <tr>
         <td><a href=None target="blank">Radiant Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>7020 US-290 suite d, Austin, TX 78723</td>
         <td>4</td>
         <td>None</td>
@@ -558,7 +558,7 @@
 
     <tr>
         <td><a href=None target="blank">Church of the Cross</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1618 Ashberry Dr, Austin, TX 78723</td>
         <td>3.6</td>
         <td>None</td>
@@ -567,7 +567,7 @@
 
     <tr>
         <td><a href=None target="blank">University United Methodist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2409 Guadalupe St, Austin, TX 78705</td>
         <td>0.1</td>
         <td>None</td>
@@ -576,7 +576,7 @@
 
     <tr>
         <td><a href=None target="blank">Red Rocks Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>7625 N Interstate Hwy 35, Austin, TX 78752</td>
         <td>4.3</td>
         <td>None</td>
@@ -585,7 +585,7 @@
 
     <tr>
         <td><a href=None target="blank">Westminster Presbyterian Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>3208 Exposition Blvd, Austin, TX 78703</td>
         <td>2.5</td>
         <td>None</td>
@@ -594,7 +594,7 @@
 
     <tr>
         <td><a href=None target="blank">Promiseland Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1504 E 51st St, Austin, TX 78723</td>
         <td>2.6</td>
         <td>None</td>
@@ -603,7 +603,7 @@
 
     <tr>
         <td><a href=None target="blank">Saint Albert the Great Catholic Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>12041 Bittern Hollow, Austin, TX 78758</td>
         <td>9.1</td>
         <td>None</td>
@@ -612,7 +612,7 @@
 
     <tr>
         <td><a href=None target="blank">Alpha Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>3016 E 51st St, Austin, TX 78723</td>
         <td>3.2</td>
         <td>None</td>
@@ -621,7 +621,7 @@
 
     <tr>
         <td><a href=None target="blank">The Church of Jesus Christ of Latter-day Saints</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2020 San Antonio St, Austin, TX 78705</td>
         <td>0.4</td>
         <td>None</td>
@@ -630,7 +630,7 @@
 
     <tr>
         <td><a href=None target="blank">St. Mark United Methodist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>601 W Braker Ln, Austin, TX 78753</td>
         <td>7.5</td>
         <td>None</td>
@@ -639,7 +639,7 @@
 
     <tr>
         <td><a href=None target="blank">Hyde Park Christian Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>610 E 45th St, Austin, TX 78751</td>
         <td>1.5</td>
         <td>None</td>
@@ -648,7 +648,7 @@
 
     <tr>
         <td><a href=None target="blank">Hyde Park Presbyterian Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>3913 Avenue B, Austin, TX 78751</td>
         <td>1.3</td>
         <td>None</td>
@@ -657,7 +657,7 @@
 
     <tr>
         <td><a href=None target="blank">St Matthew's Episcopal Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>8134 Mesa Dr, Austin, TX 78759</td>
         <td>7.2</td>
         <td>None</td>
@@ -666,7 +666,7 @@
 
     <tr>
         <td><a href=None target="blank">Walnut Creek Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>12062 N Lamar Blvd, Austin, TX 78753</td>
         <td>8.6</td>
         <td>None</td>
@@ -675,7 +675,7 @@
 
     <tr>
         <td><a href=None target="blank">Trinity Lutheran Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1207 W 45th St, Austin, TX 78756</td>
         <td>2.2</td>
         <td>None</td>
@@ -684,7 +684,7 @@
 
     <tr>
         <td><a href=None target="blank">St. Stephens Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>3107 E 51st St, Austin, TX 78723</td>
         <td>3.3</td>
         <td>None</td>
@@ -693,7 +693,7 @@
 
     <tr>
         <td><a href=None target="blank">Faith Lutheran Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>6600 Woodrow Ave, Austin, TX 78757</td>
         <td>3.9</td>
         <td>None</td>
@@ -702,7 +702,7 @@
 
     <tr>
         <td><a href=None target="blank">St. Paul Lutheran Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>3501 Red River St, Austin, TX 78705</td>
         <td>0.6</td>
         <td>None</td>
@@ -711,7 +711,7 @@
 
     <tr>
         <td><a href=None target="blank">St. George's Episcopal Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>4301 N Interstate Hwy 35, Austin, TX 78722</td>
         <td>1.3</td>
         <td>None</td>
@@ -720,7 +720,7 @@
 
     <tr>
         <td><a href=None target="blank">Dreamer's Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>7601 Guadalupe St, Austin, TX 78752</td>
         <td>4.2</td>
         <td>None</td>
@@ -729,7 +729,7 @@
 
     <tr>
         <td><a href=None target="blank">Triumphant Love Lutheran Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>9508 Great Hills Trail, Austin, TX 78759</td>
         <td>8.8</td>
         <td>None</td>
@@ -738,7 +738,7 @@
 
     <tr>
         <td><a href=None target="blank">Crossroads Church Austin</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>12424 Scofield Farms Dr, Austin, TX 78758</td>
         <td>10</td>
         <td>None</td>
@@ -747,7 +747,7 @@
 
     <tr>
         <td><a href=None target="blank">Saint Louis King of France Catholic Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>7601 Burnet Rd, Austin, TX 78757</td>
         <td>5</td>
         <td>None</td>
@@ -756,7 +756,7 @@
 
     <tr>
         <td><a href=None target="blank">Crestview United Methodist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1300 Morrow St, Austin, TX 78757</td>
         <td>4.6</td>
         <td>None</td>
@@ -765,7 +765,7 @@
 
     <tr>
         <td><a href=None target="blank">Heaven's Harvest</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1734 Rutland Dr, Austin, TX 78758</td>
         <td>7</td>
         <td>None</td>
@@ -774,7 +774,7 @@
 
     <tr>
         <td><a href=None target="blank">Ascension Lutheran Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>6420 Hart Ln, Austin, TX 78731</td>
         <td>5</td>
         <td>None</td>
@@ -783,7 +783,7 @@
 
     <tr>
         <td><a href=None target="blank">Cameron Road Church of Christ</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>6014 Cameron Rd, Austin, TX 78723</td>
         <td>3</td>
         <td>None</td>
@@ -792,7 +792,7 @@
 
     <tr>
         <td><a href=None target="blank">St. Francis Anglican Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>3401 Oak Creek Dr, Austin, TX 78727</td>
         <td>10.7</td>
         <td>None</td>
@@ -801,7 +801,7 @@
 
     <tr>
         <td><a href=None target="blank">Acts Fellowship Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>211 W Koenig Ln, Austin, TX 78751</td>
         <td>2.8</td>
         <td>None</td>
@@ -810,7 +810,7 @@
 
     <tr>
         <td><a href=None target="blank">Mt. Sinai Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>8500 Cameron Rd, Austin, TX 78754</td>
         <td>5</td>
         <td>None</td>
@@ -819,7 +819,7 @@
 
     <tr>
         <td><a href=None target="blank">Redeemer Lutheran Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1500 W Anderson Ln, Austin, TX 78757</td>
         <td>5</td>
         <td>None</td>
@@ -828,7 +828,7 @@
 
     <tr>
         <td><a href=None target="blank">Our Lady's Maronite Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1320 E 51st St, Austin, TX 78723</td>
         <td>2.4</td>
         <td>None</td>
@@ -837,7 +837,7 @@
 
     <tr>
         <td><a href=None target="blank">Koenig Lane Christian Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>908 Old Koenig Ln, Austin, TX 78756</td>
         <td>3.1</td>
         <td>None</td>
@@ -846,7 +846,7 @@
 
     <tr>
         <td><a href=None target="blank">First Unitarian Universalist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>4700 Grover Ave, Austin, TX 78756</td>
         <td>2.7</td>
         <td>None</td>
@@ -855,7 +855,7 @@
 
     <tr>
         <td><a href=None target="blank">The Episcopal Church of the Good Shepherd</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>3201 Windsor Rd, Austin, TX 78703</td>
         <td>1.8</td>
         <td>None</td>
@@ -864,7 +864,7 @@
 
     <tr>
         <td><a href=None target="blank">Redeemer Presbyterian Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2111 Alexander Ave, Austin, TX 78722</td>
         <td>1.2</td>
         <td>None</td>
@@ -873,7 +873,7 @@
 
     <tr>
         <td><a href=None target="blank">New Hope Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>New Hope Church, Austin, TX 78703</td>
         <td>1.9</td>
         <td>None</td>
@@ -882,7 +882,7 @@
 
     <tr>
         <td><a href=None target="blank">Church of Scientology of Texas</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2825 Hancock Dr, Austin, TX 78731</td>
         <td>3.4</td>
         <td>None</td>
@@ -891,7 +891,7 @@
 
     <tr>
         <td><a href=None target="blank">Brentwood Oaks Church of Christ</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>11908 N Lamar Blvd, Austin, TX 78753</td>
         <td>8.4</td>
         <td>None</td>
@@ -900,7 +900,7 @@
 
     <tr>
         <td><a href=None target="blank">First Cumberland Presbyterian</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>6800 Woodrow Ave, Austin, TX 78757</td>
         <td>4</td>
         <td>None</td>
@@ -909,7 +909,7 @@
 
     <tr>
         <td><a href=None target="blank">GTAustin</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2700 Northland Dr, Austin, TX 78756</td>
         <td>3.8</td>
         <td>None</td>
@@ -918,7 +918,7 @@
 
     <tr>
         <td><a href=None target="blank">First English Lutheran Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>3001 Whitis Ave, Austin, TX 78705</td>
         <td>0.6</td>
         <td>None</td>
@@ -927,7 +927,7 @@
 
     <tr>
         <td><a href=None target="blank">Planetshakers Church Austin</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1101 Reinli St, Austin, TX 78723</td>
         <td>2.7</td>
         <td>None</td>
@@ -936,7 +936,7 @@
 
     <tr>
         <td><a href=None target="blank">Parmer Lane Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>12424 Scofield Farms Dr, Austin, TX 78758</td>
         <td>10</td>
         <td>None</td>
@@ -945,7 +945,7 @@
 
     <tr>
         <td><a href=None target="blank">Northside Church Austin</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>12424 Scofield Farms Dr, Austin, TX 78758</td>
         <td>10</td>
         <td>None</td>
@@ -954,7 +954,7 @@
 
     <tr>
         <td><a href=None target="blank">North Austin Christian Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1734 Rutland Dr, Austin, TX 78758</td>
         <td>7</td>
         <td>None</td>
@@ -963,7 +963,7 @@
 
     <tr>
         <td><a href=None target="blank">St. Stephens Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>12300 Amherst Dr, Austin, TX 78727</td>
         <td>10.2</td>
         <td>None</td>
@@ -972,7 +972,7 @@
 
     <tr>
         <td><a href=None target="blank">Mims Chapel Church of God in Christ</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1801 E 38th 1/2 St, Austin, TX 78722</td>
         <td>1.4</td>
         <td>None</td>
@@ -981,7 +981,7 @@
 
     <tr>
         <td><a href=None target="blank">Messiah Lutheran Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>5701 Cameron Rd, Austin, TX 78723</td>
         <td>2.7</td>
         <td>None</td>
@@ -990,7 +990,7 @@
 
     <tr>
         <td><a href=None target="blank">Grace of the Good Shepherd Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>8724 Putnam Dr, Austin, TX 78757</td>
         <td>6.1</td>
         <td>None</td>
@@ -999,7 +999,7 @@
 
     <tr>
         <td><a href=None target="blank">Evergreen Church of Austin</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>5002 Caswell Ave, Austin, TX 78751</td>
         <td>1.9</td>
         <td>None</td>
@@ -1008,7 +1008,7 @@
 
     <tr>
         <td><a href=None target="blank">Austin Mennonite Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>5801 Westminster Dr, Austin, TX 78723</td>
         <td>3.5</td>
         <td>None</td>
@@ -1017,7 +1017,7 @@
 
     <tr>
         <td><a href=None target="blank">Gateway Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>7601 Guadalupe St, Austin, TX 78752</td>
         <td>4.2</td>
         <td>None</td>
@@ -1026,7 +1026,7 @@
 
     <tr>
         <td><a href=None target="blank">Hope Chapel</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>6701 Arroyo Seco, Austin, TX 78757</td>
         <td>4.2</td>
         <td>None</td>
@@ -1035,7 +1035,7 @@
 
     <tr>
         <td><a href=None target="blank">Riverlife Eritrea Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2700 Northland Dr, Austin, TX 78756</td>
         <td>3.8</td>
         <td>None</td>
@@ -1044,7 +1044,7 @@
 
     <tr>
         <td><a href=None target="blank">Sunrise Community Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>4430 Menchaca Rd, Austin, TX 78745</td>
         <td>5.7</td>
         <td>None</td>
@@ -1053,7 +1053,7 @@
 
     <tr>
         <td><a href=None target="blank">Austin New Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2701 S Lamar Blvd, Austin, TX 78704</td>
         <td>4.4</td>
         <td>None</td>
@@ -1062,7 +1062,7 @@
 
     <tr>
         <td><a href=None target="blank">Church in Austin</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2530 S Congress Ave, Austin, TX 78704</td>
         <td>3.5</td>
         <td>None</td>
@@ -1071,7 +1071,7 @@
 
     <tr>
         <td><a href=None target="blank">Riverbend Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>4214 N Capital of Texas Hwy, Austin, TX 78746</td>
         <td>11.2</td>
         <td>None</td>
@@ -1080,7 +1080,7 @@
 
     <tr>
         <td><a href=None target="blank">Central Christian Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1110 Guadalupe St, Austin, TX 78701</td>
         <td>0.9</td>
         <td>None</td>
@@ -1089,7 +1089,7 @@
 
     <tr>
         <td><a href=None target="blank">The Well Austin Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1601 Haskell St, Austin, TX 78702</td>
         <td>2.2</td>
         <td>None</td>
@@ -1098,7 +1098,7 @@
 
     <tr>
         <td><a href=None target="blank">Christian Life Austin</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>4700 West Gate Blvd, Austin, TX 78745</td>
         <td>6.1</td>
         <td>None</td>
@@ -1107,7 +1107,7 @@
 
     <tr>
         <td><a href=None target="blank">Shepherd of the Hills Christian Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>6909 W Courtyard Dr, Austin, TX 78730</td>
         <td>8.6</td>
         <td>None</td>
@@ -1116,7 +1116,7 @@
 
     <tr>
         <td><a href=None target="blank">First Church of Christ, Scientist</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1309 Guadalupe St, Austin, TX 78701</td>
         <td>0.8</td>
         <td>None</td>
@@ -1125,7 +1125,7 @@
 
     <tr>
         <td><a href=None target="blank">David Chapel Missionary Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2211 E Martin Luther King Jr Blvd, Austin, TX 78702</td>
         <td>0.9</td>
         <td>None</td>
@@ -1134,7 +1134,7 @@
 
     <tr>
         <td><a href=None target="blank">Christ Lutheran Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>300 E Monroe St, Austin, TX 78704</td>
         <td>2.8</td>
         <td>None</td>
@@ -1143,7 +1143,7 @@
 
     <tr>
         <td><a href=None target="blank">Community of Christ</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2132 Bluebonnet Ln, Austin, TX 78704</td>
         <td>4.1</td>
         <td>None</td>
@@ -1152,7 +1152,7 @@
 
     <tr>
         <td><a href=None target="blank">Wesley United Methodist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1164 San Bernard St, Austin, TX 78702</td>
         <td>1</td>
         <td>None</td>
@@ -1161,7 +1161,7 @@
 
     <tr>
         <td><a href=None target="blank">St. James Missionary Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>3417 E Martin Luther King Jr Blvd, Austin, TX 78721</td>
         <td>2</td>
         <td>None</td>
@@ -1170,7 +1170,7 @@
 
     <tr>
         <td><a href=None target="blank">Holy Cross Catholic Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1610 E 11th St, Austin, TX 78702</td>
         <td>1.3</td>
         <td>None</td>
@@ -1179,7 +1179,7 @@
 
     <tr>
         <td><a href=None target="blank">South Austin Christian Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>206 E Annie St, Austin, TX 78704</td>
         <td>2.9</td>
         <td>None</td>
@@ -1188,7 +1188,7 @@
 
     <tr>
         <td><a href=None target="blank">Faith Presbyterian Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1314 E Oltorf St, Austin, TX 78704</td>
         <td>3.8</td>
         <td>None</td>
@@ -1197,7 +1197,7 @@
 
     <tr>
         <td><a href=None target="blank">Church of Christ at East Side</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>5701 E Martin Luther King Jr Blvd, Austin, TX 78721</td>
         <td>3.9</td>
         <td>None</td>
@@ -1206,7 +1206,7 @@
 
     <tr>
         <td><a href=None target="blank">Church of God in Christ #1</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1168 Angelina St, Austin, TX 78702</td>
         <td>1.1</td>
         <td>None</td>
@@ -1215,7 +1215,7 @@
 
     <tr>
         <td><a href=None target="blank">The Church on Congress Avenue</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1511 S Congress Ave, Austin, TX 78704</td>
         <td>2.7</td>
         <td>None</td>
@@ -1224,7 +1224,7 @@
 
     <tr>
         <td><a href=None target="blank">High Pointe Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>12030 Dessau Rd, Austin, TX 78754</td>
         <td>8.5</td>
         <td>None</td>
@@ -1233,7 +1233,7 @@
 
     <tr>
         <td><a href=None target="blank">Grace Church Austin</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>3401 S IH 35 Frontage Rd, Austin, TX 78741</td>
         <td>4.5</td>
         <td>None</td>
@@ -1242,7 +1242,7 @@
 
     <tr>
         <td><a href=None target="blank">Austin Chinese Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>11118 Dessau Rd, Austin, TX 78754</td>
         <td>7.2</td>
         <td>None</td>
@@ -1251,7 +1251,7 @@
 
     <tr>
         <td><a href=None target="blank">St. Martin's Lutheran Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>606 W 15th St, Austin, TX 78701</td>
         <td>0.8</td>
         <td>None</td>
@@ -1260,7 +1260,7 @@
 
     <tr>
         <td><a href=None target="blank">Metropolitan AME Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1101 E 10th St, Austin, TX 78702</td>
         <td>1</td>
         <td>None</td>
@@ -1269,7 +1269,7 @@
 
     <tr>
         <td><a href=None target="blank">Salina Street Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2407 Canterbury St, Austin, TX 78702</td>
         <td>2.7</td>
         <td>None</td>
@@ -1278,7 +1278,7 @@
 
     <tr>
         <td><a href=None target="blank">St. James' Episcopal Curch</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1941 Webberville Rd, Austin, TX 78721</td>
         <td>3.5</td>
         <td>None</td>
@@ -1287,7 +1287,7 @@
 
     <tr>
         <td><a href=None target="blank">Good Shepherd on the Hill</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1700 Woodland Ave, Austin, TX 78741</td>
         <td>3.2</td>
         <td>None</td>
@@ -1296,7 +1296,7 @@
 
     <tr>
         <td><a href=None target="blank">Park Hills Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>900 S MoPac Expy, Austin, TX 78746</td>
         <td>3.5</td>
         <td>None</td>
@@ -1305,7 +1305,7 @@
 
     <tr>
         <td><a href=None target="blank">St. Matthew's Episcopal Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>8134 Mesa Dr, Austin, TX 78759</td>
         <td>7.2</td>
         <td>None</td>
@@ -1314,7 +1314,7 @@
 
     <tr>
         <td><a href=None target="blank">United Methodist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2409 Guadalupe St, Austin, TX 78705</td>
         <td>0.1</td>
         <td>None</td>
@@ -1323,7 +1323,7 @@
 
     <tr>
         <td><a href=None target="blank">St. Theresa of Lisieux Catholic Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>4311 Small Dr, Austin, TX 78731</td>
         <td>5.7</td>
         <td>None</td>
@@ -1332,7 +1332,7 @@
 
     <tr>
         <td><a href=None target="blank">Greater Mount Zion Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>4301 Tannehill Ln, Austin, TX 78721</td>
         <td>3.8</td>
         <td>None</td>
@@ -1341,7 +1341,7 @@
 
     <tr>
         <td><a href=None target="blank">St. Austin Catholic Parish</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2026 Guadalupe St, Austin, TX 78705</td>
         <td>0.3</td>
         <td>None</td>
@@ -1350,7 +1350,7 @@
 
     <tr>
         <td><a href=None target="blank">Trinity Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2305 Forbes Dr, Austin, TX 78754</td>
         <td>5.5</td>
         <td>None</td>
@@ -1359,7 +1359,7 @@
 
     <tr>
         <td><a href=None target="blank">Kinney Avenue Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1801 Kinney Ave, Austin, TX 78704</td>
         <td>3.5</td>
         <td>None</td>
@@ -1368,7 +1368,7 @@
 
     <tr>
         <td><a href=None target="blank">Holy Cross Lutheran Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>4622 S Lamar Blvd, Austin, TX 78745</td>
         <td>6.2</td>
         <td>None</td>
@@ -1377,7 +1377,7 @@
 
     <tr>
         <td><a href=None target="blank">Emmanuel United Methodist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>200 Brushy St, Austin, TX 78702</td>
         <td>1.3</td>
         <td>None</td>
@@ -1386,7 +1386,7 @@
 
     <tr>
         <td><a href=None target="blank">Life Impact Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2810 E 3rd St, Austin, TX 78702</td>
         <td>2.8</td>
         <td>None</td>
@@ -1395,7 +1395,7 @@
 
     <tr>
         <td><a href=None target="blank">St. Paul Catholic Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>10000 David Moore Dr, Austin, TX 78748</td>
         <td>10.2</td>
         <td>None</td>
@@ -1404,7 +1404,7 @@
 
     <tr>
         <td><a href=None target="blank">Springdale Church of God in Christ</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>767 Springdale Rd, Austin, TX 78702</td>
         <td>3.4</td>
         <td>None</td>
@@ -1413,7 +1413,7 @@
 
     <tr>
         <td><a href=None target="blank">Saint Philip's Anglican Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1408 W 9th St, Austin, TX 78703</td>
         <td>2.2</td>
         <td>None</td>
@@ -1422,7 +1422,7 @@
 
     <tr>
         <td><a href=None target="blank">Grace First Community Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>6020 S 1st St, Austin, TX 78745</td>
         <td>6.8</td>
         <td>None</td>
@@ -1431,7 +1431,7 @@
 
     <tr>
         <td><a href=None target="blank">St. Mark's Episcopal Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2128 Barton Hills Dr, Austin, TX 78704</td>
         <td>4.9</td>
         <td>None</td>
@@ -1440,7 +1440,7 @@
 
     <tr>
         <td><a href=None target="blank">First Baptist Church Circle Drive</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>900 Neches St, Austin, TX 78701</td>
         <td>1.2</td>
         <td>None</td>
@@ -1449,7 +1449,7 @@
 
     <tr>
         <td><a href=None target="blank">Victory Outreach Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>900 Neches St, Austin, TX 78701</td>
         <td>10.5</td>
         <td>None</td>
@@ -1458,7 +1458,7 @@
 
     <tr>
         <td><a href=None target="blank">Olivet Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1179 San Bernard St, Austin, TX 78702</td>
         <td>1.4</td>
         <td>None</td>
@@ -1467,7 +1467,7 @@
 
     <tr>
         <td><a href=None target="blank">Vision of Hope Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>Richardson Ln, Austin, TX 78741</td>
         <td>5.2</td>
         <td>None</td>
@@ -1476,7 +1476,7 @@
 
     <tr>
         <td><a href=None target="blank">Holland Church of Christ</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>208 Adams St, Austin, TX 78729</td>
         <td>2.5</td>
         <td>None</td>
@@ -1485,7 +1485,7 @@
 
     <tr>
         <td><a href=None target="blank">Central City Austin</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>9023 Old Lampasas Trail, Austin, TX 78750</td>
         <td>12.6</td>
         <td>None</td>
@@ -1494,7 +1494,7 @@
 
     <tr>
         <td><a href=None target="blank">San Jose Catholic Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2435 Oak Crest Ave, Austin, TX 78704</td>
         <td>3.9</td>
         <td>None</td>
@@ -1503,7 +1503,7 @@
 
     <tr>
         <td><a href=None target="blank">Sacred Heart Catholic Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2435 Oak Crest Ave, Austin, TX 78704</td>
         <td>4.4</td>
         <td>None</td>
@@ -1512,7 +1512,7 @@
 
     <tr>
         <td><a href=None target="blank">Christ Community Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>Christ Community Church, Austin, TX 78753</td>
         <td>7.9</td>
         <td>None</td>
@@ -1521,7 +1521,7 @@
 
     <tr>
         <td><a href=None target="blank">Bridge Church of Austin</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>950 Westbank Dr, West Lake Hills, TX 78746</td>
         <td>6</td>
         <td>None</td>
@@ -1530,7 +1530,7 @@
 
     <tr>
         <td><a href=None target="blank">First Pentecostal Church of Austin</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>7440 Ed Bluestein Blvd, Austin, TX 78723</td>
         <td>5.5</td>
         <td>None</td>
@@ -1539,7 +1539,7 @@
 
     <tr>
         <td><a href=None target="blank">St. Paul Primitive Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>St Paul Primitive Baptist Church, Austin, TX 78702</td>
         <td>1.6</td>
         <td>None</td>
@@ -1548,7 +1548,7 @@
 
     <tr>
         <td><a href=None target="blank">Open Door Church of God in Christ</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>3317 E 12th St, Austin, TX 78721</td>
         <td>2.5</td>
         <td>None</td>
@@ -1557,7 +1557,7 @@
 
     <tr>
         <td><a href=None target="blank">Gateway Church South</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>6800 West Gate Blvd #120, Austin, TX 78745</td>
         <td>8.2</td>
         <td>None</td>
@@ -1566,7 +1566,7 @@
 
     <tr>
         <td><a href=None target="blank">St. John College Heights Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>7207 Carver Ave, Austin, TX 78752</td>
         <td>4.3</td>
         <td>None</td>
@@ -1575,7 +1575,7 @@
 
     <tr>
         <td><a href=None target="blank">Teri Road Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1844 Teri Rd, Austin, TX 78744</td>
         <td>6.5</td>
         <td>None</td>
@@ -1584,7 +1584,7 @@
 
     <tr>
         <td><a href=None target="blank">Saint Ignatius Martyr Catholic Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>126 W Oltorf St, Austin, TX 78704</td>
         <td>3.7</td>
         <td>None</td>
@@ -1593,7 +1593,7 @@
 
     <tr>
         <td><a href=None target="blank">Faith Christian Center Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>6107 Manor Rd, Austin, TX 78723</td>
         <td>4.3</td>
         <td>None</td>
@@ -1602,7 +1602,7 @@
 
     <tr>
         <td><a href=None target="blank">Woodlawn Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>4600 Menchaca Rd, Austin, TX 78745</td>
         <td>6.1</td>
         <td>None</td>
@@ -1611,7 +1611,7 @@
 
     <tr>
         <td><a href=None target="blank">Bethel Assembly of God</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>4322 Banister Ln, Austin, TX 78745</td>
         <td>5.7</td>
         <td>None</td>
@@ -1620,7 +1620,7 @@
 
     <tr>
         <td><a href=None target="blank">Cristo Rey Catholic Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2208 E 2nd St, Austin, TX 78702</td>
         <td>2.7</td>
         <td>None</td>
@@ -1629,7 +1629,7 @@
 
     <tr>
         <td><a href=None target="blank">Boulevard Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>Boulevard Church, Austin, TX 78744</td>
         <td>6.9</td>
         <td>None</td>
@@ -1638,7 +1638,7 @@
 
     <tr>
         <td><a href=None target="blank">Sweethome Missionary Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1725 W 11th St, Austin, TX 78703</td>
         <td>2.3</td>
         <td>None</td>
@@ -1647,7 +1647,7 @@
 
     <tr>
         <td><a href=None target="blank">Rosewood Avenue Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1820 Rosewood Ave, Austin, TX 78702</td>
         <td>1.7</td>
         <td>None</td>
@@ -1656,7 +1656,7 @@
 
     <tr>
         <td><a href=None target="blank">Door of Hope Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1400 E Cesar Chavez St, Austin, TX 78702</td>
         <td>2.3</td>
         <td>None</td>
@@ -1665,7 +1665,7 @@
 
     <tr>
         <td><a href=None target="blank">Our Lady of Guadalupe Parish</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1206 E 9th St, Austin, TX 78702</td>
         <td>1.7</td>
         <td>None</td>
@@ -1674,7 +1674,7 @@
 
     <tr>
         <td><a href=None target="blank">Wildflower Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1314 E Oltorf St, Austin, TX 78704</td>
         <td>4.2</td>
         <td>None</td>
@@ -1683,7 +1683,7 @@
 
     <tr>
         <td><a href=None target="blank">United Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1400 Guadalupe St, Austin, TX 78701</td>
         <td>1.1</td>
         <td>None</td>
@@ -1692,7 +1692,7 @@
 
     <tr>
         <td><a href=None target="blank">East Side Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2400 Northeast Dr, Austin, TX 78723</td>
         <td>4.7</td>
         <td>None</td>
@@ -1701,7 +1701,7 @@
 
     <tr>
         <td><a href=None target="blank">Seventh-Day Adventist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>3001 Whitis Ave, Austin, TX 78705</td>
         <td>0.9</td>
         <td>None</td>
@@ -1710,7 +1710,7 @@
 
     <tr>
         <td><a href=None target="blank">Church of Pentecost</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>Church of Pentecost, 7801 N Lamar Blvd # D102, Austin, TX 78752</td>
         <td>4.9</td>
         <td>None</td>
@@ -1719,7 +1719,7 @@
 
     <tr>
         <td><a href=None target="blank">Greater Works Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>4000 Tannehill Ln, Austin, TX 78721</td>
         <td>4.1</td>
         <td>None</td>
@@ -1728,7 +1728,7 @@
 
     <tr>
         <td><a href=None target="blank">Ethiopian Evangelical Christian Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>305 Deen Ave, Austin, TX 78753</td>
         <td>5.7</td>
         <td>None</td>
@@ -1737,7 +1737,7 @@
 
     <tr>
         <td><a href=None target="blank">Principe De Paz Christian Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>5801 Westminster Dr, Austin, TX 78723</td>
         <td>3.9</td>
         <td>None</td>
@@ -1746,7 +1746,7 @@
 
     <tr>
         <td><a href=None target="blank">Salem Lutheran Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>9322 FM812, Austin, TX 78719</td>
         <td>11.1</td>
         <td>None</td>
@@ -1755,7 +1755,7 @@
 
     <tr>
         <td><a href=None target="blank">New Apostolic Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1906 Miles Ave, Austin, TX 78745</td>
         <td>8</td>
         <td>None</td>
@@ -1764,7 +1764,7 @@
 
     <tr>
         <td><a href=None target="blank">Greater Peace Christian Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1203 E Cesar Chavez St, Austin, TX 78702</td>
         <td>2.1</td>
         <td>None</td>
@@ -1773,7 +1773,7 @@
 
     <tr>
         <td><a href=None target="blank">Klegberg Hall</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1201-1299 Ardenwood Rd, Austin, TX 78722</td>
         <td>1.8</td>
         <td>None</td>
@@ -1782,7 +1782,7 @@
 
     <tr>
         <td><a href=None target="blank">Superior Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>900 Rio Grande St, Austin, TX 78701</td>
         <td>1.3</td>
         <td>None</td>
@@ -1791,7 +1791,7 @@
 
     <tr>
         <td><a href=None target="blank">Sta. Julia Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>3010 Lyons Rd, Austin, TX 78702</td>
         <td>2.4</td>
         <td>None</td>
@@ -1800,7 +1800,7 @@
 
     <tr>
         <td><a href=None target="blank">St. Annie AME Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1711 Newton St, Austin, TX 78704</td>
         <td>2.9</td>
         <td>None</td>
@@ -1809,7 +1809,7 @@
 
     <tr>
         <td><a href=None target="blank">Greater Love Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>6601 Manor Rd, Austin, TX 78723</td>
         <td>4.4</td>
         <td>None</td>
@@ -1818,7 +1818,7 @@
 
     <tr>
         <td><a href=None target="blank">Mt. Olive Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1800 E 11th St #2718, Austin, TX 78702</td>
         <td>1.4</td>
         <td>None</td>
@@ -1827,7 +1827,7 @@
 
     <tr>
         <td><a href=None target="blank">Antioch Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>4407 Monterey Oaks Blvd, Austin, TX 78749</td>
         <td>8.2</td>
         <td>None</td>
@@ -1836,7 +1836,7 @@
 
     <tr>
         <td><a href=None target="blank">True Light Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>True Light Baptist Church, Austin, TX 78721</td>
         <td>3.5</td>
         <td>None</td>
@@ -1845,7 +1845,7 @@
 
     <tr>
         <td><a href=None target="blank">Agape Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>7801 N Lamar Blvd, Austin, TX 78752</td>
         <td>4.5</td>
         <td>None</td>
@@ -1854,7 +1854,7 @@
 
     <tr>
         <td><a href=None target="blank">Grant AME Worship Center</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1701 Kramer Ln, Austin, TX 78758</td>
         <td>8</td>
         <td>None</td>
@@ -1863,7 +1863,7 @@
 
     <tr>
         <td><a href=None target="blank">New Hope Primitive Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1602 E M. Franklin Ave, Austin, TX 78721</td>
         <td>2.3</td>
         <td>None</td>
@@ -1872,7 +1872,7 @@
 
     <tr>
         <td><a href=None target="blank">Solid Rock Missionary Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1014 Gardner Rd, Austin, TX 78721</td>
         <td>3.8</td>
         <td>None</td>
@@ -1881,7 +1881,7 @@
 
     <tr>
         <td><a href=None target="blank">St. Paul Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>501 Blackson Ave, Austin, TX 78752</td>
         <td>4</td>
         <td>None</td>
@@ -1890,7 +1890,7 @@
 
     <tr>
         <td><a href=None target="blank">RCCG Cornerstone Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>7952 Anderson Square, Austin, TX 78757</td>
         <td>4.9</td>
         <td>None</td>
@@ -1899,7 +1899,7 @@
 
     <tr>
         <td><a href=None target="blank">South Central Conference United Church of Christ</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>South Central Conference United Church of Christ, Austin, TX 78723</td>
         <td>3.3</td>
         <td>None</td>
@@ -1908,7 +1908,7 @@
 
     <tr>
         <td><a href=None target="blank">Rising Star Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1710 E 20th St, Austin, TX 78722</td>
         <td>0.5</td>
         <td>None</td>
@@ -1917,7 +1917,7 @@
 
     <tr>
         <td><a href=None target="blank">St. Peter's United Methodist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>4509 Springdale Rd, Austin, TX 78723</td>
         <td>3.1</td>
         <td>None</td>
@@ -1926,7 +1926,7 @@
 
     <tr>
         <td><a href=None target="blank">Sanctuary Of Deliverance Church COGIC</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1310 Salina St, Austin, TX 78702</td>
         <td>0.9</td>
         <td>None</td>
@@ -1935,7 +1935,7 @@
 
     <tr>
         <td><a href=None target="blank">New Foundation Christian Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>4402 S Congress Ave, Austin, TX 78745</td>
         <td>5.1</td>
         <td>None</td>
@@ -1944,7 +1944,7 @@
 
     <tr>
         <td><a href=None target="blank">San Lucas Lutheran Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>San Lucas Lutheran Church, Austin, TX 78704</td>
         <td>4.7</td>
         <td>None</td>
@@ -1953,7 +1953,7 @@
 
     <tr>
         <td><a href=None target="blank">Austin Spirit of Life Deaf Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>7612 Cooper Ln, Austin, TX 78745</td>
         <td>8</td>
         <td>None</td>
@@ -1962,7 +1962,7 @@
 
     <tr>
         <td><a href=None target="blank">Austin Good Korean Church of the Nazarene</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>9507 Dessau Rd, Austin, TX 78754</td>
         <td>5.8</td>
         <td>None</td>
@@ -1971,7 +1971,7 @@
 
     <tr>
         <td><a href=None target="blank">Fontaine Memorial Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1140 Ebert Ave # D, Austin, TX 78721</td>
         <td>3.2</td>
         <td>None</td>
@@ -1980,7 +1980,7 @@
 
     <tr>
         <td><a href=None target="blank">Praise Tabernacle Community Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>Praise Tabernacle Community Church, Austin, TX 78721</td>
         <td>4.2</td>
         <td>None</td>
@@ -1989,7 +1989,7 @@
 
     <tr>
         <td><a href=None target="blank">Emmanuel Bible Church of Christ</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1144 Northwestern Ave, Austin, TX 78702</td>
         <td>1.5</td>
         <td>None</td>
@@ -1998,7 +1998,7 @@
 
     <tr>
         <td><a href=None target="blank">Austin Central Hispana Seventh-Day Adventist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>415 Montopolis Dr, Austin, TX 78741</td>
         <td>4.4</td>
         <td>None</td>
@@ -2007,7 +2007,7 @@
 
     <tr>
         <td><a href=None target="blank">University Catholic Center</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2010 University Ave, Austin, TX 78705</td>
         <td>0.4</td>
         <td>None</td>
@@ -2016,7 +2016,7 @@
 
     <tr>
         <td><a href=None target="blank">St. Luke Missionary Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1160 Hargrave St, Austin, TX 78702</td>
         <td>1.9</td>
         <td>None</td>
@@ -2025,7 +2025,7 @@
 
     <tr>
         <td><a href=None target="blank">The Good Shepherd Anglican Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>6700 Middle Fiskville Rd Suite #403, Austin, TX 78752</td>
         <td>3.3</td>
         <td>None</td>
@@ -2034,7 +2034,7 @@
 
     <tr>
         <td><a href=None target="blank">International Restoration Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>10200 Sprinkle Rd, Austin, TX 78754</td>
         <td>7.3</td>
         <td>None</td>
@@ -2043,7 +2043,7 @@
 
     <tr>
         <td><a href=None target="blank">Greater Mount Moriah Primitive Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>4907 Springdale Rd, Austin, TX 78723</td>
         <td>3.5</td>
         <td>None</td>
@@ -2052,7 +2052,7 @@
 
     <tr>
         <td><a href=None target="blank">The Universal Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>9603 Dessau Rd, Austin, TX 78754</td>
         <td>5.9</td>
         <td>None</td>
@@ -2061,7 +2061,7 @@
 
     <tr>
         <td><a href=None target="blank">Austin Central Seventh Day Adventist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>3001 Whitis Ave, Austin, TX 78705</td>
         <td>0.6</td>
         <td>None</td>
@@ -2070,7 +2070,7 @@
 
     <tr>
         <td><a href=None target="blank">Austin Korean Presbyterian Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>12311 Natures Bend, Austin, TX 78753</td>
         <td>8.7</td>
         <td>None</td>
@@ -2079,7 +2079,7 @@
 
     <tr>
         <td><a href=None target="blank">Pilgrim Rest Primitive Baptist</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>3754 Bluestein Dr, Austin, TX 78721</td>
         <td>4.3</td>
         <td>None</td>
@@ -2088,7 +2088,7 @@
 
     <tr>
         <td><a href=None target="blank">Zion Hill Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1701 Chestnut Ave, Austin, TX 78702</td>
         <td>1</td>
         <td>None</td>
@@ -2097,7 +2097,7 @@
 
     <tr>
         <td><a href=None target="blank">Alpha Seventh-Day Adventist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>3016 E 51st St, Austin, TX 78723</td>
         <td>3.2</td>
         <td>None</td>
@@ -2106,7 +2106,7 @@
 
     <tr>
         <td><a href=None target="blank">Capital City Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>206 E Annie St, Austin, TX 78704</td>
         <td>2.9</td>
         <td>None</td>
@@ -2115,7 +2115,7 @@
 
     <tr>
         <td><a href=None target="blank">Shepherd of the Hills Lutheran</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>3525 Bee Cave Rd, Austin, TX 78746</td>
         <td>5.1</td>
         <td>None</td>
@@ -2124,7 +2124,7 @@
 
     <tr>
         <td><a href=None target="blank">Vive Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2105 San Antonio St, Austin, TX 78705</td>
         <td>0.3</td>
         <td>None</td>
@@ -2133,7 +2133,7 @@
 
     <tr>
         <td><a href=None target="blank">St. Philips Missionary Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>3016 E 51st St, Austin, TX 78723</td>
         <td>3.2</td>
         <td>None</td>
@@ -2142,7 +2142,7 @@
 
     <tr>
         <td><a href=None target="blank">Austin District-United Methodist</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1221 W Ben White Blvd # 201A, Austin, TX 78704</td>
         <td>5.3</td>
         <td>None</td>
@@ -2151,7 +2151,7 @@
 
     <tr>
         <td><a href=None target="blank">Hyde Park Chinese Baptist Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>3901 Speedway, Austin, TX 78751</td>
         <td>1.1</td>
         <td>None</td>
@@ -2160,7 +2160,7 @@
 
     <tr>
         <td><a href=None target="blank">St. John's United Methodist</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>2140 Allandale Rd, Austin, TX 78756</td>
         <td>3.7</td>
         <td>None</td>
@@ -2169,7 +2169,7 @@
 
     <tr>
         <td><a href=None target="blank">New Testament Christian Church</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1800 Pennsylvania Ave, Austin, TX 78702</td>
         <td>1.2</td>
         <td>None</td>
@@ -2178,7 +2178,7 @@
 
     <tr>
         <td><a href=None target="blank">Life in the City</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>205 E Monroe St, Austin, TX 78704</td>
         <td>2.7</td>
         <td>None</td>
@@ -2187,7 +2187,7 @@
 
     <tr>
         <td><a href=None target="blank">Celebration Church Central Austin</a></td>
-        <td>None</td>
+        <td>11:00 AM<br>9:00 AM</td>
         <td>1006 W Koenig Ln, Austin, TX 78756</td>
         <td>3.2</td>
         <td>None</td>
