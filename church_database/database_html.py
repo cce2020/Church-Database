@@ -95,7 +95,7 @@ print("    </tr>")
 
 # Initalizing the first value
 notEmpty = 1
-i = 2 # Starting row
+i = 2  # Starting row
 emoji = ('\U0001F392')
 
 # Run through each row
@@ -110,13 +110,17 @@ while(notEmpty):
     cont = sheet['F{}'.format(i)].value # Contact Email
     cMin = sheet['G{}'.format(i)].value # College Ministry
 
+    time = ''
     timeSlot = ['H', 'I', 'J', 'K', 'L']
     for j in timeSlot:
         timeCheck = sheet['{}{}'.format(j,i)].value # Sunday Worship Time
         # Convert military to standard time
         if timeCheck:
             if j == 'H':
-                time = mil2std(timeCheck)
+                if (timeCheck != 'Saturday'):
+                    time = mil2std(timeCheck)
+                else:
+                    time = 'Saturday'
             else:
                 time += '<br>'
                 time += str(mil2std(timeCheck))
@@ -136,8 +140,11 @@ while(notEmpty):
     print('        <td>{}</td>'.format(cont))
     print('    </tr>')
 
-    # notEmpty = 0 # Debug
-
+    ''' Debuging on smaller scale
+    i += 1
+    if(i == 10):
+        notEmpty = 0
+    '''
     i = i + 1
     name = sheet['A{}'.format(i)].value
     if not name:
