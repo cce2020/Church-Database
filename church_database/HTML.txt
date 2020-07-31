@@ -98,39 +98,30 @@
     </tr>
 
     <tr>
-        <td><a href=https://cccaustin.org/ target="blank">Central Christian Church</a></td>
-        <td>11:00 AM</td>
-        <td>1110 Guadalupe St, Austin, TX 78701</td>
-        <td>0.9</td>
-        <td>Christian Church</td>
-        <td>staff@cccaustin.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://austincitylife.org/ target="blank">City Life Church</a></td>
+        <td><a href=https://5twelve.church/ target="blank">5twelve City Church</a></td>
         <td>10:00 AM</td>
-        <td>501 W 3rd St, Austin, TX 78701</td>
-        <td>1.6</td>
-        <td>Non-denominational</td>
-        <td>INFO@AUSTINCITYLIFE.ORG</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.ucc-austin.org/ target="blank">University Christian Church</a></td>
-        <td>10:50 AM</td>
-        <td>2007 University Ave, Austin, TX 78705</td>
+        <td>2312 San Gabriel St, Austin, TX 78712</td>
         <td>0.4</td>
-        <td>Christian Church, United Church of Christ</td>
-        <td>admin@ucc-austin.org</td>
+        <td>Non-denominational</td>
+        <td>admin@5twelve.church</td>
     </tr>
 
     <tr>
-        <td><a href=https://cpcaustin.org/ target="blank">Central Presbyterian Church</a>🎒</td>
-        <td>11:00 AM</td>
-        <td>200 E 8th St, Austin, TX 78701</td>
-        <td>1</td>
-        <td>Presbyterian</td>
-        <td>https://cpcaustin.org/contact/</td>
+        <td><a href=https://actsaustin.org/ target="blank">Acts Fellowship Church</a>🎒</td>
+        <td>10:05 AM</td>
+        <td>211 W Koenig Ln, Austin, TX 78751</td>
+        <td>2.8</td>
+        <td>Baptist</td>
+        <td>None</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://agapebcaustintx.com/ target="blank">Agape Baptist Church</a></td>
+        <td>3:30 PM</td>
+        <td>7801 N Lamar Blvd, Austin, TX 78752</td>
+        <td>4.5</td>
+        <td>Baptist</td>
+        <td>hecagape@sbcglobal.net</td>
     </tr>
 
     <tr>
@@ -143,183 +134,57 @@
     </tr>
 
     <tr>
-        <td><a href=https://fumcaustin.org/ target="blank">First United Methodist Church of Austin</a></td>
+        <td><a href=https://alphaatx.org/ target="blank">Alpha Seventh-Day Adventist Church</a>🎒</td>
+        <td>Saturday<br>8:15 AM<br>11:00 AM</td>
+        <td>3016 E 51st St, Austin, TX 78723</td>
+        <td>3.2</td>
+        <td>Seventh-day Adventist</td>
+        <td>administrator@alphaadventist.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://antiochatx.com/ target="blank">Antioch Baptist Church</a>🎒</td>
         <td>11:00 AM<br>9:00 AM</td>
-        <td>1201 Lavaca St, Austin, TX 78701</td>
-        <td>0.9</td>
-        <td>Methodist</td>
-        <td>contact@fumcaustin.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://austinstone.org/ target="blank">The Austin Stone</a>🎒</td>
-        <td>11:00 AM<br>9:00 AM</td>
-        <td>1715 W Cesar Chavez St, Austin, TX 78703</td>
-        <td>2.8</td>
+        <td>4407 Monterey Oaks Blvd, Austin, TX 78749</td>
+        <td>8.2</td>
         <td>Baptist</td>
-        <td>info@austinstone.org</td>
+        <td>https://antiochatx.com/contact/</td>
     </tr>
 
     <tr>
-        <td><a href=http://www.churchateast.com/ target="blank">Church At East</a></td>
-        <td>11:00 AM</td>
-        <td>2830 Real St, Austin, TX 78722</td>
-        <td>1.3</td>
-        <td>Non-denominational</td>
-        <td>http://www.churchateast.com/contact-1</td>
+        <td><a href=http://ascensionaustin.org/ target="blank">Ascension Lutheran Church</a></td>
+        <td>10:30 AM</td>
+        <td>6420 Hart Ln, Austin, TX 78731</td>
+        <td>5</td>
+        <td>Lutheran</td>
+        <td>office@ascensionaustin.org</td>
     </tr>
 
     <tr>
-        <td><a href=https://www.gracepointonline.org/ target="blank">Gracepoint Austin Church</a>🎒</td>
-        <td>2:00 PM</td>
-        <td>405 W 22nd St, Austin, TX 78705</td>
-        <td>0.2</td>
-        <td>Southern Baptist</td>
-        <td>https://www.gracepointonline.org/contact-us</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.stdave.org/ target="blank">St. David's Episcopal Church</a></td>
-        <td></td>
-        <td>301 E 8th St, Austin, TX 78701</td>
-        <td>0.9</td>
-        <td>Episcopal</td>
-        <td>communications@stdave.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://tumc.church/ target="blank">Tarrytown United Methodist Church</a></td>
-        <td>11:00 AM<br>8:00 AM<br>9:00 AM</td>
-        <td>2601 Exposition Blvd, Austin, TX 78703</td>
-        <td>2.1</td>
-        <td>Methodist</td>
-        <td>info@tumc.church</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://christchurchofaustin.org/ target="blank">Christ Church</a>🎒</td>
-        <td>11:00 AM<br>9:00 AM</td>
-        <td>112 Medina St, Austin, TX 78702</td>
-        <td>1.5</td>
-        <td>Anglican</td>
-        <td>info@christchurchofaustin.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.fbcaustin.org/ target="blank">First Baptist Church of Austin</a></td>
-        <td>11:00 AM</td>
-        <td>901 Trinity St, Austin, TX 78701</td>
-        <td>0.8</td>
-        <td>Baptist</td>
-        <td>info@fbcaustin.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.eccatx.com/ target="blank">Eastside Community Church</a></td>
-        <td>11:00 AM</td>
-        <td>1190 Chicon St #2100, Austin, TX 78702</td>
-        <td>1.1</td>
-        <td>Non-denominational</td>
-        <td>info@eccatx.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://uachurch.org/ target="blank">University Ave Church of Christ</a>🎒</td>
-        <td>10:30 AM<br>7:00 PM</td>
-        <td>1903 University Ave, Austin, TX 78705</td>
-        <td>0.5</td>
-        <td>Church of Christ</td>
-        <td>office@uachurch.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.trinitychurchofaustin.org/ target="blank">Trinity Church of Austin</a></td>
-        <td>11:00 AM</td>
-        <td>4001 Speedway, Austin, TX 78751</td>
-        <td>1.1</td>
-        <td>Church of Christ, Methodist</td>
-        <td>office@trinitychurchofaustin.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://ubcaustin.org/ target="blank">University Baptist Church</a>🎒</td>
-        <td>11:00 AM</td>
-        <td>2130 Guadalupe St, Austin, TX 78705</td>
-        <td>0.2</td>
-        <td>Non-denominational</td>
-        <td>Baptist</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://www.providenceaustin.com/ target="blank">Providence Church</a></td>
-        <td>10:00 AM</td>
-        <td>1110 Guadalupe St, Austin, TX 78701</td>
-        <td>0.9</td>
-        <td>Reformed Evangelical</td>
-        <td>info@providenceaustin.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://congregationalchurchofaustin.org/ target="blank">Congregational Church of Austin</a>🎒</td>
-        <td>12:00 PM</td>
-        <td>408 W 23rd St #5214, Austin, TX 78705</td>
-        <td>0.1</td>
-        <td>Church of Christ</td>
-        <td>ucausti@swbell.net</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.hpbc.org/ target="blank">Hyde Park Baptist Church</a>🎒</td>
-        <td>11:00 AM<br>8:30 AM</td>
-        <td>3901 Speedway, Austin, TX 78751</td>
-        <td>1.1</td>
-        <td>Baptist</td>
-        <td>info@hpbc.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://hillcrest.church/ target="blank">Hillcrest Church</a></td>
-        <td>10:00 AM</td>
-        <td>3838 Steck Ave, Austin, TX 78759</td>
-        <td>6.9</td>
-        <td>Non-denominational</td>
-        <td>information@hillcrest.church</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://grace360.org/ target="blank">Grace Covenant Church</a>🎒</td>
-        <td>11:00 AM<br>9:15 AM</td>
-        <td>9431 Jollyville Rd, Austin, TX 78759</td>
-        <td>7.9</td>
-        <td>Bible Church</td>
-        <td>https://grace360.org/contact/</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://joshua-church.com/ target="blank">Joshua Church</a>🎒</td>
-        <td>11:15 AM<br>9:00 AM</td>
-        <td>2000 Justin Ln, Austin, TX 78757</td>
+        <td><a href=http://www.austincentralsda.com/ target="blank">Austin Central Seventh-Day Adventist Church</a></td>
+        <td>Saturday<br>11:00 AM</td>
+        <td>415 Montopolis Dr, Austin, TX 78741</td>
         <td>4.4</td>
-        <td>Non-denominational</td>
-        <td>traviswong@joshua-church.com</td>
+        <td>Seventh-Day Adventist</td>
+        <td>acsdaheadelder@gmail.com</td>
     </tr>
 
     <tr>
-        <td><a href=https://www.gatewaychurch.com/?gclid=EAIaIQobChMIuPre9vi96gIVDdbACh194Q4DEAAYASAAEgIwcfD_BwE target="blank">Gateway Church</a></td>
-        <td>11:15 AM<br>9:15 AM<br>6:00 PM</td>
-        <td>5600 Sunshine Dr, Austin, TX 78756</td>
-        <td>3.1</td>
+        <td><a href=http://austinchinesechurch.org/newacc/ target="blank">Austin Chinese Church</a></td>
+        <td>9:30 AM<br>11:00 AM</td>
+        <td>11118 Dessau Rd, Austin, TX 78754</td>
+        <td>7.2</td>
         <td>Non-denominational</td>
-        <td>NorthAustin@GatewayChurch.com</td>
+        <td>contact@austinchinesechurch.org</td>
     </tr>
 
     <tr>
-        <td><a href=https://nwhillsumc.org/ target="blank">Northwest Hills United Methodist Church</a></td>
-        <td>11:00 AM<br>9:00 AM</td>
-        <td>7050 Village Center Dr, Austin, TX 78731</td>
-        <td>5.7</td>
-        <td>Methodist</td>
-        <td>None</td>
+        <td><a href=https://www.akpc.org/em.html target="blank">Austin Korean Presbyterian Church</a>🎒</td>
+        <td>9:45 AM</td>
+        <td>12311 Natures Bend, Austin, TX 78753</td>
+        <td>8.7</td>
+        <td>Presbyterian </td>
+        <td>walterhwang0@gmail.com</td>
     </tr>
 
     <tr>
@@ -332,39 +197,57 @@
     </tr>
 
     <tr>
-        <td><a href=https://www.ghbc.org/ target="blank">Great Hills Baptist Church</a>🎒</td>
+        <td><a href=https://austinmennonite.org/ target="blank">Austin Mennonite Church</a></td>
         <td>11:00 AM</td>
-        <td>10500 Jollyville Rd, Austin, TX 78759</td>
-        <td>8.9</td>
-        <td>Baptist</td>
-        <td>https://www.ghbc.org/contact</td>
+        <td>5801 Westminster Dr, Austin, TX 78723</td>
+        <td>3.5</td>
+        <td>Mennonite</td>
+        <td>AustinMennonite@gmail.com</td>
     </tr>
 
     <tr>
-        <td><a href=https://northvillagechurch.com/ target="blank">North Village Church</a></td>
+        <td><a href=https://austinnewchurch.com/ target="blank">Austin New Church</a></td>
+        <td>11:00 AM<br>9:30 AM</td>
+        <td>2701 S Lamar Blvd, Austin, TX 78704</td>
+        <td>4.4</td>
+        <td>Methodist</td>
+        <td>tray@austinnewchurch.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.austinoakschurch.org/ target="blank">Austin Oaks Church</a></td>
+        <td>9:00 AM<br>9:30 AM<br>11:00 AM</td>
+        <td>4220 Monterey Oaks Boulevard</td>
+        <td>6.7</td>
+        <td>Evangelical</td>
+        <td>N/A</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://asldc.weebly.com/ target="blank">Austin Spirit of Life Deaf Church</a></td>
+        <td>2:00 PM</td>
+        <td>7612 Cooper Ln, Austin, TX 78745</td>
+        <td>8</td>
+        <td>Assembly of God</td>
+        <td>austinspiritdeaf@gmail.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://bethelatx.com/ target="blank">Bethel Assembly of God</a></td>
+        <td>Saturday<br>2:00 PM<br>6:00 PM</td>
+        <td>4322 Banister Ln, Austin, TX 78745</td>
+        <td>5.7</td>
+        <td>Assembly of God</td>
+        <td>info@bethelatx.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://boulevardchurch.com/ target="blank">Boulevard Church</a></td>
         <td>10:00 AM</td>
-        <td>3025 Crosscreek Dr, Austin, TX 78757</td>
-        <td>6.4</td>
+        <td>Boulevard Church, Austin, TX 78744</td>
+        <td>6.9</td>
         <td>Non-denominational</td>
-        <td>michael@northvillagechurch.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.hpbcaustin.org/ target="blank">Highland Park Baptist Church</a></td>
-        <td>10:55 AM</td>
-        <td>5206 Balcones Dr, Austin, TX 78731</td>
-        <td>4.1</td>
-        <td>Baptist</td>
-        <td>hpbcoffice@hpbcaustin.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://covenant.org/ target="blank">Covenant Presbyterian Church</a></td>
-        <td>11:00 AM<br>8:15 AM<br>9:30 AM</td>
-        <td>3003 Northland Dr, Austin, TX 78757</td>
-        <td>4</td>
-        <td>Presbyterian</td>
-        <td>info@covenant.org</td>
+        <td>http://boulevardchurch.com/contact.html</td>
     </tr>
 
     <tr>
@@ -377,75 +260,129 @@
     </tr>
 
     <tr>
-        <td><a href=https://hopeccatx.com/ target="blank">Hope Community Church</a></td>
-        <td>10:30 AM</td>
-        <td>5908 Manor Rd, Austin, TX 78723</td>
-        <td>3.7</td>
-        <td>Non-denominational</td>
-        <td>hello@hopeccatx.com</td>
+        <td><a href=https://www.brentwoodoaks.org/ target="blank">Brentwood Oaks Church of Christ</a></td>
+        <td>10:15 AM</td>
+        <td>11908 N Lamar Blvd, Austin, TX 78753</td>
+        <td>8.4</td>
+        <td>Methodists</td>
+        <td>office@brentwoodoaks.org</td>
     </tr>
 
     <tr>
-        <td><a href=https://westover.org/ target="blank">Westover Hills Church of Christ</a>🎒</td>
-        <td>10:30 AM</td>
-        <td>8332 Mesa Dr, Austin, TX 78759</td>
-        <td>7.3</td>
-        <td>Church of Christ</td>
-        <td>info@westover.org</td>
+        <td><a href=https://www.bridgechurchag.org/ target="blank">Bridge Church of Austin</a></td>
+        <td>11:00 AM<br>9:00 AM</td>
+        <td>950 Westbank Dr, West Lake Hills, TX 78746</td>
+        <td>6</td>
+        <td>Assembly of God</td>
+        <td>info@bridgechurchag.org</td>
     </tr>
 
     <tr>
-        <td><a href=https://crossroadschurchaustin.com/ target="blank">Crossroads Church Austin</a></td>
-        <td>10:45 AM<br>9:00 AM</td>
-        <td>12424 Scofield Farms Dr, Austin, TX 78758</td>
-        <td>10</td>
-        <td>Non-denominational</td>
-        <td>info@crossroadschurchaustin.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.covenantaustin.org/ target="blank">Covenant United Methodist Church</a></td>
-        <td>11:15 AM<br>9:00 AM</td>
-        <td>4410 Duval Rd #6808, Austin, TX 78727</td>
-        <td>10.2</td>
-        <td>Methodist</td>
-        <td>covenantumc@covenantaustin.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://hvchurchofchrist.org/ target="blank">Highland Village Church of Christ</a></td>
-        <td>10:30 AM<br>5:00 PM</td>
-        <td>4716 Bull Creek Rd, Austin, TX 78731</td>
-        <td>3.1</td>
-        <td>Church of Christ</td>
-        <td>highlandvillagecoc@gmail.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://upcaustin.org/ target="blank">University Presbyterian Church</a>🎒</td>
-        <td>11:00 AM</td>
-        <td>2203 San Antonio St, Austin, TX 78705</td>
-        <td>0.2</td>
-        <td>Presbyterian</td>
-        <td>pastor@upcaustin.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.uccaustin.org/ target="blank">United Christian Church</a></td>
+        <td><a href=http://www.crccaustin.org/ target="blank">Cameron Road Church of Christ</a></td>
         <td>10:00 AM</td>
-        <td>3500 W Parmer Ln, Austin, TX 78727</td>
-        <td>10.8</td>
+        <td>6014 Cameron Rd, Austin, TX 78723</td>
+        <td>3</td>
         <td>Church of Christ</td>
-        <td>https://www.uccaustin.org/connect.html</td>
+        <td>cameronroad@sbcglobal.net</td>
     </tr>
 
     <tr>
-        <td><a href=https://www.redriverchurch.org/ target="blank">Red River Church</a></td>
-        <td>11:15 AM</td>
-        <td>4425 Red River St, Austin, TX 78751</td>
+        <td><a href=http://www.capcity.church/ target="blank">Capital City Church</a></td>
+        <td>6:00 PM</td>
+        <td>206 E Annie St, Austin, TX 78704</td>
+        <td>2.9</td>
+        <td>Non-denominational</td>
+        <td>capitalchurch.atx@gmail.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.celebration.church/ target="blank">Celebration Church Central Austin</a>🎒</td>
+        <td>9:30 AM<br>11:30 AM<br>5:00 PM</td>
+        <td>1006 W Koenig Ln, Austin, TX 78756</td>
+        <td>3.2</td>
+        <td>Non-denominational</td>
+        <td>info@celebration.church</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://cccaustin.org/ target="blank">Central Christian Church</a></td>
+        <td>11:00 AM</td>
+        <td>1110 Guadalupe St, Austin, TX 78701</td>
+        <td>0.9</td>
+        <td>Christian Church</td>
+        <td>staff@cccaustin.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.centralcity.church/ target="blank">Central City Austin</a></td>
+        <td>10:00 AM</td>
+        <td>9023 Old Lampasas Trail, Austin, TX 78750</td>
+        <td>12.6</td>
+        <td>Non-denominational</td>
+        <td>hello@centralcityaustin.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://cpcaustin.org/ target="blank">Central Presbyterian Church</a>🎒</td>
+        <td>11:00 AM</td>
+        <td>200 E 8th St, Austin, TX 78701</td>
+        <td>1</td>
+        <td>Presbyterian</td>
+        <td>https://cpcaustin.org/contact/</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://christchurchofaustin.org/ target="blank">Christ Church</a>🎒</td>
+        <td>11:00 AM<br>9:00 AM</td>
+        <td>112 Medina St, Austin, TX 78702</td>
+        <td>1.5</td>
+        <td>Anglican</td>
+        <td>info@christchurchofaustin.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.christaustin.org/ target="blank">Christ Lutheran Church</a></td>
+        <td>10:45 AM</td>
+        <td>300 E Monroe St, Austin, TX 78704</td>
+        <td>2.8</td>
+        <td>Lutheran</td>
+        <td>office@christaustin.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.clcaustin.com/ target="blank">Christian Life Austin</a></td>
+        <td>11:00 AM<br>9:00 AM</td>
+        <td>4700 West Gate Blvd, Austin, TX 78745</td>
+        <td>6.1</td>
+        <td>Non-denominational</td>
+        <td>hello@clcaustin.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://www.churchateast.com/ target="blank">Church At East</a></td>
+        <td>11:00 AM</td>
+        <td>2830 Real St, Austin, TX 78722</td>
         <td>1.3</td>
         <td>Non-denominational</td>
-        <td>office@redriverchurch.org</td>
+        <td>http://www.churchateast.com/contact-1</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://www.churchinaustin.org/ target="blank">Church in Austin</a>🎒</td>
+        <td>10:00 AM<br>12:00 PM</td>
+        <td>2530 S Congress Ave, Austin, TX 78704</td>
+        <td>3.5</td>
+        <td>Non-denominational</td>
+        <td>http://www.churchinaustin.org/contact</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.eastsidecoc.com/ target="blank">Church of Christ at East Side</a></td>
+        <td>10:00 AM<br>6:00 PM</td>
+        <td>5701 E Martin Luther King Jr Blvd, Austin, TX 78721</td>
+        <td>3.9</td>
+        <td>Church of Christ</td>
+        <td>info@eastsidecoc.com</td>
     </tr>
 
     <tr>
@@ -458,93 +395,30 @@
     </tr>
 
     <tr>
-        <td><a href=http://servantchurchaustin.org/ target="blank">Servant Church Austin</a></td>
-        <td>11:00 AM</td>
-        <td>1605 E 38th 1/2 St, Austin, TX 78722</td>
-        <td>1.2</td>
+        <td><a href=http://cogic1.org/about/ target="blank">Church of God in Christ #1</a></td>
+        <td>9:30 AM<br>10:30 AM</td>
+        <td>1168 Angelina St, Austin, TX 78702</td>
+        <td>1.1</td>
         <td>Non-denominational</td>
-        <td>info@servantchurchaustin.org</td>
+        <td>http://cogic1.org/contact/</td>
     </tr>
 
     <tr>
-        <td><a href=https://www.nwchurchofchrist.org/ target="blank">Northwest Church of Christ</a></td>
-        <td>11:00 AM<br>9:00 AM</td>
-        <td>4610 Duval Rd, Austin, TX 78727</td>
-        <td>10.4</td>
-        <td>Church of Christ</td>
-        <td>https://www.nwchurchofchrist.org/contact/ask-a-question</td>
+        <td><a href=https://www.facebook.com/pages/category/Religious-Organization/The-Church-of-Pentecost-USA-Inc-Austin-District-999986823463352/ target="blank">Church of Pentecost</a></td>
+        <td></td>
+        <td>Church of Pentecost, 7801 N Lamar Blvd # D102, Austin, TX 78752</td>
+        <td>4.9</td>
+        <td>Pentecostal</td>
+        <td>None</td>
     </tr>
 
     <tr>
-        <td><a href=http://www.memorialumcaustin.com/ target="blank">Memorial United Methodist Church</a></td>
-        <td>10:30 AM</td>
-        <td>6100 Berkman Dr, Austin, TX 78723</td>
-        <td>3.5</td>
-        <td>Methodist</td>
-        <td>secretary@memorialumcaustin.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.milwoodbaptist.com/ target="blank">Milwood Baptist Church</a></td>
-        <td>10:30 AM</td>
-        <td>12217 Cassady Dr, Austin, TX 78727</td>
-        <td>10.4</td>
-        <td>Southern Baptist</td>
-        <td>admin@milwoodbaptist.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://www.austinstjohns.org/ target="blank">St. Johns Episcopal Church</a></td>
-        <td>10:00 AM<br>12:00 PM</td>
-        <td>11201 Parkfield Dr, Austin, TX 78758</td>
-        <td>7.8</td>
-        <td>Episcopal</td>
-        <td>http://www.austinstjohns.org/contact-us.html</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.midtownaustin.org/ target="blank">Midtown Church Austin</a>🎒</td>
-        <td>10:45 AM</td>
-        <td>3308 Hampton Rd, Austin, TX 78705</td>
-        <td>0.5</td>
-        <td>Orthodox</td>
-        <td>jake@midtownaustin.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://5twelve.church/ target="blank">5twelve City Church</a></td>
-        <td>10:00 AM</td>
-        <td>2312 San Gabriel St, Austin, TX 78712</td>
-        <td>0.4</td>
-        <td>Non-denominational</td>
-        <td>admin@5twelve.church</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.fpcaustin.org/ target="blank">First Presbyterian Church of Austin</a></td>
-        <td>11:15 AM<br>8:45 AM</td>
-        <td>8001 Mesa Dr, Austin, TX 78731</td>
-        <td>7.1</td>
-        <td>Presbyterian</td>
-        <td>fpc@fpcaustin.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://www.ecraustin.org/ target="blank">Episcopal Church of the Resurrection</a></td>
-        <td>10:30 AM<br>8:30 AM</td>
-        <td>2200 Justin Ln, Austin, TX 78757</td>
-        <td>4.4</td>
-        <td>Episcopal</td>
-        <td>office@ecraustin.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.radiantaustin.com/ target="blank">Radiant Church</a></td>
-        <td>11:00 AM<br>9:00 AM</td>
-        <td>7020 US-290 suite d, Austin, TX 78723</td>
-        <td>4</td>
-        <td>Non-denominational</td>
-        <td>info@radiantaustin.com</td>
+        <td><a href=https://www.scientology-austin.org/ target="blank">Church of Scientology of Texas</a></td>
+        <td></td>
+        <td>2825 Hancock Dr, Austin, TX 78731</td>
+        <td>3.4</td>
+        <td>Scientology</td>
+        <td>None</td>
     </tr>
 
     <tr>
@@ -557,66 +431,444 @@
     </tr>
 
     <tr>
-        <td><a href=https://www.uumc.org/ target="blank">University United Methodist Church</a>🎒</td>
-        <td>11:00 AM<br>9:00 AM</td>
-        <td>2409 Guadalupe St, Austin, TX 78705</td>
-        <td>0.1</td>
-        <td>Methodist</td>
-        <td>office@uumc.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.redrocksaustin.com/ target="blank">Red Rocks Church</a></td>
-        <td>11:00 AM<br>9:00 AM</td>
-        <td>7625 N Interstate Hwy 35, Austin, TX 78752</td>
-        <td>4.3</td>
+        <td><a href=https://austincitylife.org/ target="blank">City Life Church</a></td>
+        <td>10:00 AM</td>
+        <td>501 W 3rd St, Austin, TX 78701</td>
+        <td>1.6</td>
         <td>Non-denominational</td>
-        <td>https://www.redrocksaustin.com/Director.aspx?sid=31&sky=DG&pgi=128&pgk=RI7RSRRZ&eli=1B3A574CD059F0CC5664D82293684234448F612D46066DFF&rid=4699115&rky=9L3FRVXZ&tky=132386998954488060</td>
+        <td>INFO@AUSTINCITYLIFE.ORG</td>
     </tr>
 
     <tr>
-        <td><a href=https://wpcaustin.org/ target="blank">Westminster Presbyterian Church</a></td>
+        <td><a href=https://ccox82.wixsite.com/austin-cofchrist target="blank">Community of Christ</a></td>
         <td>11:00 AM</td>
-        <td>3208 Exposition Blvd, Austin, TX 78703</td>
-        <td>2.5</td>
+        <td>2132 Bluebonnet Ln, Austin, TX 78704</td>
+        <td>4.1</td>
+        <td>Non-denominational</td>
+        <td>https://ccox82.wixsite.com/austin-cofchrist/contact</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://congregationalchurchofaustin.org/ target="blank">Congregational Church of Austin</a>🎒</td>
+        <td>12:00 PM</td>
+        <td>408 W 23rd St #5214, Austin, TX 78705</td>
+        <td>0.1</td>
+        <td>Church of Christ</td>
+        <td>ucausti@swbell.net</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://covenant.org/ target="blank">Covenant Presbyterian Church</a></td>
+        <td>11:00 AM<br>8:15 AM<br>9:30 AM</td>
+        <td>3003 Northland Dr, Austin, TX 78757</td>
+        <td>4</td>
         <td>Presbyterian</td>
-        <td>https://wpcaustin.org/contact-us/</td>
+        <td>info@covenant.org</td>
     </tr>
 
     <tr>
-        <td><a href=https://promiselandchurch.net/ target="blank">Promiseland Church</a></td>
-        <td>10:30 AM</td>
-        <td>1504 E 51st St, Austin, TX 78723</td>
-        <td>2.6</td>
-        <td>Messianic Jewish</td>
-        <td>https://promiselandchurch.net/contact-us/</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://saintalbert.org/ target="blank">Saint Albert the Great Catholic Church</a></td>
-        <td>10:00 AM</td>
-        <td>12041 Bittern Hollow, Austin, TX 78758</td>
-        <td>9.1</td>
-        <td>Catholic</td>
-        <td>info@saintalbert.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://churchofjesuschristatx.org/ target="blank">The Church of Jesus Christ of Latter-day Saints</a></td>
-        <td></td>
-        <td>2020 San Antonio St, Austin, TX 78705</td>
-        <td>0.4</td>
-        <td>Mormon</td>
-        <td>churchofjesuschristatx@gmail.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.stmarkaustin.org/ target="blank">St. Mark United Methodist Church</a></td>
-        <td>10:00 AM</td>
-        <td>601 W Braker Ln, Austin, TX 78753</td>
-        <td>7.5</td>
+        <td><a href=https://www.covenantaustin.org/ target="blank">Covenant United Methodist Church</a></td>
+        <td>11:15 AM<br>9:00 AM</td>
+        <td>4410 Duval Rd #6808, Austin, TX 78727</td>
+        <td>10.2</td>
         <td>Methodist</td>
-        <td>stmarkaustin@gmail.com</td>
+        <td>covenantumc@covenantaustin.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.violetcrown.church/ target="blank">Crestview United Methodist Church</a></td>
+        <td></td>
+        <td>1300 Morrow St, Austin, TX 78757</td>
+        <td>4.6</td>
+        <td>Methodist</td>
+        <td>jcooper@tumc.church</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://austincristorey.org/ target="blank">Cristo Rey Catholic Church</a></td>
+        <td>8:30 AM<br>6:00 AM<br>12:00 PM</td>
+        <td>2208 E 2nd St, Austin, TX 78702</td>
+        <td>2.7</td>
+        <td>Catholic</td>
+        <td>cristoreycc@craustin.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://crossroadschurchaustin.com/ target="blank">Crossroads Church Austin</a></td>
+        <td>10:45 AM<br>9:00 AM</td>
+        <td>12424 Scofield Farms Dr, Austin, TX 78758</td>
+        <td>10</td>
+        <td>Non-denominational</td>
+        <td>info@crossroadschurchaustin.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://www.davidchapel.org/ target="blank">David Chapel Missionary Baptist Church</a>🎒</td>
+        <td>10:30 AM</td>
+        <td>2211 E Martin Luther King Jr Blvd, Austin, TX 78702</td>
+        <td>0.9</td>
+        <td>Baptist</td>
+        <td>info@davidchapel.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://dreamers.church/ target="blank">Dreamer's Church</a>🎒</td>
+        <td>3:00 PM<br>5:30 PM</td>
+        <td>7601 Guadalupe St, Austin, TX 78752</td>
+        <td>4.2</td>
+        <td>Non-denominational</td>
+        <td>https://dreamers.church/visit</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.eccatx.com/ target="blank">Eastside Community Church</a></td>
+        <td>11:00 AM</td>
+        <td>1190 Chicon St #2100, Austin, TX 78702</td>
+        <td>1.1</td>
+        <td>Non-denominational</td>
+        <td>info@eccatx.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://www.ebcaustin.com/ target="blank">Emmanuel Bible Church of Christ</a></td>
+        <td>10:00 AM</td>
+        <td>1144 Northwestern Ave, Austin, TX 78702</td>
+        <td>1.5</td>
+        <td>Non-denominational</td>
+        <td>https://www.ebcaustin.com/contact</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://eumcaustin.org/ target="blank">Emmanuel United Methodist Church</a></td>
+        <td>11:00 AM</td>
+        <td>200 Brushy St, Austin, TX 78702</td>
+        <td>1.3</td>
+        <td>Methodist </td>
+        <td>None</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://www.ecraustin.org/ target="blank">Episcopal Church of the Resurrection</a></td>
+        <td>10:30 AM<br>8:30 AM</td>
+        <td>2200 Justin Ln, Austin, TX 78757</td>
+        <td>4.4</td>
+        <td>Episcopal</td>
+        <td>office@ecraustin.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://www.eeccaustin.com/ target="blank">Ethiopian Evangelical Christian Church</a></td>
+        <td>10:00 AM</td>
+        <td>305 Deen Ave, Austin, TX 78753</td>
+        <td>5.7</td>
+        <td>Evangelical</td>
+        <td>service@eecaustin.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://evergreen.church/ target="blank">Evergreen Church of Austin</a></td>
+        <td>9:10 AM</td>
+        <td>5002 Caswell Ave, Austin, TX 78751</td>
+        <td>1.9</td>
+        <td>Non-denominational</td>
+        <td>512-270-9191</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.faithlutheranaustin.org/ target="blank">Faith Lutheran Church</a></td>
+        <td>10:00 AM</td>
+        <td>6600 Woodrow Ave, Austin, TX 78757</td>
+        <td>3.9</td>
+        <td>Lutheran</td>
+        <td>flcoffice@att.net</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://faithpresaustin.org/ target="blank">Faith Presbyterian Church</a></td>
+        <td>10:00 AM</td>
+        <td>1314 E Oltorf St, Austin, TX 78704</td>
+        <td>3.8</td>
+        <td>Presbyterian</td>
+        <td>FaithChurchAustin@gmail.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.fbcaustin.org/ target="blank">First Baptist Church Circle Drive</a>🎒</td>
+        <td></td>
+        <td>900 Neches St, Austin, TX 78701</td>
+        <td>1.2</td>
+        <td>Baptist</td>
+        <td>info@fbcaustin.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.fbcaustin.org/ target="blank">First Baptist Church of Austin</a></td>
+        <td>11:00 AM</td>
+        <td>901 Trinity St, Austin, TX 78701</td>
+        <td>0.8</td>
+        <td>Baptist</td>
+        <td>info@fbcaustin.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://christianscienceaustin.org/ target="blank">First Church of Christ, Scientist</a></td>
+        <td>11:00 AM</td>
+        <td>1309 Guadalupe St, Austin, TX 78701</td>
+        <td>0.8</td>
+        <td>Christian Science</td>
+        <td>None</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.felcaustin.org/ target="blank">First English Lutheran Church</a></td>
+        <td>10:00 AM</td>
+        <td>3001 Whitis Ave, Austin, TX 78705</td>
+        <td>0.6</td>
+        <td>Lutheran</td>
+        <td>info@felcaustin.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.fpcofaustin.org/ target="blank">First Pentecostal Church of Austin</a></td>
+        <td>11:30 AM<br>7:00 PM</td>
+        <td>7440 Ed Bluestein Blvd, Austin, TX 78723</td>
+        <td>5.5</td>
+        <td>Pentecostal</td>
+        <td>None</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.fpcaustin.org/ target="blank">First Presbyterian Church of Austin</a></td>
+        <td>11:15 AM<br>8:45 AM</td>
+        <td>8001 Mesa Dr, Austin, TX 78731</td>
+        <td>7.1</td>
+        <td>Presbyterian</td>
+        <td>fpc@fpcaustin.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://austinuu.org/wp2013/ target="blank">First Unitarian Universalist Church</a></td>
+        <td>9:15 AM<br>10:45 AM</td>
+        <td>4700 Grover Ave, Austin, TX 78756</td>
+        <td>2.7</td>
+        <td>Universalist</td>
+        <td>info@austinuu.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://fumcaustin.org/ target="blank">First United Methodist Church of Austin</a></td>
+        <td>11:00 AM<br>9:00 AM</td>
+        <td>1201 Lavaca St, Austin, TX 78701</td>
+        <td>0.9</td>
+        <td>Methodist</td>
+        <td>contact@fumcaustin.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.gatewaychurch.com/?gclid=EAIaIQobChMIuPre9vi96gIVDdbACh194Q4DEAAYASAAEgIwcfD_BwE target="blank">Gateway Church</a></td>
+        <td>11:15 AM<br>9:15 AM<br>6:00 PM</td>
+        <td>5600 Sunshine Dr, Austin, TX 78756</td>
+        <td>3.1</td>
+        <td>Non-denominational</td>
+        <td>NorthAustin@GatewayChurch.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://gethsemaneaustin.org/ target="blank">Gethsemane Lutheran Church</a></td>
+        <td>8:15 AM<br>10:30 AM</td>
+        <td>200 West Anderson LaneAustin, Texas 78752-1197</td>
+        <td>4.56</td>
+        <td>Lutheran</td>
+        <td>info@gethsemaneaustin.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://gracechurchaustin.com/ target="blank">Grace Church Austin</a></td>
+        <td>11:15 AM</td>
+        <td>3401 S IH 35 Frontage Rd, Austin, TX 78741</td>
+        <td>4.5</td>
+        <td>Non-denominational</td>
+        <td>https://gracechurchaustin.com/contact-us</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://grace360.org/ target="blank">Grace Covenant Church</a>🎒</td>
+        <td>11:00 AM<br>9:15 AM</td>
+        <td>9431 Jollyville Rd, Austin, TX 78759</td>
+        <td>7.9</td>
+        <td>Bible Church</td>
+        <td>https://grace360.org/contact/</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://gfccaustin.org/monkcomeback.php target="blank">Grace First Community Church</a></td>
+        <td>10:00 AM</td>
+        <td>6020 S 1st St, Austin, TX 78745</td>
+        <td>6.8</td>
+        <td>Non-denominational</td>
+        <td>info@gfccaustin.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.gracepointonline.org/ target="blank">Gracepoint Austin Church</a>🎒</td>
+        <td>2:00 PM</td>
+        <td>405 W 22nd St, Austin, TX 78705</td>
+        <td>0.2</td>
+        <td>Southern Baptist</td>
+        <td>https://www.gracepointonline.org/contact-us</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://www.gwcaustin.org/ target="blank">Grant AME Worship Center</a></td>
+        <td>10:15 AM</td>
+        <td>1701 Kramer Ln, Austin, TX 78758</td>
+        <td>8</td>
+        <td>Methodist Episcopal</td>
+        <td>grantworshipctr@sbcglobal.net</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.ghbc.org/ target="blank">Great Hills Baptist Church</a>🎒</td>
+        <td>11:00 AM</td>
+        <td>10500 Jollyville Rd, Austin, TX 78759</td>
+        <td>8.9</td>
+        <td>Baptist</td>
+        <td>https://www.ghbc.org/contact</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://gmzaustin.org/ target="blank">Greater Mount Zion Baptist Church</a>🎒</td>
+        <td>8:30 AM<br>11:00 AM</td>
+        <td>4301 Tannehill Ln, Austin, TX 78721</td>
+        <td>3.8</td>
+        <td>Baptist</td>
+        <td>info@gmzaustin.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://greaterpeace.org/tp50/Default.asp?ID=96063 target="blank">Greater Peace Christian Church</a></td>
+        <td>11:15 AM</td>
+        <td>1203 E Cesar Chavez St, Austin, TX 78702</td>
+        <td>2.1</td>
+        <td>Pentecostal-Apostolic</td>
+        <td>http://greaterpeace.org/tp50/Application.asp?app=Contact&ID=96058</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.greaterworksbcatwork.org/ target="blank">Greater Works Baptist Church</a></td>
+        <td>11:00 AM</td>
+        <td>4000 Tannehill Ln, Austin, TX 78721</td>
+        <td>4.1</td>
+        <td>Baptist</td>
+        <td>None</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://gtaustin.com/ target="blank">GTAustin</a>🎒</td>
+        <td>10:25 AM</td>
+        <td>2700 Northland Dr, Austin, TX 78756</td>
+        <td>3.8</td>
+        <td>Non-denominational</td>
+        <td>512.459.5481</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.highpointeaustin.org/ target="blank">High Pointe Baptist Church</a>🎒</td>
+        <td>10:00 AM</td>
+        <td>12030 Dessau Rd, Austin, TX 78754</td>
+        <td>8.5</td>
+        <td>Baptist</td>
+        <td>https://www.highpointeaustin.org/contact-us</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.hpbcaustin.org/ target="blank">Highland Park Baptist Church</a></td>
+        <td>10:55 AM</td>
+        <td>5206 Balcones Dr, Austin, TX 78731</td>
+        <td>4.1</td>
+        <td>Baptist</td>
+        <td>hpbcoffice@hpbcaustin.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://hvchurchofchrist.org/ target="blank">Highland Village Church of Christ</a></td>
+        <td>10:30 AM<br>5:00 PM</td>
+        <td>4716 Bull Creek Rd, Austin, TX 78731</td>
+        <td>3.1</td>
+        <td>Church of Christ</td>
+        <td>highlandvillagecoc@gmail.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://hillcrest.church/ target="blank">Hillcrest Church</a></td>
+        <td>10:00 AM</td>
+        <td>3838 Steck Ave, Austin, TX 78759</td>
+        <td>6.9</td>
+        <td>Non-denominational</td>
+        <td>information@hillcrest.church</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://www.hollandstreetchurchofchrist.org/ target="blank">Holland Church of Christ</a></td>
+        <td>10:30 AM</td>
+        <td>208 Adams St, Austin, TX 78729</td>
+        <td>2.5</td>
+        <td>Church of Christ</td>
+        <td>None</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.holycrossaustin.org/?fbclid=IwAR10VMJU-ka_H_J-fnRK8ygadas3jJ8ABc9vaO194EatzFagwO3kVzmt6Zo target="blank">Holy Cross Catholic Church</a></td>
+        <td>10:00 AM<br>8:00 AM<br>1:30 PM</td>
+        <td>1610 E 11th St, Austin, TX 78702</td>
+        <td>1.3</td>
+        <td>Catholic</td>
+        <td>https://www.holycrossaustin.org/contact-us</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.holycrossatx.org/ target="blank">Holy Cross Lutheran Church</a></td>
+        <td>10:00 AM</td>
+        <td>4622 S Lamar Blvd, Austin, TX 78745</td>
+        <td>6.2</td>
+        <td>Lutheran</td>
+        <td>None</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://hope.org/ target="blank">Hope Chapel</a></td>
+        <td>10:00 AM</td>
+        <td>6701 Arroyo Seco, Austin, TX 78757</td>
+        <td>4.2</td>
+        <td>Non-denominational</td>
+        <td>https://hope.org/contact/</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://hopeccatx.com/ target="blank">Hope Community Church</a></td>
+        <td>10:30 AM</td>
+        <td>5908 Manor Rd, Austin, TX 78723</td>
+        <td>3.7</td>
+        <td>Non-denominational</td>
+        <td>hello@hopeccatx.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.hpbc.org/ target="blank">Hyde Park Baptist Church</a>🎒</td>
+        <td>11:00 AM<br>8:30 AM</td>
+        <td>3901 Speedway, Austin, TX 78751</td>
+        <td>1.1</td>
+        <td>Baptist</td>
+        <td>info@hpbc.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.hpcbc.org/ target="blank">Hyde Park Chinese Baptist Church</a>🎒</td>
+        <td>11:00 AM</td>
+        <td>3901 Speedway, Austin, TX 78751</td>
+        <td>1.1</td>
+        <td>Baptist</td>
+        <td>hydeparkchurch@gmail.com</td>
     </tr>
 
     <tr>
@@ -638,606 +890,21 @@
     </tr>
 
     <tr>
-        <td><a href=https://stmattsaustin.org/ target="blank">St Matthew's Episcopal Church</a></td>
-        <td>10:30 AM</td>
-        <td>8134 Mesa Dr, Austin, TX 78759</td>
-        <td>7.2</td>
-        <td>Episcopal</td>
-        <td>https://stmattsaustin.org/Contact/email-us.html</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://walnutcreekbaptistchurch.com/ target="blank">Walnut Creek Baptist Church</a></td>
-        <td>10:45 AM<br>6:00 PM</td>
-        <td>12062 N Lamar Blvd, Austin, TX 78753</td>
-        <td>8.6</td>
-        <td>Baptist</td>
-        <td>https://walnutcreekbaptistchurch.com/contact-us/</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://www.trinityaustin.com/ target="blank">Trinity Lutheran Church</a></td>
-        <td>10:30 AM</td>
-        <td>1207 W 45th St, Austin, TX 78756</td>
-        <td>2.2</td>
-        <td>Lutheran</td>
-        <td>pastorharris@trinityaustin.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.ststephensmbc.org/ target="blank">St. Stephens Baptist Church</a></td>
-        <td>11:00 AM</td>
-        <td>3107 E 51st St, Austin, TX 78723</td>
-        <td>3.3</td>
-        <td>Baptist</td>
-        <td>admin@ststephensmbc.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.faithlutheranaustin.org/ target="blank">Faith Lutheran Church</a></td>
-        <td>10:00 AM</td>
-        <td>6600 Woodrow Ave, Austin, TX 78757</td>
-        <td>3.9</td>
-        <td>Lutheran</td>
-        <td>flcoffice@att.net</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.stpaulaustin.org/ target="blank">St. Paul Lutheran Church</a></td>
-        <td>10:40 AM<br>8:15 AM</td>
-        <td>3501 Red River St, Austin, TX 78705</td>
-        <td>0.6</td>
-        <td>Lutheran</td>
-        <td>churchoffice@stpaulaustin.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.sgchurch.org/ target="blank">St. George's Episcopal Church</a></td>
-        <td>10:30 AM</td>
-        <td>4301 N Interstate Hwy 35, Austin, TX 78722</td>
-        <td>1.3</td>
-        <td>Episcopal</td>
-        <td>stgeorgeaustin@gmail.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://dreamers.church/ target="blank">Dreamer's Church</a>🎒</td>
-        <td>3:00 PM<br>5:30 PM</td>
-        <td>7601 Guadalupe St, Austin, TX 78752</td>
-        <td>4.2</td>
+        <td><a href=https://www.ircaustin.org/ target="blank">International Restoration Church</a></td>
+        <td>1:00 PM</td>
+        <td>10200 Sprinkle Rd, Austin, TX 78754</td>
+        <td>7.3</td>
         <td>Non-denominational</td>
-        <td>https://dreamers.church/visit</td>
+        <td>kimn50@gmail.com</td>
     </tr>
 
     <tr>
-        <td><a href=http://tllc.org/ target="blank">Triumphant Love Lutheran Church</a></td>
-        <td>11:00 AM<br>9:00 AM</td>
-        <td>9508 Great Hills Trail, Austin, TX 78759</td>
-        <td>8.8</td>
-        <td>Lutheran</td>
-        <td>http://tllc.org/contact-form/</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.st-louis.org/ target="blank">Saint Louis King of France Catholic Church</a></td>
-        <td>11:30 AM<br>9:30 AM<br>7:30 AM</td>
-        <td>7601 Burnet Rd, Austin, TX 78757</td>
-        <td>5</td>
-        <td>Catholic</td>
-        <td>media@st-louis.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.violetcrown.church/ target="blank">Crestview United Methodist Church</a></td>
-        <td></td>
-        <td>1300 Morrow St, Austin, TX 78757</td>
-        <td>4.6</td>
-        <td>Methodist</td>
-        <td>jcooper@tumc.church</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://ascensionaustin.org/ target="blank">Ascension Lutheran Church</a></td>
-        <td>10:30 AM</td>
-        <td>6420 Hart Ln, Austin, TX 78731</td>
-        <td>5</td>
-        <td>Lutheran</td>
-        <td>office@ascensionaustin.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://www.crccaustin.org/ target="blank">Cameron Road Church of Christ</a></td>
-        <td>10:00 AM</td>
-        <td>6014 Cameron Rd, Austin, TX 78723</td>
-        <td>3</td>
-        <td>Church of Christ</td>
-        <td>cameronroad@sbcglobal.net</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://stfrancisaustin.org/ target="blank">St. Francis Anglican Church</a></td>
-        <td>11:00 AM<br>9:30 AM</td>
-        <td>3401 Oak Creek Dr, Austin, TX 78727</td>
-        <td>10.7</td>
-        <td>Anglican</td>
-        <td>rector@stfrancisaustin.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://actsaustin.org/ target="blank">Acts Fellowship Church</a>🎒</td>
-        <td>10:05 AM</td>
-        <td>211 W Koenig Ln, Austin, TX 78751</td>
-        <td>2.8</td>
-        <td>Baptist</td>
-        <td>None</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.themount.net/ target="blank">Mt. Sinai Baptist Church</a></td>
-        <td>6:00 PM</td>
-        <td>8500 Cameron Rd, Austin, TX 78754</td>
-        <td>5</td>
-        <td>Baptist</td>
-        <td>(512) 451-0808</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.redeemer.net/ target="blank">Redeemer Lutheran Church</a></td>
-        <td>8:00 AM<br>9:30 AM<br>11:00 AM</td>
-        <td>1500 W Anderson Ln, Austin, TX 78757</td>
-        <td>5</td>
-        <td>Lutheran</td>
-        <td>info@redeemer.net</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://ourladysmaronite.org/ target="blank">Our Lady's Maronite Church</a></td>
-        <td>10:00 AM</td>
-        <td>1320 E 51st St, Austin, TX 78723</td>
-        <td>2.4</td>
-        <td>Catholicism</td>
-        <td>email@ourladysmaronite.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://sites.google.com/klcchurch.com/klcchurch/home target="blank">Koenig Lane Christian Church</a></td>
-        <td>10:45 AM</td>
-        <td>908 Old Koenig Ln, Austin, TX 78756</td>
-        <td>3.1</td>
-        <td>Non-denominational</td>
-        <td>klcc@klcchurch.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://austinuu.org/wp2013/ target="blank">First Unitarian Universalist Church</a></td>
-        <td>9:15 AM<br>10:45 AM</td>
-        <td>4700 Grover Ave, Austin, TX 78756</td>
-        <td>2.7</td>
-        <td>Universalist</td>
-        <td>info@austinuu.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://gsaustin.org/ target="blank">The Episcopal Church of the Good Shepherd</a></td>
-        <td>10:30 AM</td>
-        <td>3201 Windsor Rd, Austin, TX 78703</td>
-        <td>1.8</td>
-        <td>Episcopal</td>
-        <td>None</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://redeemerpres.org/ target="blank">Redeemer Presbyterian Church</a></td>
-        <td>8:45 AM<br>11:15 AM</td>
-        <td>2111 Alexander Ave, Austin, TX 78722</td>
-        <td>1.2</td>
-        <td>Presbyterian</td>
-        <td>512.708.1232</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://thehopeaustin.net/ target="blank">New Hope Church</a></td>
-        <td>11:00 AM</td>
-        <td>7201 Colony Loop Dr, Austin, TX 78724</td>
-        <td>8.8</td>
-        <td>Baptist</td>
-        <td>(512) 710-5462</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.scientology-austin.org/ target="blank">Church of Scientology of Texas</a></td>
-        <td></td>
-        <td>2825 Hancock Dr, Austin, TX 78731</td>
-        <td>3.4</td>
-        <td>Scientology</td>
-        <td>None</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.brentwoodoaks.org/ target="blank">Brentwood Oaks Church of Christ</a></td>
-        <td>10:15 AM</td>
-        <td>11908 N Lamar Blvd, Austin, TX 78753</td>
-        <td>8.4</td>
-        <td>Methodists</td>
-        <td>office@brentwoodoaks.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://gtaustin.com/ target="blank">GTAustin</a>🎒</td>
-        <td>10:25 AM</td>
-        <td>2700 Northland Dr, Austin, TX 78756</td>
-        <td>3.8</td>
-        <td>Non-denominational</td>
-        <td>512.459.5481</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.felcaustin.org/ target="blank">First English Lutheran Church</a></td>
-        <td>10:00 AM</td>
-        <td>3001 Whitis Ave, Austin, TX 78705</td>
-        <td>0.6</td>
-        <td>Lutheran</td>
-        <td>info@felcaustin.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.planetshakers.com/church/ target="blank">Planetshakers Church Austin</a></td>
-        <td>9:30 AM<br>11:30 AM<br>3:30 PM<br>6:00 PM</td>
-        <td>1101 Reinli St, Austin, TX 78723</td>
-        <td>2.7</td>
-        <td>Non-denominational</td>
-        <td>None</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.northsidechristian.com/ target="blank">Northside Church Austin</a></td>
-        <td>10:40 AM<br>9:00 AM<br>12:10 PM</td>
-        <td>12424 Scofield Farms Dr, Austin, TX 78758</td>
-        <td>10</td>
-        <td>Non-denominational</td>
-        <td>office@northsidechristian.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://www.nacconline.info/ target="blank">North Austin Christian Church</a></td>
-        <td>10:00 AM</td>
-        <td>1734 Rutland Dr, Austin, TX 78758</td>
-        <td>7</td>
-        <td>Non-denominational</td>
-        <td>rb.nacc@gmail.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://www.mimschapelcogic.com/ target="blank">Mims Chapel Church of God in Christ</a></td>
-        <td></td>
-        <td>1801 E 38th 1/2 St, Austin, TX 78722</td>
-        <td>1.4</td>
-        <td>Non-denominational</td>
-        <td>mimschapel@sbcglobal.net</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://www.messiahaustin.com/ target="blank">Messiah Lutheran Church</a></td>
-        <td>10:30 AM</td>
-        <td>5701 Cameron Rd, Austin, TX 78723</td>
-        <td>2.7</td>
-        <td>Lutheran</td>
-        <td>MLCInfo@messiahaustin.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://evergreen.church/ target="blank">Evergreen Church of Austin</a></td>
-        <td>9:10 AM</td>
-        <td>5002 Caswell Ave, Austin, TX 78751</td>
-        <td>1.9</td>
-        <td>Non-denominational</td>
-        <td>512-270-9191</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://austinmennonite.org/ target="blank">Austin Mennonite Church</a></td>
-        <td>11:00 AM</td>
-        <td>5801 Westminster Dr, Austin, TX 78723</td>
-        <td>3.5</td>
-        <td>Mennonite</td>
-        <td>AustinMennonite@gmail.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://hope.org/ target="blank">Hope Chapel</a></td>
-        <td>10:00 AM</td>
-        <td>6701 Arroyo Seco, Austin, TX 78757</td>
-        <td>4.2</td>
-        <td>Non-denominational</td>
-        <td>https://hope.org/contact/</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.riverlifeaustin.org/ target="blank">Riverlife Eritrea Church</a></td>
-        <td>3:00 PM</td>
-        <td>2700 Northland Dr, Austin, TX 78756</td>
-        <td>3.8</td>
-        <td>Baptist</td>
-        <td>admin@riverlifeaustin.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://sunriseaustin.org/ target="blank">Sunrise Community Church</a></td>
-        <td>10:00 AM</td>
-        <td>4430 Menchaca Rd, Austin, TX 78745</td>
-        <td>5.7</td>
-        <td>Christian Reformed Church</td>
-        <td>sunrise@sunriseaustin.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://austinnewchurch.com/ target="blank">Austin New Church</a></td>
-        <td>11:00 AM<br>9:30 AM</td>
-        <td>2701 S Lamar Blvd, Austin, TX 78704</td>
+        <td><a href=http://joshua-church.com/ target="blank">Joshua Church</a>🎒</td>
+        <td>11:15 AM<br>9:00 AM</td>
+        <td>2000 Justin Ln, Austin, TX 78757</td>
         <td>4.4</td>
-        <td>Methodist</td>
-        <td>tray@austinnewchurch.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://www.churchinaustin.org/ target="blank">Church in Austin</a>🎒</td>
-        <td>10:00 AM<br>12:00 PM</td>
-        <td>2530 S Congress Ave, Austin, TX 78704</td>
-        <td>3.5</td>
         <td>Non-denominational</td>
-        <td>http://www.churchinaustin.org/contact</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.riverbend.com/ target="blank">Riverbend Church</a></td>
-        <td>11:15 AM<br>8:30 AM<br>9:45 AM</td>
-        <td>4214 N Capital of Texas Hwy, Austin, TX 78746</td>
-        <td>11.2</td>
-        <td>Non-denominational</td>
-        <td>info@riverbend.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.thewellaustin.com/ target="blank">The Well Austin Church</a></td>
-        <td>11:15 AM<br>9:15 AM</td>
-        <td>1601 Haskell St, Austin, TX 78702</td>
-        <td>2.2</td>
-        <td>Non-denominational</td>
-        <td>https://thewellcommunitychurch.churchcenter.com/people/forms/118193</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.clcaustin.com/ target="blank">Christian Life Austin</a></td>
-        <td>11:00 AM<br>9:00 AM</td>
-        <td>4700 West Gate Blvd, Austin, TX 78745</td>
-        <td>6.1</td>
-        <td>Non-denominational</td>
-        <td>hello@clcaustin.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.shccaustin.org/ target="blank">Shepherd of the Hills Christian Church</a></td>
-        <td>10:40 AM</td>
-        <td>6909 W Courtyard Dr, Austin, TX 78730</td>
-        <td>8.6</td>
-        <td>Disciples of Christ</td>
-        <td>shccaustin@gmail.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://christianscienceaustin.org/ target="blank">First Church of Christ, Scientist</a></td>
-        <td>11:00 AM</td>
-        <td>1309 Guadalupe St, Austin, TX 78701</td>
-        <td>0.8</td>
-        <td>Christian Science</td>
-        <td>None</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://www.davidchapel.org/ target="blank">David Chapel Missionary Baptist Church</a>🎒</td>
-        <td>10:30 AM</td>
-        <td>2211 E Martin Luther King Jr Blvd, Austin, TX 78702</td>
-        <td>0.9</td>
-        <td>Baptist</td>
-        <td>info@davidchapel.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.christaustin.org/ target="blank">Christ Lutheran Church</a></td>
-        <td>10:45 AM</td>
-        <td>300 E Monroe St, Austin, TX 78704</td>
-        <td>2.8</td>
-        <td>Lutheran</td>
-        <td>office@christaustin.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://ccox82.wixsite.com/austin-cofchrist target="blank">Community of Christ</a></td>
-        <td>11:00 AM</td>
-        <td>2132 Bluebonnet Ln, Austin, TX 78704</td>
-        <td>4.1</td>
-        <td>Non-denominational</td>
-        <td>https://ccox82.wixsite.com/austin-cofchrist/contact</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://wesleyunited.org/ target="blank">Wesley United Methodist Church</a></td>
-        <td>10:00 AM</td>
-        <td>1164 San Bernard St, Austin, TX 78702</td>
-        <td>1</td>
-        <td>Methodist</td>
-        <td>thedeskofwesley@sbcglobal.net</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://stjamescmbc.org/ target="blank">St. James Missionary Baptist Church</a></td>
-        <td>10:00 AM</td>
-        <td>3417 E Martin Luther King Jr Blvd, Austin, TX 78721</td>
-        <td>2</td>
-        <td>Baptist</td>
-        <td>info@stjamescmbc.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.holycrossaustin.org/?fbclid=IwAR10VMJU-ka_H_J-fnRK8ygadas3jJ8ABc9vaO194EatzFagwO3kVzmt6Zo target="blank">Holy Cross Catholic Church</a></td>
-        <td>10:00 AM<br>8:00 AM<br>1:30 PM</td>
-        <td>1610 E 11th St, Austin, TX 78702</td>
-        <td>1.3</td>
-        <td>Catholic</td>
-        <td>https://www.holycrossaustin.org/contact-us</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.southaustinchristianchurch.net/ target="blank">South Austin Christian Church</a></td>
-        <td>10:00 AM<br>11:30 AM</td>
-        <td>206 E Annie St, Austin, TX 78704</td>
-        <td>2.9</td>
-        <td>Non-denominational</td>
-        <td>mbanks2020@gmail.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://faithpresaustin.org/ target="blank">Faith Presbyterian Church</a></td>
-        <td>10:00 AM</td>
-        <td>1314 E Oltorf St, Austin, TX 78704</td>
-        <td>3.8</td>
-        <td>Presbyterian</td>
-        <td>FaithChurchAustin@gmail.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.eastsidecoc.com/ target="blank">Church of Christ at East Side</a></td>
-        <td>10:00 AM<br>6:00 PM</td>
-        <td>5701 E Martin Luther King Jr Blvd, Austin, TX 78721</td>
-        <td>3.9</td>
-        <td>Church of Christ</td>
-        <td>info@eastsidecoc.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://cogic1.org/about/ target="blank">Church of God in Christ #1</a></td>
-        <td>9:30 AM<br>10:30 AM</td>
-        <td>1168 Angelina St, Austin, TX 78702</td>
-        <td>1.1</td>
-        <td>Non-denominational</td>
-        <td>http://cogic1.org/contact/</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.tccaaustin.com/ target="blank">The Church on Congress Avenue</a></td>
-        <td>10:30 AM</td>
-        <td>1511 S Congress Ave, Austin, TX 78704</td>
-        <td>2.7</td>
-        <td>Baptist</td>
-        <td>office@tccaaustin.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.highpointeaustin.org/ target="blank">High Pointe Baptist Church</a>🎒</td>
-        <td>10:00 AM</td>
-        <td>12030 Dessau Rd, Austin, TX 78754</td>
-        <td>8.5</td>
-        <td>Baptist</td>
-        <td>https://www.highpointeaustin.org/contact-us</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://gracechurchaustin.com/ target="blank">Grace Church Austin</a></td>
-        <td>11:15 AM</td>
-        <td>3401 S IH 35 Frontage Rd, Austin, TX 78741</td>
-        <td>4.5</td>
-        <td>Non-denominational</td>
-        <td>https://gracechurchaustin.com/contact-us</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://austinchinesechurch.org/newacc/ target="blank">Austin Chinese Church</a></td>
-        <td>9:30 AM<br>11:00 AM</td>
-        <td>11118 Dessau Rd, Austin, TX 78754</td>
-        <td>7.2</td>
-        <td>Non-denominational</td>
-        <td>contact@austinchinesechurch.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.saintmartins.org/ target="blank">St. Martin's Lutheran Church</a></td>
-        <td>10:00 AM</td>
-        <td>606 W 15th St, Austin, TX 78701</td>
-        <td>0.8</td>
-        <td>Lutheran</td>
-        <td>https://www.saintmartins.org/contact-us/</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.metroame.org/ target="blank">Metropolitan AME Church</a></td>
-        <td>10:00 AM</td>
-        <td>1101 E 10th St, Austin, TX 78702</td>
-        <td>1</td>
-        <td>Methodist Episcopal</td>
-        <td>https://www.metroame.org/contact</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://www.salinastreetchurch.com/ target="blank">Salina Street Church</a></td>
-        <td>10:30 AM</td>
-        <td>2407 Canterbury St, Austin, TX 78702</td>
-        <td>2.7</td>
-        <td>Evangelical</td>
-        <td>PASTORS@SALINASTREETCHURCH.COM</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://stjamesaustin.org/ target="blank">St. James' Episcopal Curch</a></td>
-        <td></td>
-        <td>1941 Webberville Rd, Austin, TX 78721</td>
-        <td>3.5</td>
-        <td>Episcopal</td>
-        <td>office@StJamesAustin.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://parkhillsbaptist.church/ target="blank">Park Hills Baptist Church</a></td>
-        <td>10:45 AM<br>5:30 PM</td>
-        <td>900 S MoPac Expy, Austin, TX 78746</td>
-        <td>3.5</td>
-        <td>Baptist</td>
-        <td>phbc@parkhillsbaptist.church</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://sttaustin.org/ target="blank">St. Theresa of Lisieux Catholic Church</a></td>
-        <td>10:00 AM<br>7:30 AM</td>
-        <td>4311 Small Dr, Austin, TX 78731</td>
-        <td>5.7</td>
-        <td>Catholic</td>
-        <td>None</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://gmzaustin.org/ target="blank">Greater Mount Zion Baptist Church</a>🎒</td>
-        <td>8:30 AM<br>11:00 AM</td>
-        <td>4301 Tannehill Ln, Austin, TX 78721</td>
-        <td>3.8</td>
-        <td>Baptist</td>
-        <td>info@gmzaustin.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://staustin.org/ target="blank">St. Austin Catholic Parish</a></td>
-        <td>8:45 AM<br>11:30 AM<br>5:30 PM</td>
-        <td>2026 Guadalupe St, Austin, TX 78705</td>
-        <td>0.3</td>
-        <td>Catholic</td>
-        <td>SACP@StAustin.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.tbcaustin.com/ target="blank">Trinity Baptist Church</a>🎒</td>
-        <td>11:00 AM<br>6:00 PM</td>
-        <td>2305 Forbes Dr, Austin, TX 78754</td>
-        <td>5.5</td>
-        <td>Baptist</td>
-        <td>info@tbcaustin.com</td>
+        <td>traviswong@joshua-church.com</td>
     </tr>
 
     <tr>
@@ -1250,21 +917,12 @@
     </tr>
 
     <tr>
-        <td><a href=https://www.holycrossatx.org/ target="blank">Holy Cross Lutheran Church</a></td>
-        <td>10:00 AM</td>
-        <td>4622 S Lamar Blvd, Austin, TX 78745</td>
-        <td>6.2</td>
-        <td>Lutheran</td>
-        <td>None</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://eumcaustin.org/ target="blank">Emmanuel United Methodist Church</a></td>
-        <td>11:00 AM</td>
-        <td>200 Brushy St, Austin, TX 78702</td>
-        <td>1.3</td>
-        <td>Methodist </td>
-        <td>None</td>
+        <td><a href=https://sites.google.com/klcchurch.com/klcchurch/home target="blank">Koenig Lane Christian Church</a></td>
+        <td>10:45 AM</td>
+        <td>908 Old Koenig Ln, Austin, TX 78756</td>
+        <td>3.1</td>
+        <td>Non-denominational</td>
+        <td>klcc@klcchurch.com</td>
     </tr>
 
     <tr>
@@ -1277,291 +935,75 @@
     </tr>
 
     <tr>
-        <td><a href=https://saintpaulaustin.org/ target="blank">St. Paul Catholic Church</a></td>
-        <td>8:30 AM<br>10:30 AM<br>12:30 PM<br>5:00 PM</td>
-        <td>10000 David Moore Dr, Austin, TX 78748</td>
-        <td>10.2</td>
-        <td>Catholic</td>
-        <td>None</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.facebook.com/pages/category/Religious-Center/Springdale-Church-of-God-in-Christ-412747208931229/ target="blank">Springdale Church of God in Christ</a></td>
-        <td>10:30 AM</td>
-        <td>767 Springdale Rd, Austin, TX 78702</td>
-        <td>3.4</td>
-        <td>Pentecostal</td>
-        <td>ackelley123@att.net</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://www.anglicancatholic.org/locations/122 target="blank">Saint Philip's Anglican Church</a></td>
-        <td></td>
-        <td>1408 W 9th St, Austin, TX 78703</td>
-        <td>2.2</td>
-        <td>Catholic</td>
-        <td>None</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://gfccaustin.org/monkcomeback.php target="blank">Grace First Community Church</a></td>
-        <td>10:00 AM</td>
-        <td>6020 S 1st St, Austin, TX 78745</td>
-        <td>6.8</td>
-        <td>Non-denominational</td>
-        <td>info@gfccaustin.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.stmarksaustin.org/ target="blank">St. Mark's Episcopal Church</a></td>
-        <td>10:00 AM</td>
-        <td>2128 Barton Hills Dr, Austin, TX 78704</td>
-        <td>4.9</td>
-        <td>Episcopal</td>
-        <td>office@stmarksaustin.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.fbcaustin.org/ target="blank">First Baptist Church Circle Drive</a>🎒</td>
-        <td></td>
-        <td>900 Neches St, Austin, TX 78701</td>
-        <td>1.2</td>
-        <td>Baptist</td>
-        <td>info@fbcaustin.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://www.obcaus.org/ target="blank">Olivet Baptist Church</a></td>
-        <td>10:15 AM</td>
-        <td>1179 San Bernard St, Austin, TX 78702</td>
-        <td>1.4</td>
-        <td>Baptist</td>
-        <td>obcbren1@sbcglobal.net</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://vohame.org/ target="blank">Vision of Hope Church</a></td>
-        <td>11:00 AM</td>
-        <td>Richardson Ln, Austin, TX 78741</td>
-        <td>5.2</td>
-        <td>Methodist Episcopal</td>
-        <td>info@vohame.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://www.hollandstreetchurchofchrist.org/ target="blank">Holland Church of Christ</a></td>
-        <td>10:30 AM</td>
-        <td>208 Adams St, Austin, TX 78729</td>
-        <td>2.5</td>
-        <td>Church of Christ</td>
-        <td>None</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.centralcity.church/ target="blank">Central City Austin</a></td>
-        <td>10:00 AM</td>
-        <td>9023 Old Lampasas Trail, Austin, TX 78750</td>
-        <td>12.6</td>
-        <td>Non-denominational</td>
-        <td>hello@centralcityaustin.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://sanjosechurch.org/ target="blank">San Jose Catholic Church</a></td>
-        <td>10:30 AM<br>8:00 AM<br>1:00 PM</td>
-        <td>2435 Oak Crest Ave, Austin, TX 78704</td>
-        <td>3.9</td>
-        <td>Catholic</td>
-        <td>san-jose-office@sanjosechurch.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://sacredheartchurchaustin.org/ target="blank">Sacred Heart Catholic Church</a></td>
-        <td>8:00 AM<br>9:30 AM<br>11:30 AM<br>1:30 PM<br>5:00 PM</td>
-        <td>2435 Oak Crest Ave, Austin, TX 78704</td>
-        <td>4.4</td>
-        <td>Catholic</td>
-        <td>sacredheartatx@gmail.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.bridgechurchag.org/ target="blank">Bridge Church of Austin</a></td>
-        <td>11:00 AM<br>9:00 AM</td>
-        <td>950 Westbank Dr, West Lake Hills, TX 78746</td>
-        <td>6</td>
-        <td>Assembly of God</td>
-        <td>info@bridgechurchag.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.fpcofaustin.org/ target="blank">First Pentecostal Church of Austin</a></td>
-        <td>11:30 AM<br>7:00 PM</td>
-        <td>7440 Ed Bluestein Blvd, Austin, TX 78723</td>
-        <td>5.5</td>
-        <td>Pentecostal</td>
-        <td>None</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://www.opendooraustin.org/ target="blank">Open Door Church of God in Christ</a></td>
-        <td>10:00 AM</td>
-        <td>3317 E 12th St, Austin, TX 78721</td>
-        <td>2.5</td>
-        <td>Church of God in Christ</td>
-        <td>None</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://stjohncollegeheightsbaptistchurc.weebly.com/ target="blank">St. John College Heights Baptist Church</a></td>
-        <td>10:00 AM</td>
-        <td>7207 Carver Ave, Austin, TX 78752</td>
-        <td>4.3</td>
-        <td>Baptist</td>
-        <td>webmaster@wardogcomputerservice.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://teriroad.org/ target="blank">Teri Road Baptist Church</a></td>
-        <td>11:00 AM</td>
-        <td>1844 Teri Rd, Austin, TX 78744</td>
-        <td>6.5</td>
-        <td>Non-denominational</td>
-        <td>None</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://st-ignatius.org/ target="blank">Saint Ignatius Martyr Catholic Church</a></td>
-        <td>11:00 AM<br>9:00 AM<br>1:00 PM</td>
-        <td>126 W Oltorf St, Austin, TX 78704</td>
-        <td>3.7</td>
-        <td>Catholic</td>
-        <td>https://st-ignatius.org/contact-us</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://woodlawnbc.org/ target="blank">Woodlawn Baptist Church</a></td>
-        <td>11:00 AM<br>9:00 AM</td>
-        <td>4600 Menchaca Rd, Austin, TX 78745</td>
-        <td>6.1</td>
-        <td>Baptist</td>
-        <td>woodlawn@woodlawnbc.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://bethelatx.com/ target="blank">Bethel Assembly of God</a></td>
-        <td>Saturday<br>2:00 PM<br>6:00 PM</td>
-        <td>4322 Banister Ln, Austin, TX 78745</td>
-        <td>5.7</td>
-        <td>Assembly of God</td>
-        <td>info@bethelatx.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://austincristorey.org/ target="blank">Cristo Rey Catholic Church</a></td>
-        <td>8:30 AM<br>6:00 AM<br>12:00 PM</td>
-        <td>2208 E 2nd St, Austin, TX 78702</td>
+        <td><a href=https://www.lifeinthecityaustin.org/ target="blank">Life in the City</a></td>
+        <td>10:15 AM<br>11:15 AM</td>
+        <td>205 E Monroe St, Austin, TX 78704</td>
         <td>2.7</td>
-        <td>Catholic</td>
-        <td>cristoreycc@craustin.com</td>
+        <td>Methodist</td>
+        <td>info@lifeinthecityaustin.org</td>
     </tr>
 
     <tr>
-        <td><a href=http://boulevardchurch.com/ target="blank">Boulevard Church</a></td>
-        <td>10:00 AM</td>
-        <td>Boulevard Church, Austin, TX 78744</td>
-        <td>6.9</td>
-        <td>Non-denominational</td>
-        <td>http://boulevardchurch.com/contact.html</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.rosewood-baptist-church.org/ target="blank">Rosewood Avenue Baptist Church</a></td>
-        <td>11:30 AM</td>
-        <td>1820 Rosewood Ave, Austin, TX 78702</td>
-        <td>1.7</td>
-        <td>Baptist</td>
-        <td>office@rosewood-baptist-church.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://www.olgaustin.org/ target="blank">Our Lady of Guadalupe Parish</a></td>
-        <td>11:30 AM<br>7:45 AM<br>9:45 AM<br>6:00 PM</td>
-        <td>1206 E 9th St, Austin, TX 78702</td>
-        <td>1.7</td>
-        <td>Catholic</td>
-        <td>http://www.olgaustin.org/contact_staff.php?id=40</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://wildflowerchurch.org/ target="blank">Wildflower Church</a></td>
-        <td>11:30 AM</td>
-        <td>1314 E Oltorf St, Austin, TX 78704</td>
-        <td>4.2</td>
-        <td>Unitarian Universalist</td>
-        <td>office@wildflowerchurch.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.facebook.com/pages/category/Religious-Organization/The-Church-of-Pentecost-USA-Inc-Austin-District-999986823463352/ target="blank">Church of Pentecost</a></td>
-        <td></td>
-        <td>Church of Pentecost, 7801 N Lamar Blvd # D102, Austin, TX 78752</td>
-        <td>4.9</td>
-        <td>Pentecostal</td>
-        <td>None</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.greaterworksbcatwork.org/ target="blank">Greater Works Baptist Church</a></td>
-        <td>11:00 AM</td>
-        <td>4000 Tannehill Ln, Austin, TX 78721</td>
-        <td>4.1</td>
-        <td>Baptist</td>
-        <td>None</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://www.eeccaustin.com/ target="blank">Ethiopian Evangelical Christian Church</a></td>
-        <td>10:00 AM</td>
-        <td>305 Deen Ave, Austin, TX 78753</td>
-        <td>5.7</td>
-        <td>Evangelical</td>
-        <td>service@eecaustin.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.nac-usa.org/index.php target="blank">New Apostolic Church</a></td>
+        <td><a href=http://www.memorialumcaustin.com/ target="blank">Memorial United Methodist Church</a></td>
         <td>10:30 AM</td>
-        <td>1906 Miles Ave, Austin, TX 78745</td>
-        <td>8</td>
-        <td>Apostolic</td>
-        <td>communications@nac-usa.org</td>
+        <td>6100 Berkman Dr, Austin, TX 78723</td>
+        <td>3.5</td>
+        <td>Methodist</td>
+        <td>secretary@memorialumcaustin.com</td>
     </tr>
 
     <tr>
-        <td><a href=http://greaterpeace.org/tp50/Default.asp?ID=96063 target="blank">Greater Peace Christian Church</a></td>
-        <td>11:15 AM</td>
-        <td>1203 E Cesar Chavez St, Austin, TX 78702</td>
-        <td>2.1</td>
-        <td>Pentecostal-Apostolic</td>
-        <td>http://greaterpeace.org/tp50/Application.asp?app=Contact&ID=96058</td>
+        <td><a href=http://www.messiahaustin.com/ target="blank">Messiah Lutheran Church</a></td>
+        <td>10:30 AM</td>
+        <td>5701 Cameron Rd, Austin, TX 78723</td>
+        <td>2.7</td>
+        <td>Lutheran</td>
+        <td>MLCInfo@messiahaustin.com</td>
     </tr>
 
     <tr>
-        <td><a href=https://stjuliacatholicchurch.org/ target="blank">St. Julia Catholic Church</a></td>
-        <td>10:00 AM<br>8:00 AM</td>
-        <td>3010 Lyons Rd, Austin, TX 78702</td>
-        <td>2.4</td>
-        <td>Catholic</td>
-        <td>sta.julia1957@gmail.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://www.stannieamec.org/ target="blank">St. Annie AME Church</a></td>
-        <td>10:45 AM</td>
-        <td>1711 Newton St, Austin, TX 78704</td>
-        <td>2.9</td>
+        <td><a href=https://www.metroame.org/ target="blank">Metropolitan AME Church</a></td>
+        <td>10:00 AM</td>
+        <td>1101 E 10th St, Austin, TX 78702</td>
+        <td>1</td>
         <td>Methodist Episcopal</td>
-        <td>saamec@zaml.us</td>
+        <td>https://www.metroame.org/contact</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.midtownaustin.org/ target="blank">Midtown Church Austin</a>🎒</td>
+        <td>10:45 AM</td>
+        <td>3308 Hampton Rd, Austin, TX 78705</td>
+        <td>0.5</td>
+        <td>Orthodox</td>
+        <td>jake@midtownaustin.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.milwoodbaptist.com/ target="blank">Milwood Baptist Church</a></td>
+        <td>10:30 AM</td>
+        <td>12217 Cassady Dr, Austin, TX 78727</td>
+        <td>10.4</td>
+        <td>Southern Baptist</td>
+        <td>admin@milwoodbaptist.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://www.mimschapelcogic.com/ target="blank">Mims Chapel Church of God in Christ</a></td>
+        <td></td>
+        <td>1801 E 38th 1/2 St, Austin, TX 78722</td>
+        <td>1.4</td>
+        <td>Non-denominational</td>
+        <td>mimschapel@sbcglobal.net</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://www.mosaicchurchaustin.com/ target="blank">Mosaic Church Austin</a>🎒</td>
+        <td>8:30 AM<br>10:00 AM<br>11:30 AM<br>1:00 PM</td>
+        <td>12675 Research Blvd, Austin, TX 78759</td>
+        <td>10.23</td>
+        <td>Non-denominational/multiethnic</td>
+        <td>info@mosaicchurchaustin.com</td>
     </tr>
 
     <tr>
@@ -1574,102 +1016,21 @@
     </tr>
 
     <tr>
-        <td><a href=https://antiochatx.com/ target="blank">Antioch Baptist Church</a>🎒</td>
-        <td>11:00 AM<br>9:00 AM</td>
-        <td>4407 Monterey Oaks Blvd, Austin, TX 78749</td>
-        <td>8.2</td>
+        <td><a href=https://www.themount.net/ target="blank">Mt. Sinai Baptist Church</a></td>
+        <td>6:00 PM</td>
+        <td>8500 Cameron Rd, Austin, TX 78754</td>
+        <td>5</td>
         <td>Baptist</td>
-        <td>https://antiochatx.com/contact/</td>
+        <td>(512) 451-0808</td>
     </tr>
 
     <tr>
-        <td><a href=https://www.facebook.com/Truelbc/ target="blank">True Light Baptist Church</a></td>
-        <td>3:30 PM</td>
-        <td>True Light Baptist Church, Austin, TX 78721</td>
-        <td>3.5</td>
-        <td>Baptist</td>
-        <td>truelightbcaustin@gmail.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://agapebcaustintx.com/ target="blank">Agape Baptist Church</a></td>
-        <td>3:30 PM</td>
-        <td>7801 N Lamar Blvd, Austin, TX 78752</td>
-        <td>4.5</td>
-        <td>Baptist</td>
-        <td>hecagape@sbcglobal.net</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://www.gwcaustin.org/ target="blank">Grant AME Worship Center</a></td>
-        <td>10:15 AM</td>
-        <td>1701 Kramer Ln, Austin, TX 78758</td>
+        <td><a href=https://www.nac-usa.org/index.php target="blank">New Apostolic Church</a></td>
+        <td>10:30 AM</td>
+        <td>1906 Miles Ave, Austin, TX 78745</td>
         <td>8</td>
-        <td>Methodist Episcopal</td>
-        <td>grantworshipctr@sbcglobal.net</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://newhopepbc.webs.com/ target="blank">New Hope Primitive Baptist Church</a></td>
-        <td>11:00 AM</td>
-        <td>1602 E M. Franklin Ave, Austin, TX 78721</td>
-        <td>2.3</td>
-        <td>Baptist</td>
-        <td>https://newhopepbc.webs.com/contactus.htm</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.srmbcofaustin.com/ target="blank">Solid Rock Missionary Baptist Church</a></td>
-        <td>11:00 AM<br>5:00 PM</td>
-        <td>1014 Gardner Rd, Austin, TX 78721</td>
-        <td>3.8</td>
-        <td>Baptist</td>
-        <td>solidrockmbcaustin@gmail.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://www.spbcaustin.org/ target="blank">St. Paul Baptist Church</a></td>
-        <td>11:00 AM</td>
-        <td>501 Blackson Ave, Austin, TX 78752</td>
-        <td>4</td>
-        <td>Baptist</td>
-        <td>stpaulbc.austintx@gmail.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://cornerstoneatx.org/ target="blank">RCCG Cornerstone Church</a></td>
-        <td>10:30 AM</td>
-        <td>7952 Anderson Square, Austin, TX 78757</td>
-        <td>4.9</td>
-        <td>Church of God</td>
-        <td>info@cornerstoneatx.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.facebook.com/RisingStarMissionaryBaptistChurchAustin/ target="blank">Rising Star Missionary Baptist Church</a></td>
-        <td>11:00 AM</td>
-        <td>1710 E 20th St, Austin, TX 78722</td>
-        <td>0.5</td>
-        <td>Baptist</td>
-        <td>rsmbca@gmail.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.stpetersumcaustin.com/ target="blank">St. Peter's United Methodist Church</a></td>
-        <td>10:15 AM</td>
-        <td>4509 Springdale Rd, Austin, TX 78723</td>
-        <td>3.1</td>
-        <td>Methodist</td>
-        <td>https://www.stpetersumcaustin.com/</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://www.sodchurch.com/ target="blank">Sanctuary Of Deliverance Church COGIC</a></td>
-        <td>10:30 AM</td>
-        <td>1310 Salina St, Austin, TX 78702</td>
-        <td>0.9</td>
-        <td>Non-denominational</td>
-        <td>sodchurch2016@gmail.com</td>
+        <td>Apostolic</td>
+        <td>communications@nac-usa.org</td>
     </tr>
 
     <tr>
@@ -1682,93 +1043,327 @@
     </tr>
 
     <tr>
-        <td><a href=https://asldc.weebly.com/ target="blank">Austin Spirit of Life Deaf Church</a></td>
-        <td>2:00 PM</td>
-        <td>7612 Cooper Ln, Austin, TX 78745</td>
-        <td>8</td>
-        <td>Assembly of God</td>
-        <td>austinspiritdeaf@gmail.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://www.ebcaustin.com/ target="blank">Emmanuel Bible Church of Christ</a></td>
-        <td>10:00 AM</td>
-        <td>1144 Northwestern Ave, Austin, TX 78702</td>
-        <td>1.5</td>
-        <td>Non-denominational</td>
-        <td>https://www.ebcaustin.com/contact</td>
-    </tr>
-
-    <tr>
-        <td><a href=http://www.austincentralsda.com/ target="blank">Austin Central Seventh-Day Adventist Church</a></td>
-        <td>Saturday<br>11:00 AM</td>
-        <td>415 Montopolis Dr, Austin, TX 78741</td>
-        <td>4.4</td>
-        <td>Seventh-Day Adventist</td>
-        <td>acsdaheadelder@gmail.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://utcatholic.org/ target="blank">University Catholic Center</a>🎒</td>
-        <td>10:30 AM</td>
-        <td>2010 University Ave, Austin, TX 78705</td>
-        <td>0.4</td>
-        <td>Catholic</td>
-        <td>holly@utcatholic.org</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.tgsaca.org/ target="blank">The Good Shepherd Anglican Church</a></td>
+        <td><a href=https://thehopeaustin.net/ target="blank">New Hope Church</a></td>
         <td>11:00 AM</td>
-        <td>6700 Middle Fiskville Rd Suite #403, Austin, TX 78752</td>
-        <td>3.3</td>
-        <td>Anglican</td>
-        <td>https://www.tgsaca.org/contact-us</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.ircaustin.org/ target="blank">International Restoration Church</a></td>
-        <td>1:00 PM</td>
-        <td>10200 Sprinkle Rd, Austin, TX 78754</td>
-        <td>7.3</td>
-        <td>Non-denominational</td>
-        <td>kimn50@gmail.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.akpc.org/em.html target="blank">Austin Korean Presbyterian Church</a>🎒</td>
-        <td>9:45 AM</td>
-        <td>12311 Natures Bend, Austin, TX 78753</td>
-        <td>8.7</td>
-        <td>Presbyterian </td>
-        <td>walterhwang0@gmail.com</td>
-    </tr>
-
-    <tr>
-        <td><a href=https://www.zionrestmbc.org/ target="blank">Zion Hill Baptist Church</a></td>
-        <td>8:00 AM<br>11:00 AM</td>
-        <td>1701 Chestnut Ave, Austin, TX 78702</td>
-        <td>1</td>
+        <td>7201 Colony Loop Dr, Austin, TX 78724</td>
+        <td>8.8</td>
         <td>Baptist</td>
-        <td>zionrestbc@outlook.com</td>
+        <td>(512) 710-5462</td>
     </tr>
 
     <tr>
-        <td><a href=https://alphaatx.org/ target="blank">Alpha Seventh-Day Adventist Church</a>🎒</td>
-        <td>Saturday<br>8:15 AM<br>11:00 AM</td>
-        <td>3016 E 51st St, Austin, TX 78723</td>
-        <td>3.2</td>
-        <td>Seventh-day Adventist</td>
-        <td>administrator@alphaadventist.org</td>
+        <td><a href=https://newhopepbc.webs.com/ target="blank">New Hope Primitive Baptist Church</a></td>
+        <td>11:00 AM</td>
+        <td>1602 E M. Franklin Ave, Austin, TX 78721</td>
+        <td>2.3</td>
+        <td>Baptist</td>
+        <td>https://newhopepbc.webs.com/contactus.htm</td>
     </tr>
 
     <tr>
-        <td><a href=http://www.capcity.church/ target="blank">Capital City Church</a></td>
-        <td>6:00 PM</td>
-        <td>206 E Annie St, Austin, TX 78704</td>
-        <td>2.9</td>
+        <td><a href=http://www.nacconline.info/ target="blank">North Austin Christian Church</a></td>
+        <td>10:00 AM</td>
+        <td>1734 Rutland Dr, Austin, TX 78758</td>
+        <td>7</td>
         <td>Non-denominational</td>
-        <td>capitalchurch.atx@gmail.com</td>
+        <td>rb.nacc@gmail.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://northvillagechurch.com/ target="blank">North Village Church</a></td>
+        <td>10:00 AM</td>
+        <td>3025 Crosscreek Dr, Austin, TX 78757</td>
+        <td>6.4</td>
+        <td>Non-denominational</td>
+        <td>michael@northvillagechurch.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.northsidechristian.com/ target="blank">Northside Church Austin</a></td>
+        <td>10:40 AM<br>9:00 AM<br>12:10 PM</td>
+        <td>12424 Scofield Farms Dr, Austin, TX 78758</td>
+        <td>10</td>
+        <td>Non-denominational</td>
+        <td>office@northsidechristian.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.nwchurchofchrist.org/ target="blank">Northwest Church of Christ</a></td>
+        <td>11:00 AM<br>9:00 AM</td>
+        <td>4610 Duval Rd, Austin, TX 78727</td>
+        <td>10.4</td>
+        <td>Church of Christ</td>
+        <td>https://www.nwchurchofchrist.org/contact/ask-a-question</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://nwhillsumc.org/ target="blank">Northwest Hills United Methodist Church</a></td>
+        <td>11:00 AM<br>9:00 AM</td>
+        <td>7050 Village Center Dr, Austin, TX 78731</td>
+        <td>5.7</td>
+        <td>Methodist</td>
+        <td>None</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://www.obcaus.org/ target="blank">Olivet Baptist Church</a></td>
+        <td>10:15 AM</td>
+        <td>1179 San Bernard St, Austin, TX 78702</td>
+        <td>1.4</td>
+        <td>Baptist</td>
+        <td>obcbren1@sbcglobal.net</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://www.opendooraustin.org/ target="blank">Open Door Church of God in Christ</a></td>
+        <td>10:00 AM</td>
+        <td>3317 E 12th St, Austin, TX 78721</td>
+        <td>2.5</td>
+        <td>Church of God in Christ</td>
+        <td>None</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://www.olgaustin.org/ target="blank">Our Lady of Guadalupe Parish</a></td>
+        <td>11:30 AM<br>7:45 AM<br>9:45 AM<br>6:00 PM</td>
+        <td>1206 E 9th St, Austin, TX 78702</td>
+        <td>1.7</td>
+        <td>Catholic</td>
+        <td>http://www.olgaustin.org/contact_staff.php?id=40</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://ourladysmaronite.org/ target="blank">Our Lady's Maronite Church</a></td>
+        <td>10:00 AM</td>
+        <td>1320 E 51st St, Austin, TX 78723</td>
+        <td>2.4</td>
+        <td>Catholicism</td>
+        <td>email@ourladysmaronite.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://parkhillsbaptist.church/ target="blank">Park Hills Baptist Church</a></td>
+        <td>10:45 AM<br>5:30 PM</td>
+        <td>900 S MoPac Expy, Austin, TX 78746</td>
+        <td>3.5</td>
+        <td>Baptist</td>
+        <td>phbc@parkhillsbaptist.church</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.planetshakers.com/church/ target="blank">Planetshakers Church Austin</a></td>
+        <td>9:30 AM<br>11:30 AM<br>3:30 PM<br>6:00 PM</td>
+        <td>1101 Reinli St, Austin, TX 78723</td>
+        <td>2.7</td>
+        <td>Non-denominational</td>
+        <td>None</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://promiselandchurch.net/ target="blank">Promiseland Church</a></td>
+        <td>10:30 AM</td>
+        <td>1504 E 51st St, Austin, TX 78723</td>
+        <td>2.6</td>
+        <td>Messianic Jewish</td>
+        <td>https://promiselandchurch.net/contact-us/</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://www.providenceaustin.com/ target="blank">Providence Church</a></td>
+        <td>10:00 AM</td>
+        <td>1110 Guadalupe St, Austin, TX 78701</td>
+        <td>0.9</td>
+        <td>Reformed Evangelical</td>
+        <td>info@providenceaustin.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.radiantaustin.com/ target="blank">Radiant Church</a></td>
+        <td>11:00 AM<br>9:00 AM</td>
+        <td>7020 US-290 suite d, Austin, TX 78723</td>
+        <td>4</td>
+        <td>Non-denominational</td>
+        <td>info@radiantaustin.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://cornerstoneatx.org/ target="blank">RCCG Cornerstone Church</a></td>
+        <td>10:30 AM</td>
+        <td>7952 Anderson Square, Austin, TX 78757</td>
+        <td>4.9</td>
+        <td>Church of God</td>
+        <td>info@cornerstoneatx.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://www.reachchurch.com/#give target="blank">Reach Church</a></td>
+        <td>9:15 AM<br>10:30 AM<br>11:45 AM<br>6:00 PM</td>
+        <td>10700 Anderson Mill Rd. Austin, Texas 78750</td>
+        <td>11.92</td>
+        <td>Protestant </td>
+        <td>info@REACHchurch.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.redriverchurch.org/ target="blank">Red River Church</a></td>
+        <td>11:15 AM</td>
+        <td>4425 Red River St, Austin, TX 78751</td>
+        <td>1.3</td>
+        <td>Non-denominational</td>
+        <td>office@redriverchurch.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.redrocksaustin.com/ target="blank">Red Rocks Church</a></td>
+        <td>11:00 AM<br>9:00 AM</td>
+        <td>7625 N Interstate Hwy 35, Austin, TX 78752</td>
+        <td>4.3</td>
+        <td>Non-denominational</td>
+        <td>https://www.redrocksaustin.com/Director.aspx?sid=31&sky=DG&pgi=128&pgk=RI7RSRRZ&eli=1B3A574CD059F0CC5664D82293684234448F612D46066DFF&rid=4699115&rky=9L3FRVXZ&tky=132386998954488060</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.redeemer.net/ target="blank">Redeemer Lutheran Church</a></td>
+        <td>8:00 AM<br>9:30 AM<br>11:00 AM</td>
+        <td>1500 W Anderson Ln, Austin, TX 78757</td>
+        <td>5</td>
+        <td>Lutheran</td>
+        <td>info@redeemer.net</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://redeemerpres.org/ target="blank">Redeemer Presbyterian Church</a></td>
+        <td>8:45 AM<br>11:15 AM</td>
+        <td>2111 Alexander Ave, Austin, TX 78722</td>
+        <td>1.2</td>
+        <td>Presbyterian</td>
+        <td>512.708.1232</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.facebook.com/RisingStarMissionaryBaptistChurchAustin/ target="blank">Rising Star Missionary Baptist Church</a></td>
+        <td>11:00 AM</td>
+        <td>1710 E 20th St, Austin, TX 78722</td>
+        <td>0.5</td>
+        <td>Baptist</td>
+        <td>rsmbca@gmail.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.riverbend.com/ target="blank">Riverbend Church</a></td>
+        <td>11:15 AM<br>8:30 AM<br>9:45 AM</td>
+        <td>4214 N Capital of Texas Hwy, Austin, TX 78746</td>
+        <td>11.2</td>
+        <td>Non-denominational</td>
+        <td>info@riverbend.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.riverlifeaustin.org/ target="blank">Riverlife Eritrea Church</a></td>
+        <td>3:00 PM</td>
+        <td>2700 Northland Dr, Austin, TX 78756</td>
+        <td>3.8</td>
+        <td>Baptist</td>
+        <td>admin@riverlifeaustin.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.rosewood-baptist-church.org/ target="blank">Rosewood Avenue Baptist Church</a></td>
+        <td>11:30 AM</td>
+        <td>1820 Rosewood Ave, Austin, TX 78702</td>
+        <td>1.7</td>
+        <td>Baptist</td>
+        <td>office@rosewood-baptist-church.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://sacredheartchurchaustin.org/ target="blank">Sacred Heart Catholic Church</a></td>
+        <td>8:00 AM<br>9:30 AM<br>11:30 AM<br>1:30 PM<br>5:00 PM</td>
+        <td>2435 Oak Crest Ave, Austin, TX 78704</td>
+        <td>4.4</td>
+        <td>Catholic</td>
+        <td>sacredheartatx@gmail.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://saintalbert.org/ target="blank">Saint Albert the Great Catholic Church</a></td>
+        <td>10:00 AM</td>
+        <td>12041 Bittern Hollow, Austin, TX 78758</td>
+        <td>9.1</td>
+        <td>Catholic</td>
+        <td>info@saintalbert.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://st-ignatius.org/ target="blank">Saint Ignatius Martyr Catholic Church</a></td>
+        <td>11:00 AM<br>9:00 AM<br>1:00 PM</td>
+        <td>126 W Oltorf St, Austin, TX 78704</td>
+        <td>3.7</td>
+        <td>Catholic</td>
+        <td>https://st-ignatius.org/contact-us</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.st-louis.org/ target="blank">Saint Louis King of France Catholic Church</a></td>
+        <td>11:30 AM<br>9:30 AM<br>7:30 AM</td>
+        <td>7601 Burnet Rd, Austin, TX 78757</td>
+        <td>5</td>
+        <td>Catholic</td>
+        <td>media@st-louis.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://www.anglicancatholic.org/locations/122 target="blank">Saint Philip's Anglican Church</a></td>
+        <td></td>
+        <td>1408 W 9th St, Austin, TX 78703</td>
+        <td>2.2</td>
+        <td>Catholic</td>
+        <td>None</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://www.salinastreetchurch.com/ target="blank">Salina Street Church</a></td>
+        <td>10:30 AM</td>
+        <td>2407 Canterbury St, Austin, TX 78702</td>
+        <td>2.7</td>
+        <td>Evangelical</td>
+        <td>PASTORS@SALINASTREETCHURCH.COM</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://sanjosechurch.org/ target="blank">San Jose Catholic Church</a></td>
+        <td>10:30 AM<br>8:00 AM<br>1:00 PM</td>
+        <td>2435 Oak Crest Ave, Austin, TX 78704</td>
+        <td>3.9</td>
+        <td>Catholic</td>
+        <td>san-jose-office@sanjosechurch.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://www.sodchurch.com/ target="blank">Sanctuary Of Deliverance Church COGIC</a></td>
+        <td>10:30 AM</td>
+        <td>1310 Salina St, Austin, TX 78702</td>
+        <td>0.9</td>
+        <td>Non-denominational</td>
+        <td>sodchurch2016@gmail.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://servantchurchaustin.org/ target="blank">Servant Church Austin</a></td>
+        <td>11:00 AM</td>
+        <td>1605 E 38th 1/2 St, Austin, TX 78722</td>
+        <td>1.2</td>
+        <td>Non-denominational</td>
+        <td>info@servantchurchaustin.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.shccaustin.org/ target="blank">Shepherd of the Hills Christian Church</a></td>
+        <td>10:40 AM</td>
+        <td>6909 W Courtyard Dr, Austin, TX 78730</td>
+        <td>8.6</td>
+        <td>Disciples of Christ</td>
+        <td>shccaustin@gmail.com</td>
     </tr>
 
     <tr>
@@ -1781,21 +1376,111 @@
     </tr>
 
     <tr>
-        <td><a href=https://www.vivechurch.org/austin target="blank">Vive Church</a></td>
-        <td>11:30 AM<br>1:30 PM<br>3:30 PM</td>
-        <td>2105 San Antonio St, Austin, TX 78705</td>
-        <td>0.3</td>
-        <td>C3 Church Global</td>
-        <td>viveaustin@vivechurch.org</td>
+        <td><a href=https://www.srmbcofaustin.com/ target="blank">Solid Rock Missionary Baptist Church</a></td>
+        <td>11:00 AM<br>5:00 PM</td>
+        <td>1014 Gardner Rd, Austin, TX 78721</td>
+        <td>3.8</td>
+        <td>Baptist</td>
+        <td>solidrockmbcaustin@gmail.com</td>
     </tr>
 
     <tr>
-        <td><a href=https://www.hpcbc.org/ target="blank">Hyde Park Chinese Baptist Church</a>🎒</td>
-        <td>11:00 AM</td>
-        <td>3901 Speedway, Austin, TX 78751</td>
-        <td>1.1</td>
+        <td><a href=https://www.southaustinchristianchurch.net/ target="blank">South Austin Christian Church</a></td>
+        <td>10:00 AM<br>11:30 AM</td>
+        <td>206 E Annie St, Austin, TX 78704</td>
+        <td>2.9</td>
+        <td>Non-denominational</td>
+        <td>mbanks2020@gmail.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.facebook.com/pages/category/Religious-Center/Springdale-Church-of-God-in-Christ-412747208931229/ target="blank">Springdale Church of God in Christ</a></td>
+        <td>10:30 AM</td>
+        <td>767 Springdale Rd, Austin, TX 78702</td>
+        <td>3.4</td>
+        <td>Pentecostal</td>
+        <td>ackelley123@att.net</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://stmattsaustin.org/ target="blank">St Matthew's Episcopal Church</a></td>
+        <td>10:30 AM</td>
+        <td>8134 Mesa Dr, Austin, TX 78759</td>
+        <td>7.2</td>
+        <td>Episcopal</td>
+        <td>https://stmattsaustin.org/Contact/email-us.html</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://www.stannieamec.org/ target="blank">St. Annie AME Church</a></td>
+        <td>10:45 AM</td>
+        <td>1711 Newton St, Austin, TX 78704</td>
+        <td>2.9</td>
+        <td>Methodist Episcopal</td>
+        <td>saamec@zaml.us</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://staustin.org/ target="blank">St. Austin Catholic Parish</a></td>
+        <td>8:45 AM<br>11:30 AM<br>5:30 PM</td>
+        <td>2026 Guadalupe St, Austin, TX 78705</td>
+        <td>0.3</td>
+        <td>Catholic</td>
+        <td>SACP@StAustin.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.stdave.org/ target="blank">St. David's Episcopal Church</a></td>
+        <td></td>
+        <td>301 E 8th St, Austin, TX 78701</td>
+        <td>0.9</td>
+        <td>Episcopal</td>
+        <td>communications@stdave.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://stfrancisaustin.org/ target="blank">St. Francis Anglican Church</a></td>
+        <td>11:00 AM<br>9:30 AM</td>
+        <td>3401 Oak Creek Dr, Austin, TX 78727</td>
+        <td>10.7</td>
+        <td>Anglican</td>
+        <td>rector@stfrancisaustin.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.sgchurch.org/ target="blank">St. George's Episcopal Church</a></td>
+        <td>10:30 AM</td>
+        <td>4301 N Interstate Hwy 35, Austin, TX 78722</td>
+        <td>1.3</td>
+        <td>Episcopal</td>
+        <td>stgeorgeaustin@gmail.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://stjamescmbc.org/ target="blank">St. James Missionary Baptist Church</a></td>
+        <td>10:00 AM</td>
+        <td>3417 E Martin Luther King Jr Blvd, Austin, TX 78721</td>
+        <td>2</td>
         <td>Baptist</td>
-        <td>hydeparkchurch@gmail.com</td>
+        <td>info@stjamescmbc.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://stjamesaustin.org/ target="blank">St. James' Episcopal Curch</a></td>
+        <td></td>
+        <td>1941 Webberville Rd, Austin, TX 78721</td>
+        <td>3.5</td>
+        <td>Episcopal</td>
+        <td>office@StJamesAustin.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://stjohncollegeheightsbaptistchurc.weebly.com/ target="blank">St. John College Heights Baptist Church</a></td>
+        <td>10:00 AM</td>
+        <td>7207 Carver Ave, Austin, TX 78752</td>
+        <td>4.3</td>
+        <td>Baptist</td>
+        <td>webmaster@wardogcomputerservice.com</td>
     </tr>
 
     <tr>
@@ -1808,21 +1493,372 @@
     </tr>
 
     <tr>
-        <td><a href=https://www.lifeinthecityaustin.org/ target="blank">Life in the City</a></td>
-        <td>10:15 AM<br>11:15 AM</td>
-        <td>205 E Monroe St, Austin, TX 78704</td>
-        <td>2.7</td>
-        <td>Methodist</td>
-        <td>info@lifeinthecityaustin.org</td>
+        <td><a href=http://www.austinstjohns.org/ target="blank">St. Johns Episcopal Church</a></td>
+        <td>10:00 AM<br>12:00 PM</td>
+        <td>11201 Parkfield Dr, Austin, TX 78758</td>
+        <td>7.8</td>
+        <td>Episcopal</td>
+        <td>http://www.austinstjohns.org/contact-us.html</td>
     </tr>
 
     <tr>
-        <td><a href=https://www.celebration.church/ target="blank">Celebration Church Central Austin</a>🎒</td>
-        <td>9:30 AM<br>11:30 AM<br>5:00 PM</td>
-        <td>1006 W Koenig Ln, Austin, TX 78756</td>
-        <td>3.2</td>
+        <td><a href=https://stjuliacatholicchurch.org/ target="blank">St. Julia Catholic Church</a></td>
+        <td>10:00 AM<br>8:00 AM</td>
+        <td>3010 Lyons Rd, Austin, TX 78702</td>
+        <td>2.4</td>
+        <td>Catholic</td>
+        <td>sta.julia1957@gmail.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.stmarkaustin.org/ target="blank">St. Mark United Methodist Church</a></td>
+        <td>10:00 AM</td>
+        <td>601 W Braker Ln, Austin, TX 78753</td>
+        <td>7.5</td>
+        <td>Methodist</td>
+        <td>stmarkaustin@gmail.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.stmarksaustin.org/ target="blank">St. Mark's Episcopal Church</a></td>
+        <td>10:00 AM</td>
+        <td>2128 Barton Hills Dr, Austin, TX 78704</td>
+        <td>4.9</td>
+        <td>Episcopal</td>
+        <td>office@stmarksaustin.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.saintmartins.org/ target="blank">St. Martin's Lutheran Church</a></td>
+        <td>10:00 AM</td>
+        <td>606 W 15th St, Austin, TX 78701</td>
+        <td>0.8</td>
+        <td>Lutheran</td>
+        <td>https://www.saintmartins.org/contact-us/</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://www.spbcaustin.org/ target="blank">St. Paul Baptist Church</a></td>
+        <td>11:00 AM</td>
+        <td>501 Blackson Ave, Austin, TX 78752</td>
+        <td>4</td>
+        <td>Baptist</td>
+        <td>stpaulbc.austintx@gmail.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://saintpaulaustin.org/ target="blank">St. Paul Catholic Church</a></td>
+        <td>8:30 AM<br>10:30 AM<br>12:30 PM<br>5:00 PM</td>
+        <td>10000 David Moore Dr, Austin, TX 78748</td>
+        <td>10.2</td>
+        <td>Catholic</td>
+        <td>None</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.stpaulaustin.org/ target="blank">St. Paul Lutheran Church</a></td>
+        <td>10:40 AM<br>8:15 AM</td>
+        <td>3501 Red River St, Austin, TX 78705</td>
+        <td>0.6</td>
+        <td>Lutheran</td>
+        <td>churchoffice@stpaulaustin.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.stpetersumcaustin.com/ target="blank">St. Peter's United Methodist Church</a></td>
+        <td>10:15 AM</td>
+        <td>4509 Springdale Rd, Austin, TX 78723</td>
+        <td>3.1</td>
+        <td>Methodist</td>
+        <td>https://www.stpetersumcaustin.com/</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.ststephensmbc.org/ target="blank">St. Stephens Baptist Church</a></td>
+        <td>11:00 AM</td>
+        <td>3107 E 51st St, Austin, TX 78723</td>
+        <td>3.3</td>
+        <td>Baptist</td>
+        <td>admin@ststephensmbc.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://sttaustin.org/ target="blank">St. Theresa of Lisieux Catholic Church</a></td>
+        <td>10:00 AM<br>7:30 AM</td>
+        <td>4311 Small Dr, Austin, TX 78731</td>
+        <td>5.7</td>
+        <td>Catholic</td>
+        <td>None</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://sunriseaustin.org/ target="blank">Sunrise Community Church</a></td>
+        <td>10:00 AM</td>
+        <td>4430 Menchaca Rd, Austin, TX 78745</td>
+        <td>5.7</td>
+        <td>Christian Reformed Church</td>
+        <td>sunrise@sunriseaustin.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://tumc.church/ target="blank">Tarrytown United Methodist Church</a></td>
+        <td>11:00 AM<br>8:00 AM<br>9:00 AM</td>
+        <td>2601 Exposition Blvd, Austin, TX 78703</td>
+        <td>2.1</td>
+        <td>Methodist</td>
+        <td>info@tumc.church</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://teriroad.org/ target="blank">Teri Road Baptist Church</a></td>
+        <td>11:00 AM</td>
+        <td>1844 Teri Rd, Austin, TX 78744</td>
+        <td>6.5</td>
         <td>Non-denominational</td>
-        <td>info@celebration.church</td>
+        <td>None</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://austinstone.org/ target="blank">The Austin Stone</a>🎒</td>
+        <td>11:00 AM<br>9:00 AM</td>
+        <td>1715 W Cesar Chavez St, Austin, TX 78703</td>
+        <td>2.8</td>
+        <td>Baptist</td>
+        <td>info@austinstone.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://churchofjesuschristatx.org/ target="blank">The Church of Jesus Christ of Latter-day Saints</a></td>
+        <td></td>
+        <td>2020 San Antonio St, Austin, TX 78705</td>
+        <td>0.4</td>
+        <td>Mormon</td>
+        <td>churchofjesuschristatx@gmail.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.tccaaustin.com/ target="blank">The Church on Congress Avenue</a></td>
+        <td>10:30 AM</td>
+        <td>1511 S Congress Ave, Austin, TX 78704</td>
+        <td>2.7</td>
+        <td>Baptist</td>
+        <td>office@tccaaustin.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://gsaustin.org/ target="blank">The Episcopal Church of the Good Shepherd</a></td>
+        <td>10:30 AM</td>
+        <td>3201 Windsor Rd, Austin, TX 78703</td>
+        <td>1.8</td>
+        <td>Episcopal</td>
+        <td>None</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.tgsaca.org/ target="blank">The Good Shepherd Anglican Church</a></td>
+        <td>11:00 AM</td>
+        <td>6700 Middle Fiskville Rd Suite #403, Austin, TX 78752</td>
+        <td>3.3</td>
+        <td>Anglican</td>
+        <td>https://www.tgsaca.org/contact-us</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.thewellaustin.com/ target="blank">The Well Austin Church</a></td>
+        <td>11:15 AM<br>9:15 AM</td>
+        <td>1601 Haskell St, Austin, TX 78702</td>
+        <td>2.2</td>
+        <td>Non-denominational</td>
+        <td>https://thewellcommunitychurch.churchcenter.com/people/forms/118193</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.tbcaustin.com/ target="blank">Trinity Baptist Church</a>🎒</td>
+        <td>11:00 AM<br>6:00 PM</td>
+        <td>2305 Forbes Dr, Austin, TX 78754</td>
+        <td>5.5</td>
+        <td>Baptist</td>
+        <td>info@tbcaustin.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.trinitychurchofaustin.org/ target="blank">Trinity Church of Austin</a></td>
+        <td>11:00 AM</td>
+        <td>4001 Speedway, Austin, TX 78751</td>
+        <td>1.1</td>
+        <td>Church of Christ, Methodist</td>
+        <td>office@trinitychurchofaustin.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://www.trinityaustin.com/ target="blank">Trinity Lutheran Church</a></td>
+        <td>10:30 AM</td>
+        <td>1207 W 45th St, Austin, TX 78756</td>
+        <td>2.2</td>
+        <td>Lutheran</td>
+        <td>pastorharris@trinityaustin.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://tllc.org/ target="blank">Triumphant Love Lutheran Church</a></td>
+        <td>11:00 AM<br>9:00 AM</td>
+        <td>9508 Great Hills Trail, Austin, TX 78759</td>
+        <td>8.8</td>
+        <td>Lutheran</td>
+        <td>http://tllc.org/contact-form/</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.facebook.com/Truelbc/ target="blank">True Light Baptist Church</a></td>
+        <td>3:30 PM</td>
+        <td>True Light Baptist Church, Austin, TX 78721</td>
+        <td>3.5</td>
+        <td>Baptist</td>
+        <td>truelightbcaustin@gmail.com</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.uccaustin.org/ target="blank">United Christian Church</a></td>
+        <td>10:00 AM</td>
+        <td>3500 W Parmer Ln, Austin, TX 78727</td>
+        <td>10.8</td>
+        <td>Church of Christ</td>
+        <td>https://www.uccaustin.org/connect.html</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://uachurch.org/ target="blank">University Ave Church of Christ</a>🎒</td>
+        <td>10:30 AM<br>7:00 PM</td>
+        <td>1903 University Ave, Austin, TX 78705</td>
+        <td>0.5</td>
+        <td>Church of Christ</td>
+        <td>office@uachurch.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://ubcaustin.org/ target="blank">University Baptist Church</a>🎒</td>
+        <td>11:00 AM</td>
+        <td>2130 Guadalupe St, Austin, TX 78705</td>
+        <td>0.2</td>
+        <td>Non-denominational</td>
+        <td>Baptist</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://utcatholic.org/ target="blank">University Catholic Center</a>🎒</td>
+        <td>10:30 AM</td>
+        <td>2010 University Ave, Austin, TX 78705</td>
+        <td>0.4</td>
+        <td>Catholic</td>
+        <td>holly@utcatholic.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.ucc-austin.org/ target="blank">University Christian Church</a></td>
+        <td>10:50 AM</td>
+        <td>2007 University Ave, Austin, TX 78705</td>
+        <td>0.4</td>
+        <td>Christian Church, United Church of Christ</td>
+        <td>admin@ucc-austin.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://upcaustin.org/ target="blank">University Presbyterian Church</a>🎒</td>
+        <td>11:00 AM</td>
+        <td>2203 San Antonio St, Austin, TX 78705</td>
+        <td>0.2</td>
+        <td>Presbyterian</td>
+        <td>pastor@upcaustin.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.uumc.org/ target="blank">University United Methodist Church</a>🎒</td>
+        <td>11:00 AM<br>9:00 AM</td>
+        <td>2409 Guadalupe St, Austin, TX 78705</td>
+        <td>0.1</td>
+        <td>Methodist</td>
+        <td>office@uumc.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://vohame.org/ target="blank">Vision of Hope Church</a></td>
+        <td>11:00 AM</td>
+        <td>Richardson Ln, Austin, TX 78741</td>
+        <td>5.2</td>
+        <td>Methodist Episcopal</td>
+        <td>info@vohame.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.vivechurch.org/austin target="blank">Vive Church</a></td>
+        <td>11:30 AM<br>1:30 PM<br>3:30 PM</td>
+        <td>2105 San Antonio St, Austin, TX 78705</td>
+        <td>0.3</td>
+        <td>C3 Church Global</td>
+        <td>viveaustin@vivechurch.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://walnutcreekbaptistchurch.com/ target="blank">Walnut Creek Baptist Church</a></td>
+        <td>10:45 AM<br>6:00 PM</td>
+        <td>12062 N Lamar Blvd, Austin, TX 78753</td>
+        <td>8.6</td>
+        <td>Baptist</td>
+        <td>https://walnutcreekbaptistchurch.com/contact-us/</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://wesleyunited.org/ target="blank">Wesley United Methodist Church</a></td>
+        <td>10:00 AM</td>
+        <td>1164 San Bernard St, Austin, TX 78702</td>
+        <td>1</td>
+        <td>Methodist</td>
+        <td>thedeskofwesley@sbcglobal.net</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://wpcaustin.org/ target="blank">Westminster Presbyterian Church</a></td>
+        <td>11:00 AM</td>
+        <td>3208 Exposition Blvd, Austin, TX 78703</td>
+        <td>2.5</td>
+        <td>Presbyterian</td>
+        <td>https://wpcaustin.org/contact-us/</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://westover.org/ target="blank">Westover Hills Church of Christ</a>🎒</td>
+        <td>10:30 AM</td>
+        <td>8332 Mesa Dr, Austin, TX 78759</td>
+        <td>7.3</td>
+        <td>Church of Christ</td>
+        <td>info@westover.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://wildflowerchurch.org/ target="blank">Wildflower Church</a></td>
+        <td>11:30 AM</td>
+        <td>1314 E Oltorf St, Austin, TX 78704</td>
+        <td>4.2</td>
+        <td>Unitarian Universalist</td>
+        <td>office@wildflowerchurch.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=http://woodlawnbc.org/ target="blank">Woodlawn Baptist Church</a></td>
+        <td>11:00 AM<br>9:00 AM</td>
+        <td>4600 Menchaca Rd, Austin, TX 78745</td>
+        <td>6.1</td>
+        <td>Baptist</td>
+        <td>woodlawn@woodlawnbc.org</td>
+    </tr>
+
+    <tr>
+        <td><a href=https://www.zionrestmbc.org/ target="blank">Zion Hill Baptist Church</a></td>
+        <td>8:00 AM<br>11:00 AM</td>
+        <td>1701 Chestnut Ave, Austin, TX 78702</td>
+        <td>1</td>
+        <td>Baptist</td>
+        <td>zionrestbc@outlook.com</td>
     </tr>
 
 </table>
