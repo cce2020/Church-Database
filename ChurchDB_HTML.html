@@ -1,71 +1,30 @@
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Spartan">  <!-- Access to Google Fonts API -->
-<div style="overflow-x:auto;">
-<input type="checkbox" id="colMin" name="collegeMin">
-    <label for="colMin">
-🎒: College Ministry Available</label><br>
+<html>
 
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>repl.it</title>
+	<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<!-- <button type="button" class="collapsible">Time</button> -->
 <button type="button" class="collapsible">Time</button>
 <div class="content">
-    <input type="checkbox" name="time" id="67">
-        <label for="67"> 6:00 AM - 7:00 AM</label><br>
-    <input type="checkbox" name="time" id="78">
-        <label for="78"> 7:00 AM - 8:00 AM</label><br>
-    <input type="checkbox" name="time" id="89">
-        <label for="89"> 8:00 AM - 9:00 AM</label><br>
-    <input type="checkbox" name="time" id="910">
-        <label for="910"> 9:00 AM - 10:00 AM</label><br>
-    <input type="checkbox" name="time" id="1011">
-        <label for="1011"> 10:00 AM - 11:00 AM</label><br>
-    <input type="checkbox" name="time" id="1112">
-        <label for="1112"> 11:00 AM - 12:00 PM</label><br>
-    <input type="checkbox" name="time" id="1213">
-        <label for="1213"> 12:00 PM - 1:00 PM</label><br>
-    <input type="checkbox" name="time" id="1314">
-        <label for="1314"> 1:00 PM - 2:00 PM</label><br>
-    <input type="checkbox" name="time" id="1415">
-        <label for="1415"> 2:00 PM - 3:00 PM</label><br>
-    <input type="checkbox" name="time" id="1516">
-        <label for="1516"> 3:00 PM - 4:00 PM</label><br>
-    <input type="checkbox" name="time" id="1617">
-        <label for="1617"> 4:00 PM - 5:00 PM</label><br>
-    <input type="checkbox" name="time" id="1718">
-        <label for="1718"> 5:00 PM - 6:00 PM</label><br>
-    <input type="checkbox" name="time" id="1819">
-        <label for="1819"> 6:00 PM - 7:00 PM</label><br>
-    <input type="checkbox" name="time" id="1920">
-        <label for="1920"> 7:00 PM - 8:00 PM</label><br>
-    <input type="checkbox" name="time" id="2021">
-        <label for="2021"> 8:00 PM - 9:00 PM</label><br>
-    <input type="checkbox" name="time" id="2122">
-        <label for="2122"> 9:00 PM - 10:00 PM</label><br>
-    <input type="checkbox" name="time" id="2223">
-        <label for="2223"> 10:00 PM - 11:00 PM</label><br>
-    <input type="checkbox" name="time" id="2324">
-        <label for="2324"> 11:00 PM - 12:00 AM</label><br>
+	<div id="time-range">
+		<p>Time Range: <span class="slider-time" id="time1">10:00 AM</span> - <span class="slider-time2" id="time2">12:00 PM</span></p>
+		<div id="slider-range"></div>
+	</div>
 </div>
 
 <button type="button" class="collapsible">Distance (miles)</button>
 <div class="content">
-    <input type="checkbox" name="distance" id="1">
-        <label for="1"> 1</label><br>
-    <input type="checkbox" name="distance" id="2">
-        <label for="2"> 2</label><br>
-    <input type="checkbox" name="distance" id="3">
-        <label for="3"> 3</label><br>
-    <input type="checkbox" name="distance" id="4">
-        <label for="4"> 4</label><br>
-    <input type="checkbox" name="distance" id="5">
-        <label for="5"> 5</label><br>
-    <input type="checkbox" name="distance" id="6">
-        <label for="6"> 6</label><br>
-    <input type="checkbox" name="distance" id="7">
-        <label for="7"> 7</label><br>
-    <input type="checkbox" name="distance" id="8">
-        <label for="8"> 8</label><br>
-    <input type="checkbox" name="distance" id="9">
-        <label for="9"> 9</label><br>
-    <input type="checkbox" name="distance" id="10">
-        <label for="10"> 10</label><br>
+	<div id="dist-range">
+			<p>Distance Range: <span class="slider-dist" id="dist1">4 miles </span> - <span class="slider-dist2" id="dist2">6 miles</span></p>
+			<div class="sliders_step1">
+			<div id="slider-range2"></div>
+			</div>
+	</div>
 </div>
 
 <button type="button" class="collapsible">Denominations</button>
@@ -85,7 +44,18 @@
     <input type="checkbox" name="denomination" id="Episcopal">
         <label for="Episcopal"> Episcopal</label><br>
 </div>
-  
+
+<br>
+
+	<!-- Access to Google Fonts API -->
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Spartan">
+	<div class="wrapper" style="overflow-x:scroll;">
+
+		<input type="checkbox" id="colMin" name="collegeMin">
+    <label for="colMin">🎒: College Ministry Available</label><br>
+
+	<br>
+	
 <button type="button" id= "showResults" onclick="submit()">Click For Results</button>
 
 <table id="myTable">
@@ -1829,3 +1799,9 @@
 </table>
 </div>
 
+<link href = "https://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css" rel = "stylesheet">
+<script src = "https://code.jquery.com/jquery-1.10.2.js"></script>
+<script src = "https://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+<script src="script.js"></script>
+  </body>
+</html>
