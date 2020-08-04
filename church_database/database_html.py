@@ -41,13 +41,33 @@ def mil2std(time):
     return('{}:{} {}'.format(hr, min, apm))
 
 # Setting up HTML
-print("\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css?family=Spartan\">  <!-- Access to Google Fonts API -->")
-print("<div style=\"overflow-x:auto;\">")
+print("<html>")
+print("<head>")
+print("    <meta charset=\"utf-8\">")
+print("    <meta name=\"viewport\" content=\"width=device-width\">")
+print("    <title>repl.it</title>")
+print("    <link href=\"style.css\" rel=\"stylesheet\" type=\"text/css\" />")
+print("</head>")
 
-# Checkbox for College Ministry
-print("<input type=\"checkbox\" id=\"colMin\" onclick=\"myFunction()\">")
-print("    <label for=\"colMin\">\n\U0001F392: College Ministry Available</label><br>")
+print("<body>")
 
+# Slider for Time
+print("<button type=\"button\" class=\"collapsible\">Time</button>")
+print("<div class=\"content\">")
+print("	<div id=\"time-range\">")
+print("		<p>Time Range: <span class=\"slider-time\" id=\"time1\">10:00 AM</span> - <span class=\"slider-time2\" id=\"time2\">12:00 PM</span></p>")
+print("		<div id=\"slider-range\"></div>")
+print("	</div>")
+print("</div>")
+
+# Slider for Distance
+print("<button type=\"button\" class=\"collapsible\">Distance</button>")
+print("<div class=\"content\">")
+print("	<div id=\"dist-range\">")
+print("		<p>Distance Range: <span class=\"slider-dist\" id=\dist1\">4 miles</span> - <span class=\"slider-dist2\" id=\"dist2\">6 miles</span></p>")
+print("		<div id=\"slider-range2\"></div>")
+print("	</div>")
+print("</div>")
 
 # Checkbox for Time
 print()
@@ -80,6 +100,14 @@ for i in denomination:
     print("    <input type=\"checkbox\" name=\"denomination\" id=\"{}\">".format(i))
     print("        <label for=\"{}\"> {}</label><br>".format(i, i))
 print("</div>")
+print("<br>")
+
+# Checkbox for College Ministry
+print("\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css?family=Spartan\">  <!-- Access to Google Fonts API -->")
+print("<div style=\"overflow-x:auto;\">")
+print("<input type=\"checkbox\" id=\"colMin\" onclick=\"myFunction()\">")
+print("    <label for=\"colMin\">\n\U0001F392: College Ministry Available</label><br>")
+print("<br>")
 
 # Create Table
 print()
@@ -153,5 +181,11 @@ while(notEmpty):
 
 print()
 print("</table>\n</div>\n")
+print("<link href = \"https://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css\" rel = \"stylesheet\">")
+print("<script src = \"https://code.jquery.com/jquery-1.10.2.js\"></script>")
+print("<script src = \"https://code.jquery.com/ui/1.10.4/jquery-ui.js\"></script>")
+print("<script src=\"script.js\"></script>")
+print("  </body>")
+print("</html>")
 
 sys.stdout.close()
