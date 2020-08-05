@@ -73,23 +73,11 @@ print("</div>")
 print()
 print("<button type=\"button\" class=\"collapsible\">Time</button>")
 print("<div class=\"content\">")
-for i in range(6,24):
-    print("    <input type=\"checkbox\" name=\"time\" id=\"{}{}\">".format(i, i+1))
-    time = "{}:00".format(i)
-    hr1 = mil2std(time)
-    time = "{}:00".format(i+1)
-    hr2 = mil2std(time)
-    print("        <label for=\"{}{}\"> {} - {}</label><br>".format(i, i+1, hr1, hr2))
-print("</div>")
 
 # Checkbox for Distnace
 print()
 print("<button type=\"button\" class=\"collapsible\">Distance (miles)</button>")
 print("<div class=\"content\">")
-for i in range(1,11):
-    print("    <input type=\"checkbox\" name=\"distance\" id=\"{}\">".format(i))
-    print("        <label for=\"{}\"> {}</label><br>".format(i, i))
-print("</div>")
 
 # Checkbox for Denomination
 print()
@@ -108,6 +96,8 @@ print("<div style=\"overflow-x:auto;\">")
 print("<input type=\"checkbox\" id=\"colMin\" onclick=\"myFunction()\">")
 print("    <label for=\"colMin\">\n\U0001F392: College Ministry Available</label><br>")
 print("<br>")
+
+print("<button type=\"button\" id= \"showResults\" onclick=\"submit()\">Click For Results</button>")
 
 # Create Table
 print()
