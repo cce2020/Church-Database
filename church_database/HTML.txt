@@ -1,9 +1,25 @@
-
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Spartan">  <!-- Access to Google Fonts API -->
-<div style="overflow-x:auto;">
-<input type="checkbox" id="colMin" onclick="myFunction()">
-    <label for="colMin">
-🎒: College Ministry Available</label><br>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<button type="button" class="collapsible">Time</button>
+<div class="content">
+	<div id="time-range">
+		<p>Time Range: <span class="slider-time" id="time1">10:00 AM</span> - <span class="slider-time2" id="time2">12:00 PM</span></p>
+		<div id="slider-range"></div>
+	</div>
+</div>
+<button type="button" class="collapsible">Distance</button>
+<div class="content">
+	<div id="dist-range">
+		<p>Distance Range: <span class="slider-dist" id=\dist1">4 miles</span> - <span class="slider-dist2" id="dist2">6 miles</span></p>
+		<div id="slider-range2"></div>
+	</div>
+</div>
 
 <button type="button" class="collapsible">Time</button>
 <div class="content">
@@ -86,6 +102,14 @@
     <input type="checkbox" name="denomination" id="Episcopal">
         <label for="Episcopal"> Episcopal</label><br>
 </div>
+<br>
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Spartan">  <!-- Access to Google Fonts API -->
+<div style="overflow-x:auto;">
+<input type="checkbox" id="colMin" onclick="myFunction()">
+    <label for="colMin">
+🎒: College Ministry Available</label><br>
+<br>
 
 <table id="myTable">
     <tr class="header">
@@ -1864,3 +1888,9 @@
 </table>
 </div>
 
+<link href = "https://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css" rel = "stylesheet">
+<script src = "https://code.jquery.com/jquery-1.10.2.js"></script>
+<script src = "https://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
+<script src="script.js"></script>
+  </body>
+</html>
