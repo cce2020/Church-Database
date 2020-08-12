@@ -100,6 +100,7 @@ function sortTable(n) {
 			}
 		}
 	}
+	zebraPattern();
 }
 
 var coll = document.getElementsByClassName("collapsible");
@@ -120,30 +121,34 @@ for (i = 0; i < coll.length; i++) {
 // Filter function once button is clicked
 function submit() {
 	// Init arrays, table, and checked checkboxes
-	var CBcollegeMin = false;
+	var CBcollegeMin, timeCheckAll, distCheckAll = false;
 	var rows = document.getElementById("myTable").rows;
 	var checkedBoxes = document.querySelectorAll('input[type=checkbox]:checked');
 
 	// Sort columns/categories of checked checkboxes
-	var CBdistance = [];
 	var CBdenomination = [];
 	for (var cb of checkedBoxes) {
-		if (cb.name == "distance") {
-			CBdistance.push(cb.id);
-		} else if (cb.name == "denomination") {
+		if (cb.name == "denomination") {
 			CBdenomination.push(cb.id);
-		} else if (cb.name == "collegeMin") {
+		} else if (cb.name == "colMin") {
 			CBcollegeMin = true;
+		} else if (cb.name == "timeCheck") {
+			timeCheckAll = true;
+		} else if (cb.name == "distCheck") {
+			distCheckAll = true;
 		}
 	}
 
 	// Bools to check if no checkboxes were selected for each column/category
-	var distanceArrayExists = Array.isArray(CBdistance) && CBdistance.length;
 	var denominationArrayExists = Array.isArray(CBdenomination) && CBdenomination.length;
 	var inTime, inDistance, inDenomination, inCollegeMin = false;
 	var time, timeList, timeLeft, colonIndex, distance;
 	var startTime = timeToDateObj(document.getElementById("time1").innerHTML);
 	var endTime = timeToDateObj(document.getElementById("time2").innerHTML);
+	var minDist = document.getElementById("dist1").innerHTML;
+	var maxDist = document.getElementById("dist2").innerHTML;
+	minDist = parseInt(minDist.substring(0, minDist.indexOf("m")-1));
+	maxDist = parseInt(maxDist.substring(0, maxDist.indexOf("m")-1));
 
 	// Checks every row
 	// If any of the conditions are broken, hide current row and move on to next one
@@ -173,15 +178,14 @@ function submit() {
 		}
 
 		// Distance Check
-		distance = Math.ceil(rows[i].cells[3].innerHTML).toString();
-		inDistance = CBdistance.includes(distance);
+		distance = parseFloat(rows[i].cells[3].innerHTML);
+		inDistance = distance >= minDist && distance <= maxDist
 
 		// Denomination and College Ministry Check 
 		inDenomination = CBdenomination.includes(rows[i].cells[4].innerHTML);
 		inCollegeMin = rows[i].cells[0].innerHTML.includes("🎒");
 
-		if ((!inTime) ||
-			(distanceArrayExists && !inDistance) ||
+		if ((!inTime && !timeCheckAll) || (!inDistance && !distCheckAll) ||
 			(denominationArrayExists && !inDenomination) ||
 			(CBcollegeMin && !inCollegeMin)) {
 			rows[i].style.display = "none";
@@ -189,19 +193,7 @@ function submit() {
 			rows[i].style.display = "";
 		}
 	}
-
-	// Reapply zebra pattern
-	var even = false;
-	for (i = 1; i < rows.length-1; i++) {
-		if (rows[i].style.display == "") {
-			if (even) {
-				rows[i].style.backgroundColor = "white";
-			} else {
-				rows[i].style.backgroundColor = "#f2f2f2";
-			}
-			even = !even;
-		}
-	}
+	zebraPattern();
 }
 
 
@@ -224,6 +216,24 @@ function timeToDateObj(time) {
 		date = new Date(2020, 1, 1, hour, minute);
 	}
 	return date;
+}
+
+// Reapply zebra pattern
+function zebraPattern() {
+	var count = 0;
+	var rows = document.getElementById("myTable").rows;
+	var even = false;
+	for (i = 1; i < rows.length-1; i++) {
+		if (rows[i].style.display == "") {
+			if (even) {
+				rows[i].style.backgroundColor = "white";
+			} else {
+				rows[i].style.backgroundColor = "#f2f2f2";
+			}
+			even = !even;
+			count++;
+		}
+	}
 }
 
 // Slider function in jQuery
