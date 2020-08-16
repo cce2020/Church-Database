@@ -6,6 +6,7 @@
     <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
+<div class="wrapper">
 <button type="button" class="collapsible">Time</button>
 <div class="content">
 	<div id="time-range">
@@ -21,16 +22,10 @@
 	</div>
 </div>
 
-<button type="button" class="collapsible">Time</button>
-<div class="content">
-
-<button type="button" class="collapsible">Distance (miles)</button>
-<div class="content">
-
 <button type="button" class="collapsible">Denominations</button>
 <div class="content">
-    <input type="checkbox" name="denomination" id="Angelican">
-        <label for="Angelican"> Angelican</label><br>
+    <input type="checkbox" name="denomination" id="Anglican">
+        <label for="Anglican"> Anglican</label><br>
     <input type="checkbox" name="denomination" id="Baptist">
         <label for="Baptist"> Baptist</label><br>
     <input type="checkbox" name="denomination" id="Lutheranism">
@@ -45,10 +40,7 @@
         <label for="Episcopal"> Episcopal</label><br>
 </div>
 <br>
-
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Spartan">  <!-- Access to Google Fonts API -->
-<div style="overflow-x:auto;">
-<input type="checkbox" id="colMin" onclick="myFunction()">
+<input type="checkbox" id="colMin" name="colMin">
     <label for="colMin">
 🎒: College Ministry Available</label><br>
 <br>
@@ -1829,11 +1821,11 @@
     </tr>
 
 </table>
-</div>
-
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Spartan">  <!-- Access to Google Fonts API -->
 <link href = "https://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css" rel = "stylesheet">
 <script src = "https://code.jquery.com/jquery-1.10.2.js"></script>
 <script src = "https://code.jquery.com/ui/1.10.4/jquery-ui.js"></script>
 <script src="script.js"></script>
+</div>
   </body>
 </html>

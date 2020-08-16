@@ -52,6 +52,7 @@ print("</head>")
 print("<body>")
 
 # Slider for Time
+print("<div class=\"wrapper\">")
 print("<button type=\"button\" class=\"collapsible\">Time</button>")
 print("<div class=\"content\">")
 print("	<div id=\"time-range\">")
@@ -69,21 +70,11 @@ print("		<div id=\"slider-range2\"></div>")
 print("	</div>")
 print("</div>")
 
-# Checkbox for Time
-print()
-print("<button type=\"button\" class=\"collapsible\">Time</button>")
-print("<div class=\"content\">")
-
-# Checkbox for Distnace
-print()
-print("<button type=\"button\" class=\"collapsible\">Distance (miles)</button>")
-print("<div class=\"content\">")
-
 # Checkbox for Denomination
 print()
 print("<button type=\"button\" class=\"collapsible\">Denominations</button>")
 print("<div class=\"content\">")
-denomination = ['Angelican', 'Baptist', 'Lutheranism', 'Christian Church', 'Presbyterian', 'Methodist', 'Episcopal']
+denomination = ['Anglican', 'Baptist', 'Lutheranism', 'Christian Church', 'Presbyterian', 'Methodist', 'Episcopal']
 for i in denomination:
     print("    <input type=\"checkbox\" name=\"denomination\" id=\"{}\">".format(i))
     print("        <label for=\"{}\"> {}</label><br>".format(i, i))
@@ -91,10 +82,9 @@ print("</div>")
 print("<br>")
 
 # Checkbox for College Ministry
-print("\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css?family=Spartan\">  <!-- Access to Google Fonts API -->")
-print("<div style=\"overflow-x:auto;\">")
-print("<input type=\"checkbox\" id=\"colMin\" onclick=\"myFunction()\">")
-print("    <label for=\"colMin\">\n\U0001F392: College Ministry Available</label><br>")
+print("<input type=\"checkbox\" id=\"colMin\" name=\"colMin\">")
+print("    <label for=\"colMin\">")
+print("🎒: College Ministry Available</label><br>")
 print("<br>")
 
 print("<button type=\"button\" id= \"showResults\" onclick=\"submit()\">Click For Results</button>")
@@ -168,13 +158,14 @@ while(notEmpty):
     if not name:
         notEmpty = 0
 
-
 print()
-print("</table>\n</div>\n")
+print("</table>")
+print("<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css?family=Spartan\">  <!-- Access to Google Fonts API -->")
 print("<link href = \"https://code.jquery.com/ui/1.10.4/themes/ui-lightness/jquery-ui.css\" rel = \"stylesheet\">")
 print("<script src = \"https://code.jquery.com/jquery-1.10.2.js\"></script>")
 print("<script src = \"https://code.jquery.com/ui/1.10.4/jquery-ui.js\"></script>")
 print("<script src=\"script.js\"></script>")
+print("</div>")
 print("  </body>")
 print("</html>")
 
