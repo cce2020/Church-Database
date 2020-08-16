@@ -1,5 +1,9 @@
-div {
+* {
   font-family: Spartan, sans-serif;  /* Select font: Spartan */
+}
+
+.wrapper {	/* Allows horizontal scroll bar to always be visible */
+	height: 97vh;
 }
 
 /* Collapsible */
@@ -14,8 +18,8 @@ div {
   border: none;
   text-align: left;
   outline: none;
-  font-family: Spartan, sans-serif;  /* Select font: Spartan */
   font-size: 18px;
+  margin-top: 10px;
 }
 
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
@@ -31,6 +35,11 @@ div {
   transition: max-height 0.2s ease-out;
 }
 
+.content:last-child {
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
 .collapsible::after {
   content: '\002B';
   color: white;
@@ -43,6 +52,37 @@ div {
   content: "\2212"; /* Unicode character for "minus" sign (-) */
 }
 
+#time-range, #dist-range {
+	padding-bottom: 4px;
+}
+
+/* Submit Button */
+
+#showResults {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 12px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+	outline: none;
+  box-shadow: 0 6px #919191;
+}
+
+#showResults:hover {
+  background-color: #47964b
+}
+
+#showResults:active {
+	background-color: #337d37;
+  box-shadow: 0 3px #777;
+  transform: translateY(3px);
+}
 
 /* Table */
 
@@ -50,6 +90,7 @@ div {
   font-size: 18px;  /* Increase font-size */
   border-collapse: collapse;  /* Collapse borders */
   width: 100%;  /* Full-width */
+
 }
 
 #myTable th {
