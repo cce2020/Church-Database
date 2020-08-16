@@ -10,6 +10,8 @@
 <button type="button" class="collapsible">Time</button>
 <div class="content">
 	<div id="time-range">
+     <input type="checkbox" id="timeCheck" name="timeCheck">
+     <label for="timeCheck">Check all times?</label><br>
 		<p>Time Range: <span class="slider-time" id="time1">10:00 AM</span> - <span class="slider-time2" id="time2">12:00 PM</span></p>
 		<div id="slider-range"></div>
 	</div>
@@ -17,6 +19,8 @@
 <button type="button" class="collapsible">Distance</button>
 <div class="content">
 	<div id="dist-range">
+     <input type="checkbox" id="distCheck" name="distCheck">
+     <label for="distCheck">Check all distances?</label><br>
 		<p>Distance Range: <span class="slider-dist" id=\dist1">4 miles</span> - <span class="slider-dist2" id="dist2">6 miles</span></p>
 		<div id="slider-range2"></div>
 	</div>
