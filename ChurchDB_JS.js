@@ -103,6 +103,7 @@ function sortTable(n) {
 	zebraPattern();
 }
 
+// For animating collapsibles
 var coll = document.getElementsByClassName("collapsible");
 var i;
 
@@ -114,6 +115,29 @@ for (i = 0; i < coll.length; i++) {
 			content.style.maxHeight = null;
 		} else {
 			content.style.maxHeight = content.scrollHeight + "px";
+		}
+	});
+}
+
+// For disappearing sliders when "Check all..." is selected
+var collChecks = document.getElementsByClassName("collCheck");
+var rangeText = document.getElementsByClassName("rangeText");
+var j;
+
+for (j = 0; j < collChecks.length; j++) {
+	collChecks[j].addEventListener("click", function() {
+		var slider;
+		if (this.id == "timeCheck") {
+			slider = rangeText[0];
+		} else if (this.id == "distCheck") {
+			slider = rangeText[1];
+		}
+		if (slider.style.display == "none") {
+			slider.style.display = "";
+			slider.nextElementSibling.style.display = "";
+		} else if (slider.style.display == "") {
+			slider.style.display = "none";
+			slider.nextElementSibling.style.display = "none";
 		}
 	});
 }
@@ -236,8 +260,8 @@ function zebraPattern() {
 	}
 }
 
-// Slider function in jQuery
-// Time
+// Slider functions in jQuery
+// Slider for time
 $(function() {
   $("#slider-range").slider({
 		range: true,
@@ -298,6 +322,7 @@ $(function() {
 	});
 });
 
+// Slider for distance
 $(function() {
 	$("#slider-range2").slider({
     range: true,
