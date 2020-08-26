@@ -119,25 +119,27 @@ for (i = 0; i < coll.length; i++) {
 	});
 }
 
-// For disappearing sliders when "Check all..." is selected
+// For disappearing sliders when "Check all..." is selected🔒
 var collChecks = document.getElementsByClassName("collCheck");
-var rangeText = document.getElementsByClassName("rangeText");
-var j;
+var disableElem = document.getElementsByClassName("disableElement");
+var ranges = document.getElementsByClassName("rangeText");
+var j, currentSlider, currentRange;
 
 for (j = 0; j < collChecks.length; j++) {
 	collChecks[j].addEventListener("click", function() {
-		var slider;
 		if (this.id == "timeCheck") {
-			slider = rangeText[0];
+			currentSlider = disableElem[0];
+			currentRange = ranges[0];
 		} else if (this.id == "distCheck") {
-			slider = rangeText[1];
+			currentSlider = disableElem[1];
+			currentRange = ranges[1];
 		}
-		if (slider.style.display == "none") {
-			slider.style.display = "";
-			slider.nextElementSibling.style.display = "";
-		} else if (slider.style.display == "") {
-			slider.style.display = "none";
-			slider.nextElementSibling.style.display = "none";
+		currentSlider.classList.toggle("disable");
+
+		if (currentRange.innerHTML.includes("🔒")) {
+			currentRange.innerHTML = currentRange.innerHTML.slice(0,-30);
+		} else {
+			currentRange.insertAdjacentHTML('beforeend',"<span id='secondText'> 🔒</span>");
 		}
 	});
 }
