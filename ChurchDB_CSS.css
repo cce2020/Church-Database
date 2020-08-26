@@ -22,6 +22,23 @@
   margin-top: 10px;
 }
 
+/* Disable highlight text on "Check all..." */
+.checkLabel {
+	user-select: none;
+}
+
+/* Disable user interaction when "Check all..." is selected */
+.disable {
+	pointer-events: none;
+	color: gray;
+	opacity: 60%;
+}
+
+/* Lock font smaller so that slider doesn't move when checked */
+#secondText {
+	font-size: 13px;
+}
+
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
 .active, .collapsible:hover {
   background-color: #aaa;
